@@ -1,0 +1,18 @@
+condition,claims,sentences_removed_min,supported,not_supported,unclear,gold_match
+original top-5,32,0,32,0,0,31
+evidence removed,32,0,32,0,0,31
+highest SHAP 1 removed,32,1,27,5,0,26
+highest SHAP 3 removed,32,3,24,8,0,23
+highest SHAP 5 removed,32,5,23,9,0,23
+highest SHAP 7 removed,32,7,22,9,1,22
+highest SHAP 10 removed,32,7,21,9,2,21
+lowest SHAP 1 removed,32,1,31,1,0,30
+lowest SHAP 3 removed,32,3,32,0,0,31
+lowest SHAP 5 removed,32,5,32,0,0,31
+lowest SHAP 7 removed,32,7,32,0,0,31
+lowest SHAP 10 removed,32,10,32,0,0,31
+random 1 removed,32,1,31,1,0,30
+random 3 removed,32,3,31,1,0,30
+random 5 removed,32,5,30,2,0,30
+random 7 removed,32,7,30,2,0,30
+random 10 removed,32,10,30,2,0,29

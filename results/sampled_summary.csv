@@ -1,0 +1,588 @@
+condition,claim_id,gold,majority,agreement,confidence,gold_match
+original,c001,supported,supported,1.0,1.0,True
+evidence_removed,c001,supported,supported,1.0,0.9999961853100103,True
+original,c002,unclear,not supported,1.0,0.9974330682152166,False
+evidence_removed,c002,unclear,not supported,1.0,0.9999877930502403,False
+original,c003,supported,supported,1.0,1.0,True
+original,c004,unclear,not supported,1.0,0.8374815350383734,False
+evidence_removed,c004,unclear,not supported,1.0,0.7573682741926013,False
+original,c005,supported,supported,1.0,0.9998184371409067,True
+evidence_removed,c005,supported,supported,0.8,0.8482989697128411,True
+original,c006,not supported,not supported,0.6,0.4963689117961543,True
+original,c007,supported,supported,1.0,0.9999961853100103,True
+original,c008,supported,supported,1.0,0.9999923706345724,True
+original,c009,supported,supported,1.0,1.0,True
+evidence_removed,c009,supported,supported,1.0,1.0,True
+original,c010,not supported,not supported,1.0,1.0,True
+evidence_removed,c010,not supported,supported,1.0,0.7473035434024539,False
+original,c011,unclear,not supported,1.0,0.996702927253366,False
+original,c012,supported,supported,1.0,1.0,True
+evidence_removed,c012,supported,supported,1.0,0.9999977111860062,True
+original,c013,supported,not supported,1.0,1.0,False
+original,c014,not supported,not supported,1.0,0.9998329304892575,True
+original,c015,supported,supported,1.0,0.9999961853100103,True
+evidence_removed,c015,supported,supported,1.0,0.9624811339002968,True
+original,c016,supported,supported,1.0,0.9999992370620021,True
+evidence_removed,c016,supported,supported,1.0,0.996378968086141,True
+original,c017,not supported,supported,1.0,0.9999961853100103,False
+original,c018,not supported,not supported,1.0,1.0,True
+evidence_removed,c018,not supported,not supported,1.0,0.9641599540387297,True
+original,c019,supported,supported,1.0,0.9999008229582635,True
+evidence_removed,c019,supported,supported,1.0,0.9988067182209498,True
+original,c020,supported,supported,1.0,1.0,True
+evidence_removed,c020,supported,supported,1.0,0.999986267185886,True
+original,c021,supported,supported,1.0,1.0,True
+evidence_removed,c021,supported,supported,1.0,1.0,True
+original,c022,not supported,not supported,1.0,0.9999877930444196,True
+original,c023,not supported,not supported,1.0,0.9986147118412283,True
+original,c024,supported,supported,1.0,1.0,True
+original,c025,supported,not supported,1.0,0.964093042720282,False
+original,c026,supported,supported,1.0,1.0,True
+evidence_removed,c026,supported,supported,1.0,0.999951173108981,True
+original,c027,supported,supported,1.0,0.9999984741240041,True
+evidence_removed,c027,supported,supported,1.0,0.9999984741240041,True
+original,c028,supported,supported,1.0,1.0,True
+evidence_removed,c028,supported,supported,1.0,0.9999969482480082,True
+original,c029,supported,supported,1.0,1.0,True
+evidence_removed,c029,supported,supported,1.0,0.9999969482480082,True
+original,c030,supported,supported,1.0,0.9999542247154574,True
+original,c031,supported,supported,1.0,1.0,True
+evidence_removed,c031,supported,supported,1.0,1.0,True
+original,c032,supported,supported,1.0,0.9999809266955697,True
+evidence_removed,c032,supported,supported,1.0,0.9999809266955697,True
+original,c033,supported,supported,1.0,1.0,True
+evidence_removed,c033,supported,supported,1.0,0.9998947199723052,True
+original,c034,supported,supported,1.0,1.0,True
+evidence_removed,c034,supported,supported,1.0,1.0,True
+original,c035,unclear,supported,1.0,1.0,False
+evidence_removed,c035,unclear,supported,1.0,0.9999969482480082,False
+original,c036,supported,not supported,1.0,0.9793801287267175,False
+original,c037,not supported,not supported,1.0,1.0,True
+original,c038,supported,supported,1.0,0.9999946594398352,True
+original,c039,supported,supported,1.0,1.0,True
+original,c040,unclear,not supported,1.0,0.9448696894631127,False
+evidence_removed,c040,unclear,not supported,1.0,0.9199437843940906,False
+original,c041,supported,supported,1.0,1.0,True
+evidence_removed,c041,supported,supported,1.0,1.0,True
+original,c042,not supported,not supported,1.0,1.0,True
+evidence_removed,c042,not supported,not supported,1.0,1.0,True
+original,c043,supported,supported,1.0,1.0,True
+evidence_removed,c043,supported,supported,1.0,1.0,True
+original,c044,supported,supported,1.0,1.0,True
+evidence_removed,c044,supported,supported,1.0,0.9999702458051571,True
+original,c045,supported,supported,1.0,0.9993075105025673,True
+original,c046,unclear,unclear,0.6,0.5133650220375642,True
+original,c047,supported,supported,1.0,1.0,True
+evidence_removed,c047,supported,supported,1.0,0.9999862672440927,True
+original,c048,not supported,not supported,1.0,0.9995423442829778,True
+original,c049,supported,supported,1.0,1.0,True
+evidence_removed,c049,supported,supported,1.0,1.0,True
+original,c050,supported,supported,1.0,1.0,True
+evidence_removed,c050,supported,supported,1.0,0.9997406370813335,True
+original,c051,supported,supported,1.0,0.9999984741240041,True
+evidence_removed,c051,supported,supported,1.0,0.9972039913265297,True
+original,c052,supported,supported,1.0,0.9999961853100103,True
+evidence_removed,c052,supported,supported,1.0,1.0,True
+original,c053,not supported,not supported,1.0,1.0,True
+original,c054,supported,supported,1.0,1.0,True
+evidence_removed,c054,supported,supported,1.0,1.0,True
+original,c055,supported,supported,1.0,0.9999977111889166,True
+evidence_removed,c055,supported,supported,1.0,0.9999336265187073,True
+original,c056,supported,unclear,0.6,0.40779072407734307,False
+original,c057,supported,supported,1.0,0.9999877930444196,True
+evidence_removed,c057,supported,supported,1.0,0.9998870914100977,True
+original,c058,supported,supported,1.0,0.9999755862634598,True
+evidence_removed,c058,supported,supported,0.8,0.7179931938557352,True
+original,c059,supported,supported,1.0,0.9999992370620021,True
+evidence_removed,c059,supported,supported,1.0,0.9922531092694555,True
+original,c060,unclear,not supported,1.0,0.9999443072897976,False
+evidence_removed,c060,unclear,not supported,1.0,1.0,False
+original,c061,supported,supported,1.0,0.9941560475175107,True
+original,c062,supported,supported,1.0,0.9999992370620021,True
+evidence_removed,c062,supported,not supported,1.0,0.9426286332594966,False
+original,c063,supported,supported,1.0,1.0,True
+evidence_removed,c063,supported,supported,1.0,0.9999870301151528,True
+original,c064,not supported,supported,1.0,0.9428830052530678,False
+original,c065,not supported,supported,1.0,0.9998664945083545,False
+original,c066,supported,not supported,1.0,0.7912516074113547,False
+original,c067,unclear,not supported,1.0,0.9775870542506505,False
+highest_1,c001,supported,not supported,0.6,0.44769767754570805,False
+highest_1,c005,supported,not supported,1.0,0.7597018529786006,False
+highest_1,c009,supported,supported,1.0,1.0,True
+highest_1,c012,supported,supported,1.0,0.9998672580487202,True
+highest_1,c015,supported,not supported,1.0,0.7853331508454504,False
+highest_1,c016,supported,supported,1.0,0.9604349715980384,True
+highest_1,c019,supported,supported,1.0,0.9995583564754315,True
+highest_1,c020,supported,not supported,1.0,0.9176342607316927,False
+highest_1,c021,supported,supported,1.0,1.0,True
+highest_1,c026,supported,supported,1.0,0.9999732974756593,True
+highest_1,c027,supported,supported,1.0,0.917986122689123,True
+highest_1,c028,supported,supported,1.0,1.0,True
+highest_1,c029,supported,supported,1.0,1.0,True
+highest_1,c031,supported,supported,1.0,0.927958231891467,True
+highest_1,c032,supported,supported,1.0,0.9999786379252311,True
+highest_1,c033,supported,supported,1.0,0.9996750409598333,True
+highest_1,c034,supported,supported,1.0,1.0,True
+highest_1,c035,unclear,supported,0.8,0.7590748749221876,False
+highest_1,c041,supported,supported,1.0,1.0,True
+highest_1,c043,supported,supported,1.0,0.9999992370620021,True
+highest_1,c044,supported,supported,1.0,0.9964701354561208,True
+highest_1,c047,supported,supported,1.0,0.9999992370620021,True
+highest_1,c049,supported,supported,1.0,0.9999977111860062,True
+highest_1,c050,supported,supported,1.0,0.9997467368404924,True
+highest_1,c051,supported,supported,1.0,0.9998901438284739,True
+highest_1,c052,supported,supported,1.0,1.0,True
+highest_1,c054,supported,supported,1.0,0.9999923706345724,True
+highest_1,c055,supported,supported,1.0,0.9998718347396439,True
+highest_1,c057,supported,supported,1.0,0.9289986218801166,True
+highest_1,c058,supported,not supported,1.0,0.9999954223749228,False
+highest_1,c059,supported,not supported,0.8,0.7042168999620064,False
+highest_1,c063,supported,supported,1.0,0.9999832154804599,True
+highest_3,c001,supported,supported,0.8,0.4839844888593779,True
+highest_3,c005,supported,not supported,1.0,0.5945523933735849,False
+highest_3,c009,supported,supported,1.0,1.0,True
+highest_3,c012,supported,not supported,1.0,0.7064249077030123,False
+highest_3,c015,supported,not supported,1.0,0.760248981929726,False
+highest_3,c016,supported,supported,1.0,0.8838438853374443,True
+highest_3,c019,supported,supported,1.0,0.9994813390204902,True
+highest_3,c020,supported,not supported,1.0,0.9457880778444927,False
+highest_3,c021,supported,supported,1.0,0.999814624578051,True
+highest_3,c026,supported,supported,1.0,0.9988493982190668,True
+highest_3,c027,supported,supported,1.0,0.9661160765633431,True
+highest_3,c028,supported,supported,1.0,1.0,True
+highest_3,c029,supported,supported,1.0,0.9999984741240041,True
+highest_3,c031,supported,supported,1.0,0.9421654889456355,True
+highest_3,c032,supported,supported,1.0,0.9999748233196414,True
+highest_3,c033,supported,supported,1.0,0.9999343894043203,True
+highest_3,c034,supported,supported,1.0,1.0,True
+highest_3,c035,unclear,supported,0.8,0.5168163690901347,False
+highest_3,c041,supported,supported,1.0,1.0,True
+highest_3,c043,supported,supported,1.0,0.9999961853100103,True
+highest_3,c044,supported,supported,1.0,0.9958293649879936,True
+highest_3,c047,supported,supported,1.0,1.0,True
+highest_3,c049,supported,not supported,1.0,0.9084987016716719,False
+highest_3,c050,supported,supported,1.0,0.9999900818467718,True
+highest_3,c051,supported,not supported,1.0,0.9836051115716733,False
+highest_3,c052,supported,supported,1.0,0.9999977111860062,True
+highest_3,c054,supported,supported,1.0,0.9999992370620021,True
+highest_3,c055,supported,supported,1.0,0.999807757958709,True
+highest_3,c057,supported,not supported,0.6,0.598713859038941,False
+highest_3,c058,supported,not supported,1.0,0.9999954223749228,False
+highest_3,c059,supported,supported,0.6,0.629978865629715,True
+highest_3,c063,supported,supported,1.0,0.9998329302419195,True
+highest_5,c001,supported,supported,0.4,0.6813225493127251,True
+highest_5,c005,supported,not supported,1.0,0.7359720559282233,False
+highest_5,c009,supported,supported,1.0,0.9997070745551071,True
+highest_5,c012,supported,not supported,1.0,0.8901235298736554,False
+highest_5,c015,supported,not supported,1.0,0.8889349962561696,False
+highest_5,c016,supported,supported,1.0,0.7600377964468098,True
+highest_5,c019,supported,supported,1.0,0.9936607905037237,True
+highest_5,c020,supported,not supported,1.0,0.9298075819555329,False
+highest_5,c021,supported,supported,1.0,0.9999275234163427,True
+highest_5,c026,supported,supported,1.0,0.9976590105773594,True
+highest_5,c027,supported,supported,1.0,0.857555776888163,True
+highest_5,c028,supported,supported,1.0,1.0,True
+highest_5,c029,supported,supported,1.0,0.9999694828991726,True
+highest_5,c031,supported,supported,1.0,0.9266427503223094,True
+highest_5,c032,supported,supported,1.0,0.9999893189116843,True
+highest_5,c033,supported,supported,1.0,0.9998817514319759,True
+highest_5,c034,supported,supported,1.0,1.0,True
+highest_5,c035,unclear,not supported,1.0,0.722831755159826,False
+highest_5,c041,supported,supported,1.0,1.0,True
+highest_5,c043,supported,supported,1.0,0.9999961853100103,True
+highest_5,c044,supported,supported,1.0,0.9984014816701933,True
+highest_5,c047,supported,supported,1.0,1.0,True
+highest_5,c049,supported,not supported,1.0,0.8826521239116145,False
+highest_5,c050,supported,supported,1.0,0.9999740604049261,True
+highest_5,c051,supported,not supported,1.0,0.961485184270679,False
+highest_5,c052,supported,supported,1.0,0.9883941505980062,True
+highest_5,c054,supported,supported,1.0,0.9999977111860062,True
+highest_5,c055,supported,supported,1.0,0.9995331901421179,True
+highest_5,c057,supported,supported,1.0,0.7696759673035634,True
+highest_5,c058,supported,not supported,1.0,1.0,False
+highest_5,c059,supported,not supported,0.6,0.5046667020222257,False
+highest_5,c063,supported,supported,1.0,0.9993135914037212,True
+highest_7,c001,supported,supported,1.0,0.7259273980035964,True
+highest_7,c005,supported,supported,0.6,0.5170775044548537,True
+highest_7,c009,supported,supported,1.0,0.9999481215461579,True
+highest_7,c012,supported,not supported,0.8,0.5604280027668861,False
+highest_7,c015,supported,not supported,1.0,0.9883333054894685,False
+highest_7,c016,supported,supported,1.0,0.806071725704825,True
+highest_7,c019,supported,supported,1.0,0.9721497831087536,True
+highest_7,c020,supported,not supported,1.0,0.9542081884874328,False
+highest_7,c021,supported,supported,1.0,0.9996376694173514,True
+highest_7,c026,supported,supported,1.0,0.9993059714774913,True
+highest_7,c027,supported,unclear,0.8,0.46806526596987197,False
+highest_7,c028,supported,supported,1.0,1.0,True
+highest_7,c029,supported,supported,1.0,0.9942326687175195,True
+highest_7,c031,supported,supported,1.0,0.8769780092773145,True
+highest_7,c032,supported,supported,1.0,0.9999923706345724,True
+highest_7,c033,supported,supported,1.0,0.9998970084952795,True
+highest_7,c034,supported,supported,1.0,1.0,True
+highest_7,c035,unclear,not supported,0.8,0.742983027737651,False
+highest_7,c041,supported,supported,1.0,1.0,True
+highest_7,c043,supported,supported,1.0,0.8611956016358888,True
+highest_7,c044,supported,supported,1.0,0.9996559740512805,True
+highest_7,c047,supported,supported,1.0,0.9999992370620021,True
+highest_7,c049,supported,not supported,1.0,0.844395167858306,False
+highest_7,c050,supported,supported,1.0,0.9999916077023953,True
+highest_7,c051,supported,not supported,1.0,0.9713410517029342,False
+highest_7,c052,supported,not supported,1.0,0.6724839031449944,False
+highest_7,c054,supported,supported,1.0,0.9999923706345724,True
+highest_7,c055,supported,supported,1.0,0.9998756487981323,True
+highest_7,c057,supported,not supported,0.6,0.47757018261623996,False
+highest_7,c058,supported,not supported,1.0,1.0,False
+highest_7,c059,supported,not supported,0.6,0.4865193962368444,False
+highest_7,c063,supported,supported,1.0,0.998740503510733,True
+highest_10,c001,supported,supported,0.8,0.5821464833912994,True
+highest_10,c005,supported,supported,0.8,0.6372634103124504,True
+highest_10,c009,supported,supported,1.0,0.9999725345580337,True
+highest_10,c012,supported,not supported,0.8,0.6664837843282563,False
+highest_10,c015,supported,not supported,1.0,0.9531732422439732,False
+highest_10,c016,supported,supported,0.8,0.580840824308805,True
+highest_10,c019,supported,supported,1.0,0.9807139102561372,True
+highest_10,c020,supported,not supported,1.0,0.9868436324556125,False
+highest_10,c021,supported,supported,1.0,0.9999420182895518,True
+highest_10,c026,supported,supported,1.0,0.9997543645180802,True
+highest_10,c027,supported,unclear,0.6,0.6797284396204825,False
+highest_10,c028,supported,supported,1.0,1.0,True
+highest_10,c029,supported,not supported,1.0,0.9423467754031011,False
+highest_10,c031,supported,supported,0.8,0.48630751596311406,True
+highest_10,c032,supported,supported,1.0,0.9985354759959133,True
+highest_10,c033,supported,supported,1.0,0.9185678059848641,True
+highest_10,c034,supported,supported,1.0,1.0,True
+highest_10,c035,unclear,not supported,1.0,0.820965188272511,False
+highest_10,c041,supported,supported,1.0,1.0,True
+highest_10,c043,supported,supported,1.0,0.8313473146016646,True
+highest_10,c044,supported,supported,1.0,0.9995759024797068,True
+highest_10,c047,supported,supported,1.0,0.999986267185886,True
+highest_10,c049,supported,not supported,0.8,0.9382491267399465,False
+highest_10,c050,supported,supported,1.0,0.9999992370620021,True
+highest_10,c051,supported,not supported,1.0,0.9715283099000521,False
+highest_10,c052,supported,supported,1.0,0.9623005696326011,True
+highest_10,c054,supported,supported,1.0,0.99998779304733,True
+highest_10,c055,supported,supported,1.0,0.9999572763248441,True
+highest_10,c057,supported,not supported,1.0,0.9936250149624486,False
+highest_10,c058,supported,not supported,1.0,1.0,False
+highest_10,c059,supported,unclear,0.6,0.5095989934814714,False
+highest_10,c063,supported,supported,1.0,0.9804453445523131,True
+lowest_1,c001,supported,supported,1.0,0.9999992370620021,True
+lowest_1,c005,supported,not supported,1.0,0.8416724237011527,False
+lowest_1,c009,supported,supported,1.0,1.0,True
+lowest_1,c012,supported,supported,1.0,0.9999961853100103,True
+lowest_1,c015,supported,supported,1.0,0.8067572219574626,True
+lowest_1,c016,supported,supported,1.0,0.99868098749266,True
+lowest_1,c019,supported,supported,1.0,0.9994607484325886,True
+lowest_1,c020,supported,supported,1.0,0.9999885559736865,True
+lowest_1,c021,supported,supported,1.0,1.0,True
+lowest_1,c026,supported,supported,1.0,0.9999450698814769,True
+lowest_1,c027,supported,supported,1.0,0.9999954223749228,True
+lowest_1,c028,supported,supported,1.0,1.0,True
+lowest_1,c029,supported,supported,1.0,1.0,True
+lowest_1,c031,supported,supported,1.0,1.0,True
+lowest_1,c032,supported,supported,1.0,0.9999679571948835,True
+lowest_1,c033,supported,supported,1.0,0.9992404056732072,True
+lowest_1,c034,supported,supported,1.0,1.0,True
+lowest_1,c035,unclear,supported,1.0,1.0,False
+lowest_1,c041,supported,supported,1.0,1.0,True
+lowest_1,c043,supported,supported,1.0,1.0,True
+lowest_1,c044,supported,supported,1.0,0.9983640836413794,True
+lowest_1,c047,supported,supported,1.0,0.9999969482480082,True
+lowest_1,c049,supported,supported,1.0,1.0,True
+lowest_1,c050,supported,supported,1.0,0.9686308567642792,True
+lowest_1,c051,supported,supported,1.0,0.9978044996587471,True
+lowest_1,c052,supported,supported,1.0,1.0,True
+lowest_1,c054,supported,supported,1.0,0.9999961853100103,True
+lowest_1,c055,supported,supported,1.0,0.9999748233225517,True
+lowest_1,c057,supported,supported,1.0,0.9994226215828361,True
+lowest_1,c058,supported,supported,1.0,0.9933753003188667,True
+lowest_1,c059,supported,supported,1.0,0.9956638092710485,True
+lowest_1,c063,supported,supported,1.0,0.9999893189116843,True
+lowest_3,c001,supported,supported,1.0,0.9999923706345724,True
+lowest_3,c005,supported,supported,1.0,0.9900081136860347,True
+lowest_3,c009,supported,supported,1.0,1.0,True
+lowest_3,c012,supported,supported,1.0,0.9999954223749228,True
+lowest_3,c015,supported,supported,1.0,0.9731437447571649,True
+lowest_3,c016,supported,supported,1.0,0.9977792904252087,True
+lowest_3,c019,supported,supported,1.0,0.9985903525883799,True
+lowest_3,c020,supported,supported,1.0,0.999985504256619,True
+lowest_3,c021,supported,supported,1.0,1.0,True
+lowest_3,c026,supported,supported,1.0,0.9968154112596297,True
+lowest_3,c027,supported,supported,1.0,0.9999969482480082,True
+lowest_3,c028,supported,supported,1.0,1.0,True
+lowest_3,c029,supported,supported,1.0,1.0,True
+lowest_3,c031,supported,supported,1.0,0.9999984741240041,True
+lowest_3,c032,supported,supported,1.0,0.9999877930444196,True
+lowest_3,c033,supported,supported,1.0,0.9986352704703825,True
+lowest_3,c034,supported,supported,1.0,1.0,True
+lowest_3,c035,unclear,supported,1.0,0.9999984741240041,False
+lowest_3,c041,supported,supported,1.0,0.9999992370620021,True
+lowest_3,c043,supported,supported,1.0,1.0,True
+lowest_3,c044,supported,supported,1.0,0.9996079262826475,True
+lowest_3,c047,supported,supported,1.0,1.0,True
+lowest_3,c049,supported,supported,1.0,1.0,True
+lowest_3,c050,supported,supported,0.8,0.8429086985757899,True
+lowest_3,c051,supported,supported,1.0,0.9989599086301878,True
+lowest_3,c052,supported,supported,1.0,0.9999984741240041,True
+lowest_3,c054,supported,supported,1.0,0.9999984741240041,True
+lowest_3,c055,supported,supported,1.0,0.9999366780553389,True
+lowest_3,c057,supported,supported,1.0,0.9547819682790116,True
+lowest_3,c058,supported,supported,1.0,1.0,True
+lowest_3,c059,supported,supported,1.0,0.999196951776913,True
+lowest_3,c063,supported,supported,1.0,0.999990081838041,True
+lowest_5,c001,supported,supported,1.0,1.0,True
+lowest_5,c005,supported,supported,1.0,0.9956714197576206,True
+lowest_5,c009,supported,supported,1.0,1.0,True
+lowest_5,c012,supported,supported,1.0,1.0,True
+lowest_5,c015,supported,supported,1.0,0.9834075746103073,True
+lowest_5,c016,supported,supported,1.0,0.9918973770049136,True
+lowest_5,c019,supported,supported,1.0,0.9995728467076102,True
+lowest_5,c020,supported,supported,1.0,0.9999961853100103,True
+lowest_5,c021,supported,supported,1.0,1.0,True
+lowest_5,c026,supported,supported,1.0,0.9998565776967142,True
+lowest_5,c027,supported,supported,1.0,0.9999954223749228,True
+lowest_5,c028,supported,supported,1.0,1.0,True
+lowest_5,c029,supported,supported,1.0,1.0,True
+lowest_5,c031,supported,supported,1.0,1.0,True
+lowest_5,c032,supported,supported,1.0,0.9998657318817322,True
+lowest_5,c033,supported,supported,1.0,0.9997116510976427,True
+lowest_5,c034,supported,supported,1.0,1.0,True
+lowest_5,c035,unclear,supported,1.0,0.9999977111860062,False
+lowest_5,c041,supported,supported,1.0,1.0,True
+lowest_5,c043,supported,supported,1.0,1.0,True
+lowest_5,c044,supported,supported,1.0,0.9999198945660336,True
+lowest_5,c047,supported,supported,1.0,0.9999961853100103,True
+lowest_5,c049,supported,supported,1.0,1.0,True
+lowest_5,c050,supported,supported,1.0,0.999264059535436,True
+lowest_5,c051,supported,supported,1.0,0.9975973500049953,True
+lowest_5,c052,supported,supported,1.0,0.9999961853100103,True
+lowest_5,c054,supported,supported,1.0,0.9999946594398352,True
+lowest_5,c055,supported,supported,1.0,0.9997505511346564,True
+lowest_5,c057,supported,supported,1.0,0.9917203968822104,True
+lowest_5,c058,supported,supported,1.0,0.9999961853100103,True
+lowest_5,c059,supported,supported,1.0,0.9991085239194423,True
+lowest_5,c063,supported,supported,1.0,0.9999893189058637,True
+lowest_7,c001,supported,supported,1.0,0.9999954223749228,True
+lowest_7,c005,supported,supported,1.0,0.9969635591191384,True
+lowest_7,c009,supported,supported,1.0,1.0,True
+lowest_7,c012,supported,supported,1.0,1.0,True
+lowest_7,c015,supported,supported,1.0,0.9356948523463335,True
+lowest_7,c016,supported,supported,1.0,0.9981653116076152,True
+lowest_7,c019,supported,supported,1.0,0.9999389667179981,True
+lowest_7,c020,supported,supported,1.0,0.9999923706345724,True
+lowest_7,c021,supported,supported,1.0,1.0,True
+lowest_7,c026,supported,supported,1.0,0.9997665693929447,True
+lowest_7,c027,supported,supported,1.0,0.9999992370620021,True
+lowest_7,c028,supported,supported,1.0,0.9999992370620021,True
+lowest_7,c029,supported,supported,1.0,1.0,True
+lowest_7,c031,supported,supported,1.0,1.0,True
+lowest_7,c032,supported,supported,1.0,0.9999908447731285,True
+lowest_7,c033,supported,supported,1.0,0.9995179396861161,True
+lowest_7,c034,supported,supported,1.0,1.0,True
+lowest_7,c035,unclear,supported,1.0,0.9999961853100103,False
+lowest_7,c041,supported,supported,1.0,1.0,True
+lowest_7,c043,supported,supported,1.0,0.9999923706345724,True
+lowest_7,c044,supported,supported,1.0,0.9980000581847867,True
+lowest_7,c047,supported,supported,1.0,0.9999992370620021,True
+lowest_7,c049,supported,supported,1.0,0.9999961853100103,True
+lowest_7,c050,supported,supported,1.0,0.999621654833694,True
+lowest_7,c051,supported,supported,1.0,0.9924709335073756,True
+lowest_7,c052,supported,supported,1.0,0.9999977111860062,True
+lowest_7,c054,supported,supported,1.0,0.9999961853100103,True
+lowest_7,c055,supported,supported,1.0,0.999834455922932,True
+lowest_7,c057,supported,supported,1.0,0.9979361308010816,True
+lowest_7,c058,supported,supported,1.0,1.0,True
+lowest_7,c059,supported,supported,1.0,0.9985896060037392,True
+lowest_7,c063,supported,supported,1.0,0.9999870301180632,True
+lowest_10,c001,supported,supported,1.0,0.9999961853100103,True
+lowest_10,c005,supported,supported,1.0,0.6041367998356953,True
+lowest_10,c009,supported,supported,1.0,0.9999946594427456,True
+lowest_10,c012,supported,supported,1.0,0.9999992370620021,True
+lowest_10,c015,supported,supported,1.0,0.9985834763978618,True
+lowest_10,c016,supported,supported,1.0,0.9960368693847139,True
+lowest_10,c019,supported,supported,1.0,0.9996262307711303,True
+lowest_10,c020,supported,supported,1.0,0.9999832154775495,True
+lowest_10,c021,supported,supported,1.0,1.0,True
+lowest_10,c026,supported,supported,1.0,0.9997253834893979,True
+lowest_10,c027,supported,supported,1.0,0.9999961853100103,True
+lowest_10,c028,supported,supported,1.0,0.997573774082501,True
+lowest_10,c029,supported,supported,1.0,1.0,True
+lowest_10,c031,supported,supported,1.0,1.0,True
+lowest_10,c032,supported,supported,1.0,0.9999938965047477,True
+lowest_10,c033,supported,supported,1.0,0.9989842847531168,True
+lowest_10,c034,supported,supported,1.0,1.0,True
+lowest_10,c035,unclear,supported,1.0,0.9999969482480082,False
+lowest_10,c041,supported,supported,1.0,1.0,True
+lowest_10,c043,supported,supported,1.0,0.9999893189058637,True
+lowest_10,c044,supported,supported,1.0,0.9998657317129529,True
+lowest_10,c047,supported,supported,1.0,0.9999900818642342,True
+lowest_10,c049,supported,supported,1.0,0.9999992370620021,True
+lowest_10,c050,supported,supported,1.0,0.9993479163237472,True
+lowest_10,c051,supported,supported,1.0,0.9977648267764303,True
+lowest_10,c052,supported,supported,1.0,0.9999969482480082,True
+lowest_10,c054,supported,supported,1.0,0.9999794008486773,True
+lowest_10,c055,supported,supported,1.0,0.9998764115295149,True
+lowest_10,c057,supported,supported,1.0,0.999357050973827,True
+lowest_10,c058,supported,supported,1.0,1.0,True
+lowest_10,c059,supported,supported,1.0,0.9937490893768064,True
+lowest_10,c063,supported,supported,1.0,0.9999954223778331,True
+random_1,c001,supported,supported,1.0,0.9999969482480082,True
+random_1,c005,supported,not supported,0.8,0.7253935218725243,False
+random_1,c009,supported,supported,1.0,1.0,True
+random_1,c012,supported,supported,1.0,0.999862680601186,True
+random_1,c015,supported,supported,1.0,0.96040651656071,True
+random_1,c016,supported,supported,1.0,0.9991778918468033,True
+random_1,c019,supported,supported,1.0,0.9986810025452495,True
+random_1,c020,supported,supported,1.0,0.9999969482480082,True
+random_1,c021,supported,supported,1.0,1.0,True
+random_1,c026,supported,supported,1.0,0.9998710716386933,True
+random_1,c027,supported,supported,1.0,0.9999931335696601,True
+random_1,c028,supported,supported,1.0,1.0,True
+random_1,c029,supported,supported,1.0,1.0,True
+random_1,c031,supported,supported,1.0,1.0,True
+random_1,c032,supported,supported,1.0,0.9999725345580337,True
+random_1,c033,supported,supported,1.0,0.9998520007933529,True
+random_1,c034,supported,supported,1.0,1.0,True
+random_1,c035,unclear,supported,1.0,0.9999977111860062,False
+random_1,c041,supported,supported,1.0,1.0,True
+random_1,c043,supported,supported,1.0,1.0,True
+random_1,c044,supported,supported,1.0,0.9999397296239824,True
+random_1,c047,supported,supported,1.0,1.0,True
+random_1,c049,supported,supported,1.0,1.0,True
+random_1,c050,supported,supported,1.0,0.9997551271738434,True
+random_1,c051,supported,supported,1.0,0.9890751241576516,True
+random_1,c052,supported,supported,1.0,0.9999992370620021,True
+random_1,c054,supported,supported,1.0,0.9999992370620021,True
+random_1,c055,supported,supported,1.0,0.9998970085447514,True
+random_1,c057,supported,supported,1.0,0.9997436857025364,True
+random_1,c058,supported,supported,0.8,0.9143500198267325,True
+random_1,c059,supported,supported,1.0,0.9943301213431,True
+random_1,c063,supported,supported,1.0,0.9998992974518581,True
+random_3,c001,supported,supported,1.0,0.9999961853100103,True
+random_3,c005,supported,not supported,0.6,0.4357384400437942,False
+random_3,c009,supported,supported,1.0,0.9999992370620021,True
+random_3,c012,supported,supported,1.0,0.9997482617417116,True
+random_3,c015,supported,supported,1.0,0.8300367919992585,True
+random_3,c016,supported,supported,1.0,0.9982982126733233,True
+random_3,c019,supported,supported,1.0,0.9989652412037723,True
+random_3,c020,supported,supported,1.0,0.9999961853100103,True
+random_3,c021,supported,supported,1.0,1.0,True
+random_3,c026,supported,supported,1.0,0.9989797096044155,True
+random_3,c027,supported,supported,1.0,0.9720590372880211,True
+random_3,c028,supported,supported,1.0,1.0,True
+random_3,c029,supported,supported,1.0,1.0,True
+random_3,c031,supported,supported,1.0,1.0,True
+random_3,c032,supported,supported,1.0,0.9999839784009957,True
+random_3,c033,supported,supported,1.0,0.9998108144012106,True
+random_3,c034,supported,supported,1.0,1.0,True
+random_3,c035,unclear,not supported,0.6,0.5529387006615177,False
+random_3,c041,supported,supported,1.0,1.0,True
+random_3,c043,supported,supported,1.0,1.0,True
+random_3,c044,supported,supported,1.0,0.9927952410517982,True
+random_3,c047,supported,supported,1.0,0.9999961853100103,True
+random_3,c049,supported,supported,1.0,1.0,True
+random_3,c050,supported,supported,1.0,0.9998199629499475,True
+random_3,c051,supported,supported,1.0,0.999569795924651,True
+random_3,c052,supported,supported,1.0,0.9999923706374828,True
+random_3,c054,supported,supported,1.0,0.9999931335696601,True
+random_3,c055,supported,supported,1.0,0.9999572763190235,True
+random_3,c057,supported,supported,1.0,0.9998085211091139,True
+random_3,c058,supported,supported,1.0,1.0,True
+random_3,c059,supported,supported,1.0,0.9799117305366831,True
+random_3,c063,supported,supported,1.0,0.999909214330421,True
+random_5,c001,supported,supported,1.0,1.0,True
+random_5,c005,supported,supported,1.0,0.9994470221303542,True
+random_5,c009,supported,supported,1.0,1.0,True
+random_5,c012,supported,supported,1.0,0.9996590250873755,True
+random_5,c015,supported,supported,0.6,0.4377362082758838,True
+random_5,c016,supported,supported,1.0,0.9973774345010652,True
+random_5,c019,supported,supported,1.0,0.9986711077638588,True
+random_5,c020,supported,supported,1.0,0.9999931335696601,True
+random_5,c021,supported,supported,1.0,1.0,True
+random_5,c026,supported,supported,1.0,0.9998001313169846,True
+random_5,c027,supported,supported,1.0,0.9657023721923451,True
+random_5,c028,supported,supported,1.0,1.0,True
+random_5,c029,supported,supported,1.0,1.0,True
+random_5,c031,supported,supported,1.0,1.0,True
+random_5,c032,supported,supported,1.0,0.9999977111860062,True
+random_5,c033,supported,supported,1.0,0.9998794629235512,True
+random_5,c034,supported,supported,1.0,1.0,True
+random_5,c035,unclear,not supported,0.6,0.633530043694608,False
+random_5,c041,supported,supported,1.0,0.9999992370620021,True
+random_5,c043,supported,supported,1.0,1.0,True
+random_5,c044,supported,supported,1.0,0.9993830723465692,True
+random_5,c047,supported,supported,1.0,0.9999984741240041,True
+random_5,c049,supported,supported,1.0,1.0,True
+random_5,c050,supported,supported,1.0,0.9999763491636235,True
+random_5,c051,supported,supported,1.0,0.984067621427163,True
+random_5,c052,supported,supported,1.0,0.911685461219826,True
+random_5,c054,supported,supported,1.0,0.9999923706345724,True
+random_5,c055,supported,supported,1.0,0.9999565134013981,True
+random_5,c057,supported,supported,1.0,0.9979468503039124,True
+random_5,c058,supported,supported,1.0,1.0,True
+random_5,c059,supported,supported,1.0,0.9882148868944298,True
+random_5,c063,supported,supported,1.0,0.9998947200625166,True
+random_7,c001,supported,supported,1.0,0.9999961853100103,True
+random_7,c005,supported,supported,1.0,0.99848977156716,True
+random_7,c009,supported,supported,1.0,1.0,True
+random_7,c012,supported,supported,1.0,0.9990163254947086,True
+random_7,c015,supported,not supported,1.0,0.9422200393725209,False
+random_7,c016,supported,supported,1.0,0.9705075010671713,True
+random_7,c019,supported,supported,1.0,0.9921064682492764,True
+random_7,c020,supported,supported,1.0,0.9999931335696601,True
+random_7,c021,supported,supported,1.0,1.0,True
+random_7,c026,supported,supported,1.0,0.9999107402704335,True
+random_7,c027,supported,supported,1.0,0.9869880270192601,True
+random_7,c028,supported,supported,1.0,1.0,True
+random_7,c029,supported,supported,1.0,1.0,True
+random_7,c031,supported,supported,1.0,1.0,True
+random_7,c032,supported,supported,1.0,0.9999954223749228,True
+random_7,c033,supported,supported,1.0,0.9999481214995942,True
+random_7,c034,supported,supported,1.0,1.0,True
+random_7,c035,unclear,not supported,0.6,0.48258692080098586,False
+random_7,c041,supported,supported,1.0,1.0,True
+random_7,c043,supported,supported,1.0,0.9996941082698767,True
+random_7,c044,supported,supported,1.0,0.9952686669386217,True
+random_7,c047,supported,supported,1.0,0.9999984741240041,True
+random_7,c049,supported,supported,1.0,1.0,True
+random_7,c050,supported,supported,1.0,0.9999534618647677,True
+random_7,c051,supported,supported,1.0,0.9572316452574412,True
+random_7,c052,supported,supported,1.0,0.7388213876628518,True
+random_7,c054,supported,supported,1.0,0.9999885559736865,True
+random_7,c055,supported,supported,1.0,0.9999801637721235,True
+random_7,c057,supported,supported,1.0,0.9924967887589302,True
+random_7,c058,supported,supported,1.0,1.0,True
+random_7,c059,supported,supported,1.0,0.9943243846343369,True
+random_7,c063,supported,supported,1.0,0.9998344558705534,True
+random_10,c001,supported,supported,0.6,0.7267856978166204,True
+random_10,c005,supported,supported,1.0,0.9972656437065478,True
+random_10,c009,supported,supported,1.0,0.9999893189116845,True
+random_10,c012,supported,supported,1.0,0.9997246174294224,True
+random_10,c015,supported,not supported,1.0,0.9800834378406668,False
+random_10,c016,supported,supported,1.0,0.9995095502432078,True
+random_10,c019,supported,supported,1.0,0.9986756804525685,True
+random_10,c020,supported,supported,1.0,1.0,True
+random_10,c021,supported,supported,1.0,0.9999992370620021,True
+random_10,c026,supported,supported,1.0,0.999735307152673,True
+random_10,c027,supported,supported,1.0,0.9882306585641121,True
+random_10,c028,supported,supported,1.0,1.0,True
+random_10,c029,supported,supported,1.0,0.9999992370620021,True
+random_10,c031,supported,supported,1.0,0.9999977111860062,True
+random_10,c032,supported,supported,1.0,0.9999961853100103,True
+random_10,c033,supported,supported,1.0,0.9998970085563915,True
+random_10,c034,supported,supported,1.0,1.0,True
+random_10,c035,unclear,supported,1.0,0.6412652493391116,False
+random_10,c041,supported,supported,1.0,0.9999984741240041,True
+random_10,c043,supported,supported,1.0,0.9996674137361413,True
+random_10,c044,supported,supported,1.0,0.9999732974785698,True
+random_10,c047,supported,supported,1.0,1.0,True
+random_10,c049,supported,supported,1.0,1.0,True
+random_10,c050,supported,supported,1.0,0.9999885559736865,True
+random_10,c051,supported,not supported,0.6,0.27795330915087657,False
+random_10,c052,supported,not supported,1.0,0.9999931335754809,False
+random_10,c054,supported,supported,1.0,0.9999961853100103,True
+random_10,c055,supported,supported,1.0,0.9999961853100103,True
+random_10,c057,supported,supported,1.0,0.9791613286778427,True
+random_10,c058,supported,supported,1.0,0.9999969482480082,True
+random_10,c059,supported,supported,1.0,0.9480567561795639,True
+random_10,c063,supported,supported,1.0,0.9997215663671213,True

@@ -1,0 +1,1010 @@
+claim_id,passage,sentence_index,sentence,shap_value
+c001,1,0,"a large, subtropical lake, we measured zebra mussel larval (veliger) abundances in the water column and post-veliger abundances on hard surfaces and quantified water quality during 2011–2015 at six sites spanning 32.8 km in Lake Texoma, OK-TX which differed markedly in salinity, water clarity, and algal abundances.",0.0
+c001,1,1,"Additionally, higher numbers of zebra mussel post-veligers accrued on the undersides of deeper surfaces, suggesting preference for lower temperatures and refuge from predators.",0.0
+c001,1,2,"Our results suggest that in habitats that are particularly stressful for zebra mussels, water quality predicts propagule pressure and establishment of zebra mussels across a lake, emphasizing the need to consider environmental heterogeneity within large lakes when predicting the potential range and impact of this cosmopolitan invader. Key words: Zebra mussel,",0.0
+c001,2,3,Lake Texoma regularly exceeds 1 ppt in the region where flow is dominated by the Red River but not elsewhere in the lake (Hambright et al. 2015).,0.0
+c001,2,4,We hypothesized that local-scale variation in zebra mussel veliger abundances in Lake Texoma could be predicted using the same factors used to predict zebra mussel invasion success on a larger scale.,0.0
+c001,2,5,"We predicted zebra mussel veliger densities would be negatively associated with increases in summer water temperatures, increased chlorophyll, decreased water clarity, and increased salinity.",0.0
+c001,2,6,"Additionally, post-veliger densities should be associated with veliger densities, as well as environmental variables including turbidity and temperature.",0.0
+c001,2,7,"Based on  Zebra mussel distributions and water quality within a reservoir  Hallidayschult et al. (2021), Aquatic Invasions 16(1): 94–112, https://doi. org/10.3391/ai.",1.5035695979742567
+c001,2,8,2021.16.1.07 97 previous studies of zebra mussel settling patterns and research on the increasing predation pressures on zebra mussels in,0.0
+c001,3,9,"habitat. In Lake Texoma, we hypothesize that the high amount of sediment observed on our samplers (Figure S2) may reduce recruitment and survival of post-veligers, leading to the surfeit of zeroes in our post-veliger counts.",0.2057061464725643
+c001,3,10,"Our samplers were adjacent to docks, and so sediment accumulation may have been affected by boating and angling activities at the docks, however all samplers were located within no-wake zones.",-1.4406114797454226
+c001,3,11,"If a large amount of the lake bottom is composed of a soft organic substrate, zebra mussel densities will be much lower due to a shortage of hard substrate (Mellina and Rasmussen 1994).",0.0
+c001,3,12,"As a result of this relationship between trophic status and substrate availability, low water clarity is associated (indirectly) with lower zebra mussel densities (Madon et al. 1998).",4.60213944656752
+c001,3,13,"Thus, in a eutrophic lake with poor water clarity, increases in Secchi depth should be positively associated with zebra mussel densities, as we observed in Lake Texoma (Figures 7, S1, and S5). Availability of",2.6457126951883523
+c001,4,14,"predictions; densities of both life stages were lower at western sites with lower water clarity, higher salinity, and higher algal biomass.",6.048560894205851
+c001,4,15,We observed veligers from late April through early November (Figure 6).,0.7286116042451243
+c001,4,16,"These results line up well with earlier work in Lake Texoma showing that veligers appear seasonally, with earliest veligers appearing near the dam on April 12 and last observed veligers appearing before mid-October (Churchill 2013).",0.0
+c001,4,17,These dates are substantially further apart than in temperate systems such as the Laurentian Great Lakes.,0.0
+c001,4,18,"In Western Lake Erie, for example, veligers were first observed in June and last observed in September over a five-year period (Nichols 1996).",0.0
+c001,4,19,"However, zebra mussels have been detected in plankton samples as late as December in Lake Michigan (Pothoven and Elgin 2019), suggesting that there is substantial variation even within temperate lakes.",0.0
+c001,4,20,We had initially expected that summer water temperatures close to the upper lethal limit of zebra,0.0
+c001,5,21,location; the site used by Churchill was downstream of ours and positioned more on the main channel of the Red River.,0.8520026854806977
+c001,5,22,"However, this difference in density is likely a consequence of a drought and heat wave in 2011 that caused a zebra mussel die-off (T. C.",0.7759939202211258
+c001,5,23,Hallidayschult personal observation) and likely had a persistent impact on recruitment.,-2.0375187930807765
+c001,5,24,"Zebra mussel distributions and water quality within a reservoir  Hallidayschult et al. (2021), Aquatic Invasions 16(1): 94–112, https://doi. org/10.3391/ai.",0.0
+c001,5,25,"2021.16.1.07 106 Additionally, on our post-veliger samplers, we found higher abundances on deeper samplers and on the underside of the sampler, compared with the inside and upper surface.",0.0
+c001,5,26,"These differences are likely driven by temperature, juvenile settling choices, and post-settling mortality due to predation by Harris mud crabs (Rhithropanopeus harrisii Gould, 1841), another invasive species in Lake Texoma that feeds on mussels in its native range (Boyle et al. 2010). Zebra mussels up to 10 mm",0.0
+c005,1,0,populations with low pathogenprevalence and intensities is challenging.,0.0
+c005,1,1,Wesimultaneously collected and analysed crayfish tissuesamples of invasive crayfish populations and watersamples to compare A.,0.0
+c005,1,2,"astaci detection in differentsample types using quantitative PCR. In four additional sites, A.",0.0
+c005,1,3,astaci DNAconcentrations below LOD were found in water. Infour populations only were A.,0.0
+c005,1,4,astaci concentrationsabove LOD detected in both sample types and in threepopulations in concentrations above LOD in tissue butbelow LOD in water.,0.0
+c005,1,5,The likely reason for thesediscrepancies is the low A.,0.4146867014073763
+c005,1,6,"astaci prevalence andconcentration in resistant invasive crayfish, whichlimit detection reliability.",0.0
+c005,1,7,Consistency may beimproved by timing surveys with seasonal periods ofhigh A. astaci,1.7225607348786904
+c005,2,8,thecovariate was considered not to influence A. astacidetection. The Eq.,0.0
+c005,2,9,"(1)—(1 - h)n C 0.95 was used todetermine the number of water samples (n) requiredfor successful detection probability of 95%, with hbeing the probability of detection of A. astaci DNA ina water sample. ResultsDetection of A.",2.343894975933606
+c005,2,10,"astaci in water and crayfish tissueAphanomyces astaci DNA was detected in quantitiesabove LOD in water from five and in tissue samplesfrom twelve out of 23 sites with invasive crayfish(Fig. 1, Table 1).",0.0
+c005,2,11,Crayfish tissue sampling wastherefore more successful in detecting A.,0.0
+c005,2,12,"astaci in apopulation than eDNA sampling (McNemar’s v2 = 4,df = 1, p = 0.046). A.",0.0
+c005,2,13,astaci was detected in bothcrayfish tissue and water from four sites (Fig. 1).,1.475630632770841
+c005,2,14,"Ofthe remaining eight sites with detections in tissues,three sites showed a weak signal in water (belowLOD) and the other five had no detection in water.",0.0
+c005,2,15,"Inturn, the water samples revealed the presence of A.",0.0
+c005,2,16,astaci (above LOD) in one site where it was notdetected in,2.4225070066897203
+c005,3,17,"is the low A. astaci prevalence andconcentration in resistant invasive crayfish, whichlimit detection reliability.",0.0
+c005,3,18,Consistency may beimproved by timing surveys with seasonal periods ofhigh A.,0.0
+c005,3,19,astaci abundance and by increasing watersampling effort.,1.3090796788310037
+c005,3,20,"Considering the ease of collectingeDNA samples, compared to crayfish tissue sampling,eDNA methods would facilitate frequent and compre-hensive surveys.",1.6327165881672838
+c005,3,21,"However, remaining uncertainties ineDNA-based detection reveal the relevance of com-bining monitoring tools to improve detection ofinvasive pathogens and their management.",0.0
+c005,3,22,Keywords Aphanomyces astaci  Invasive crayfish Environmental DNA  Pathogen monitoringSupplementary Information The online version containssupplementary material available at https://doi. org/10.1007/s10530-021-02644-y. N. Sieber (&)  C.,0.0
+c005,3,23,"VorburgerEawag, Swiss Federal Institute of Aquatic Science andTechnology, Überlandstrasse 133, 8600 Dübendorf,Switzerlande-mail: natalie. sieber@eawag. chN. Sieber  C. VorburgerETH",2.731009546888186
+c005,4,24,"around half of thesampled sites. A. astaci was detected in crayfish tissuein twelve and in water in five of the 23 surveyedinvasive crayfish populations (Table 1; Fig. 1), mak-ing the tissue sampling method more successful indetecting the parasite than the eDNA method. Whenweak signals (i.",0.0
+c005,4,25,"e. below LOD) were considered as truepositives, the number of sites with A.",2.8513713216060386
+c005,4,26,"astaci detectionsin water or tissue increased to 17, with detection inwater in a total of twelve sites, but even then theparasite was detected by both methods in seven sitesonly.",0.0
+c005,4,27,"We argue that while we implemented a LOD inthis study, the detections below LOD should not bedisregarded categorically, since they could likelyindicate low levels of parasite DNA in water.",0.0
+c005,4,28,"AseDNA samples often contain low starting amounts oftarget DNA, the frequently applied 95% detectionthreshold, stemming for guidelines for mainly geneexpression assays (Bustin et al. 2009), have beenchallenged for its suitability for eDNA studies (Hunteret al.",0.0
+c005,5,29,to ensure disease-free status ofcrayfish populations.,0.0
+c005,5,30,In the following sections wefurther discuss how the variation in detection couldarise due to several factors. DNA of A.,0.0
+c005,5,31,"astaciwas not detected in crayfish tissuein 5 sites where DNA was found in water samples,although only one of these eDNA results was aboveLOD.",0.0
+c005,5,32,These results indicate that the tissue samplingmethod failed to detect A.,0.9394192471534262
+c005,5,33,"astaci in some infectedpopulations, unless the eDNA at these sites originatedfrom unsampled infected populations upstream.",0.0
+c005,5,34,Onepossible explanation is that our sample sizes wereinsufficient for sites with low prevalence of theparasite.,0.0
+c005,5,35,"Calculations by Schrimpf et al. (2013)showed that, depending on test sensitivity (detectionsuccess rate per individual) and population size, 34 toalmost a 1000 crayfish need to be sampled for reliabledetection (C 95% success rate) in populations withlow A. astaci prevalence, i. e. 10% or less infectedindividuals.",0.0
+c005,5,36,Detection rates in samples from the abdominalcuticle and,0.0
+c009,1,0,as the threshold to delineate between species that could become invasive in South Africa and those that are unlikely to become invasive.,0.0
+c009,1,1,Conclusion: FISK was demonstrated to be a useful risk assessment tool to evaluate the invasion risk posed by species proposed for use in aquaculture.,0.0
+c009,1,2,"For the large number of fish imported for the pet trade, a rapid screening assessment to flag potentially high risk species was recommended prior to a full FISK assessment for flagged species.",0.0
+c009,1,3,"Evaluating invasion risk for freshwater fishes in  South AfricaDates: Received: 14 Sep. 2016|Accepted: 09 Dec. 2016|Published: 31 Mar. 2017How to cite this article: Marr, S. M. , Ellender, B. R. , Woodford, D. J. , Alexander, M. E. , Wasserman, R. J. , Ivey, P. , et. al, 2017,’ Evaluating invasion risk for",0.0
+c009,2,4,"three species under consideration for potential aquaculture ventures were evaluated using the calibrated FISK: L. calcarifer, O. tshawytscha and S. glanis.",0.0
+c009,2,5,"Silurus glanis was evaluated to be a ‘high’ risk species, L.",6.266543278191486
+c009,2,6,calcarifer an ‘upper medium’ risk species and O.,0.0
+c009,2,7,tshawytscha a ‘lower medium’ risk species (Table 3).,0.0
+c009,2,8,Silurus glanis was also evaluated to be a ‘high’ risk species for both ‘Biogeography and History’ and ‘Biology and Ecology’ categories.,7.993551962756691
+c009,2,9,Lates calcarifer scored a ‘lower medium’ risk for the ‘Biogeography and History’ category but was classified a ‘high’ risk species for the ‘Biology and Ecology’ category. It is thus likely that L.,0.0
+c009,2,10,calcarifer would at least establish populations in South Africa if released into the wild.,0.0
+c009,2,11,"Oncorhynchus tshawytscha scored an ‘upper medium’ risk for the ‘Biogeography and History’ category but was classified ‘lower medium’ risk for the ‘Biology and Ecology’ category. Therefore, it is expected that O.",-9.411967241809943
+c009,2,12,tshawytscha would share the fate of Atlantic,0.0
+c009,3,13,"medium’ risk, suggesting it is likely to be invasive in South Africa, whereas O.",3.6701692731786855
+c009,3,14,tshawytscha was classified ‘lower medium’ risk and less likely to be invasive.,4.1753869184762875
+c009,3,15,The results of the FISK assessment for these species indicate that the importation of S.,0.0
+c009,3,16,glanis into South Africa is not recommended because of the high risk that the species would become invasive. Proposed aquaculture ventures for L.,3.738134735687003
+c009,3,17,calcarifer should be treated cautiously as there is an ‘upper medium’ risk that this species could become invasive in South Africa.,0.0
+c009,3,18,"Overall, these assessments demonstrated that FISK is an accurate, time-efficient and defensible risk assessment tool to evaluate the invasive potential of fish species proposed for importation.",1.3043225737193371
+c009,3,19,"While the vectors and history of introductions into the wild are fairly well documented for fishery, aquaculture and biological control species (see Ellender & Weyl 2014), the magnitude of fish introductions into natural water courses via the ornamental fish trade has never been",0.021213398833505835
+c009,4,20,"the ‘Biogeography and History’ category but was classified ‘lower medium’ risk for the ‘Biology and Ecology’ category. Therefore, it is expected that O.",0.0
+c009,4,21,"tshawytscha would share the fate of Atlantic salmon Salmo salar (Linnaeus, 1758) and brook trout Salvelinus fontinalis (Mitchill, 1815) and fail to establish in South Africa.",2.306381425289984
+c009,4,22,Page 6 of 10 Original Researchhttp://www. abcjournal.,0.0
+c009,4,23,org Open AccessTABLE 2: Results of the FISK assessment of freshwater fish introduced into South Africa where the outcome of the introduction is known presenting the scores and risk categories for the FISK assessment and its Biogeography and History (B & H) and Biology and Ecology (B & E) categories.,0.0
+c009,4,24,All FISK scores are the mean of three independent assessor scores.,0.18787729262032601
+c009,4,25,Medium risk is depicted as Upper Medium (UM) and Lower Medium (LM) as described in the text.,0.0
+c009,4,26,"Species FISK score FISK risk B & H score B & H risk B & E score B & E riskCarassius auratus (Linnaeus, 1758) 25.17 High 14.5 High 10.7 HighCoptodon zillii",0.0
+c009,5,27,"become invasive in South Africa. This species is the third largest freshwater fish and an internationally renowned angling species that is likely to be spread by anglers in South Africa should it become released in the wild, as has happened in Spain (Clavero & García-Berthou 2006) and in South Africa with extra-limital introductions of African sharptooth catfish Clarias gariepinus (Burchell, 1822) (Weyl et al. 2016).",0.0
+c009,5,28,"The illegal movement of fish between water bodies can seriously compromise both recreational fisheries and conservation programmes (Gozlan et al. 2010; Johnson, Arlinghaus & Martinez 2009) and steps to manage the secondary spread of fish species within South Africa need to be established (e. g. Vander Zanden & Olden 2008). The FISK assessment classified L.",0.0
+c009,5,29,"calcarifer as ‘upper medium’ risk, suggesting it is likely to be invasive in South Africa, whereas O.",0.0
+c009,5,30,tshawytscha was classified ‘lower medium’ risk and less likely to be invasive. The results of the FISK assessment for,0.0
+c012,1,0,"Average cost estimates over the entire period amounted to approximately $ 1.6 billion per year, most of which was incurred in North America.",1.7657402793374792
+c012,1,1,"Main conclusions: Our results highlight the burgeoning economic threat caused by invasive freshwater bivalves, offering a strong economic incentive to invest in pre-ventative management such as biosecurity and rapid response eradications.",4.194736427847117
+c012,1,2,"Even if the damages and resource losses are severely understated because economic impacts are lacking for most invaded countries and invasive bivalve species, these impacts are substantial and likely growing.",0.0
+c012,1,3,"|  1011HAUBROCK et Al.1  |  INTRODUC TIONFreshwater ecosystems have been identified as among the most threatened worldwide, owing to their sensitivity to the effects of climate change (Woodward et al., 2010) and a range of other anthro-pogenic pressures (Darwell et al., 2018; Haubrock et al., 2021), in-cluding invasive species (Poulin et al., 2011; Strayer, 2010). Globally, invasive non- native species",4.319013172933627
+c012,2,4,"remained at a consistent magnitude over the past decade and amounted to $ 63.7 billion, with an average annual cost over the entire period of $ 1.55 billion.",5.67346183118682
+c012,2,5,"Whereas the effects of time- lags in cost reporting were not incorporated into analyses, average cost estimates became reduced slightly towards the end of the last decade, indicating a temporal gap in cost reporting.",-0.8176174418391609
+c012,2,6,"4  |  DISCUSSIONThe present study demonstrates massive economic costs associ-ated with invasive freshwater bivalves, estimated at a total of $ 63.7 billion over the period 1980– 2020.",8.298318434693012
+c012,2,7,The resulting average annual cost of $ 1.55 billion is approximately half the 2020 United Nations budget (https://news. un. org/en/story/ 2019/12/1054431).,2.535978593110429
+c012,2,8,"Invasive freshwater bivalves can transform entire ecosystems, thereby affecting fisheries and other resources of economic impor-tance (Hansen et al., 2020; Kao et al., 2018; Strayer et al., 1999).",0.0
+c012,2,9,"However, the implications of these ecosystem engineering effects on economies had not yet",-11.868310277789163
+c012,3,10,"informationAgence Nationale de la Recherche, Grant/Award Number: ANR- 14- CE02- 0021Editor: Elizabeta BriskiAbstractAim: To assess spatio- temporal and taxonomic patterns of available information on the costs of invasive freshwater bivalves, as well as to identify knowledge gaps. Location: Global. Time period: 1980– 2020. Taxon studied: Bivalvia.",0.0
+c012,3,11,"Methods: We synthesize published global economic costs of impacts from freshwater bivalves using the InvaCost database and associated R package, explicitly consider-ing the reliability of estimation methodologies, cost types, economic sectors and im-pacted regions.",0.0
+c012,3,12,"Costs were heavily biased taxonomically and spatially, dominated by two fami-lies, Dreissenidae and Cyrenidae (Corbiculidae), and largely reported in North America.",0.0
+c012,3,13,The greatest share of reported costs ($ 31.5,0.0
+c012,4,14,"To broadly address this pervasive lack of information and provide a basis for quantifications of costs associated with in-vasive species worldwide, the InvaCost database has recently been developed (Diagne et al., 2020).",0.0
+c012,4,15,This database contains extensive information on the costs (e.,0.0
+c012,4,16,"g., cost types, impacted sectors, regional attributes, cost estimation reliability) associated with ~500 invasive species.",0.0
+c012,4,17,"In the present study, we use a subset of the database to de-scribe global costs associated with invasive freshwater bivalves and how they are structured, anticipating unevenness in cost reporting towards a few regions and a few highly conspicuous invasive species.",0.0
+c012,4,18,"2  |  METHODS2.1  |  Original dataTo estimate the cost of bivalve invasions of freshwaters on the global economy, we considered data from the latest version of the InvaCost database at the time of writing this manuscript (version 4.0; full da-tabase and descriptive files are available at https://doi. org/10.6084/K E Y W O R D",2.7058357428491604
+c012,5,19,"informative, for example, by not distinguishing particular taxa causing the costs, or sectors in which they are incurred.",0.0
+c012,5,20,"The annual average cost of $ 1.5 billion is lower than the pre-vious annual cost estimation ($ 2 billion) for the zebra mussel and Asian clam in the United States (Pimentel et al., 2005).",0.0
+c012,5,21,"However, here we explicitly account for temporal dynamics in costs over a longer period, using a more conservative methodology and more robust data than the heavily criticized approach presented by Pimentel et al. (Hoffmann & Broadhurst, 2016).",0.0
+c012,5,22,Our analyses indi-cated that studies reporting invasive freshwater bivalve costs have remained at a similar magnitude in recent decades.,0.0
+c012,5,23,"While average decadal cost estimates tended to decline slightly in recent years, this is likely to be an artefact of time- lags in cost estimation, rather than an empirical reduction in economic impact.",0.0
+c012,5,24,"The relative sta-bility in cost increases for freshwater bivalves might also relate, in some cases, to",3.1970432193601335
+c015,1,0,"of native species, while also influencing the spread of invasive species.",0.0
+c015,1,1,"In this study, we compare genetic patterns of two native and one highly invasive riverine fish species in a Belgian river basin, namely the native three- spined stickleback (Gasterosteus aculea-tus) and stone loach (Barbatula barbatula), and the non- native and invasive topmouth gudgeon (Pseudorasbora parva).",0.0
+c015,1,2,We aimed to characterize both natural and anthropo-genic determinants of genetic diversity and population genetic connectivity.,0.0
+c015,1,3,"Genetic diversity was highest in topmouth gudgeon, followed by stone loach and three- spined stickleback.",0.0
+c015,1,4,"The correlation between downstream distance and genetic diversity, a pattern often observed in riverine systems, was only marginally significant in stone loach and three- spined stickleback, while genetic diversity strongly declined with in-creasing number of barriers in topmouth gudgeon.",0.0
+c015,1,5,An Isolation- By- Distance pattern characterizes the population genetic structure of each,0.0
+c015,2,6,"report higher genetic di-versity in the invasive range of topmouth gudgeon compared to its native range (Baltazar- Soares et al., 2020; Brazier et al., 2022; Simon et al., 2011, 2014).",3.407266998470004
+c015,2,7,"The most recent analysis of the global population genetics of topmouth gudgeon (Brazier et al., 2022) indicates that the invasive populations found in Europe descend from native admixed population, thus potentially explaining the elevated heterozygosity, which might also increase these populations' fitness by heterosis (Keller et al., 2014; Roman & Darling, 2007; Rosenthal et al., 2008).",1.2188289185010874
+c015,2,8,"F I G U R E  5  Redundancy analysis biplot linking the natural (a, c, e) and anthropogenic (b, d, f) spatial data sets to the genetic composition of three- spined stickleback (a, b), stone loach (c, d), and topmouth gudgeon (e, f).",2.6147663732344912
+c015,2,9,"Dots represent individuals and colours match with the populations (see Figure 2 for the colour legend and Table 1 for the site abbreviations). 17524571, 0, Downloaded from",0.0
+c015,3,10,"r = 0.302, p = 0.467; three- spined stickleback - topmouth gudgeon: Pearson r = −0.220, P = 0.601).",0.0
+c015,3,11,Effective population size ranged from 19.1 (Demer Tongeren) to 392.1 (Mene Tienen) in three- spined stickle-back (average Ne = 98.5); from 130.2 (Begijnenbeek Bekkevoort) to infinite (Zwarte Beek Beringen) in stone loach (average Ne = 679.2); and from 135.5 (Begijnenbeek Bekkevoort) to 518.1 (Kleine Beek Schaffen) in topmouth gudgeon (average Ne = 279.84) (Table 2).,2.588376231875343
+c015,3,12,"Overall FIS was highest in populations of topmouth gudgeon (average = 0.063) varying between −0.024 and 0.079, followed by three- spined stickleback (average = 0.044, range = −0.029– 0.043) and stone loach (average = −0.008, range = −0.109– 0.142; Table 1).",0.0
+c015,3,13,"Pairwise FST ranged from 0.047 to 0.329 in three- spined stickleback,",3.349289612453324
+c015,4,14,"continues through live bait by anglers and river flooding, potentially concealing natural dispersal and responses to riverine features (Verreycken et al., 2007).",0.0
+c015,4,15,"Three- spined stickleback and stone loach, on the other hand, have been established since the early Holocene in Western Europe (Barluenga & Meyer, 2005; Mäkinen & Merilä, 2008; Wheeler, 1992).",0.0
+c015,4,16,"Hence, their genetic population structure has been shaped by historic patterns of natural selection and connectivity.",-4.679630373346421
+c015,4,17,Higher levels of heterozygosity were observed in topmouth gudgeon compared to the other species.,0.0
+c015,4,18,"It is generally hypothesized that invasive species are genetically less diverse due to a succession of genetic bot-tlenecks associated with founder effects (Allendorf & Lundquist, 2003; Hardouin et al., 2018).",0.7639881832998405
+c015,4,19,"Yet, multiple studies report higher genetic di-versity in the invasive range of topmouth gudgeon compared to its native range (Baltazar- Soares et al., 2020; Brazier et al., 2022; Simon et al., 2011, 2014). The most",0.0
+c015,5,20,remained the same when only including the eight shared sampling locations (Figure S3; Table S6).,0.0
+c015,5,21,"4  |  DISCUSSIONUnderstanding and comparing genetic responses of fishes to natural and anthropogenic spatial variation is important to ensure long- term persistence of species, especially given the current rapid rate of en-vironmental change (Dudgeon et al., 2006).",0.0
+c015,5,22,"Restoring connectivity may decrease population susceptibility to loss of genetic diversity, inbreeding and even extinction, but the simultaneous effect of bar-rier removal on the dispersal of invasive species remains to be ascer-tained (Hoffmeister et al., 2005).",0.0
+c015,5,23,"Overall, genetic structure differed between three common fishes inhabiting Flemish river systems.",1.3253066719489288
+c015,5,24,"Populations of the invasive topmouth gudgeon were less differ-entiated compared to the native species, three- spined stickleback and stone loach.",6.878991754625622
+c015,5,25,"Despite the lower levels of population differen-tiation and high effective population size, topmouth gudgeon ap-peared strongly",2.4885575112619973
+c016,1,0,"this paper, we present the results of a studyon physiological and ecological traits of two introduced and three native macrophytespecies in the Mantua lakes system (northern Italy).",0.0
+c016,1,1,"We compared their photophysiology,pigment content, leaf reflectance, and phenology in order to assess how the invasiveNelumbo nucifera and Ludwigia hexapetala perform compared to native species,Nuphar lutea, Nymphaea alba, and Trapa natans.",0.0
+c016,1,2,nucifera and thenative species especially at extreme weather conditions (prolonged exposure to highlight and higher temperatures).,2.3805017016138144
+c016,1,3,"Chlorophyll a and b, and carotenoids content of bothallochthonous species were substantially higher than those of native plants, suggestingadaptive response to the ecosystem of Mantua lakes system.",0.0
+c016,1,4,Higher variability ofrecorded data in invasive species was also observed.,0.5346548256444628
+c016,1,5,These observations suggestadvanced photosynthetic efficiency,0.0
+c016,2,6,"seasonlength). Ludwigia and Nelumbo, though, have been shownto outperform autochthonous plants in different group oftraits, with the former having a greater advantage in terms ofphysiology-related traits, and the latter in terms of size andgrowth rate-related traits.",0.0
+c016,2,7,"In summary, marked differences of Ludwigia and Nelumbocompared to native macrophytes, in terms of pigment contents(Chl-a, Chl-b, Car), growing season length, and end of seasontiming were observed.",0.0
+c016,2,8,"Parallel to this, compared to all otherspecies, Ludwigia had the highest photophysiological parameters(ETRmax, Ik).",4.561111008635016
+c016,2,9,"Differences were detected in Nelumbo comparedto all other species, in terms of spectral reflectance features(i.",0.0
+c016,2,10,"e., PRI, PRI515, ND546,551, and mND705, connected to higherRUE and pigment pool size), as well as morphological andgrowth rate features.",0.0
+c016,2,11,"During the anomalously hot and dry 2017season, invasive species were found to react differently fromnative species, as well as between themselves. Ludwigia",0.9788532856385564
+c016,3,12,"test; U = 0; P < 0.001; n1 = n2 = 9). Due tothis difference in ETRmax and in Ik, the position of Ludwigia inthe photophysiological PCA was well defined (Figure 3).",1.1004996836738772
+c016,3,13,"The photophysiological properties of Nelumbo did notdiffer from those of the local macrophytes, therefore Nelumboaligned with the rest of the species present within the PCA.",0.0
+c016,3,14,"Further analysis of the photophysiological parameters of thestudied macrophytes demonstrated the higher plasticity ofLudwigia, Trapa, and Nuphar compared with Nymphaea andNelumbo (Table 1).",0.0
+c016,3,15,"Pigment AnalysisChl-a, Chl-b, and Car content of Nelumbo and Ludwigia onweight basis were significantly higher than those of other species(Figures 4A–C; Kruskal-Wallis One Way Analysis of Varianceon Ranks; P < 0.001).",2.9829002431030656
+c016,3,16,"Ludwigia Chl-a content was higher inMay than in July, 2001 ± 258 compared with 1591 ± 313 µggfw−1 (Mann–Whitney U test; U = 11; P = 0.01; n1 = n2 = 9).",0.0
+c016,3,17,"Nevertheless, despite the higher pigment content - Ludwigiaand Nelumbo had, on average, 2.8, 2.7, and 2.4",2.077754838111565
+c016,4,18,"that the success of an invasive macrophyte, in termsof persisting and propagating in its new ecosystem, may be theresult of multiple ecological strategies employed.",0.0
+c016,4,19,"The specificitiesof the new host areas (such as the lack of top-down pressure,lack of pathogens, etc.",0.0
+c016,4,20,",) reduce defense costs, thus liberatingresources to extend and intensify photosynthesis.",0.0
+c016,4,21,"This, coupledwith their better ability to compete for resources and to tolerateharsh conditions, consequently improves the chances of survivalof non-native species.",1.6481621161866522
+c016,4,22,"Ludwigia hexapetala and Nelumbo nuciferahave been documented to establish, spread, and alter the Mantualakes system.",2.3258221363269436
+c016,4,23,"Our data show that specific performance-basedtraits of the invasive macrophytes, photophysiological efficiency,pigment pool size and balance, and leaf spectral reflectancespecifically, can describe and explain the success of thesespecies over native ones in the same environment, in terms ofboth resource competitiveness and tolerance to variability",0.0
+c016,5,24,"of Nelumbo compared to theother species, reinforcing what was already observed for PRI.",0.0
+c016,5,25,"This species is statistically different from all the others interms of ND546,551, indicating higher chlorophyll fluorescencelevels in light-adapted state, and from all the native species interms of ND621,692, which can be attributed to lower valuesof instantaneous ETR.",0.0
+c016,5,26,"Even if not statistically significant atthe 95% confidence level, Ludwigia ND621,692 scores are onaverage slightly lower than those of native species.",0.0
+c016,5,27,"Additionally,Nelumbo mND705 scores, related to leaf chlorophyll content interrestrial plants (Sims and Gamon, 2002), but not yet tested onaquatic vegetation, are significantly higher than any of the othermacrophytes.",0.0
+c016,5,28,This is similar to the leaf pigment measurementsmade on our samples (Figures 4A–C).,1.5316502562808925
+c016,5,29,"Our results suggest that mND705 could be effectively used as aproxy for total chlorophyll content for macrophytes (R2 = 0.59),but estimation error might vary depending on species. In fact,the",0.0
+c019,1,0,connectivity in freshwater ecosystems may follow the hydrological net-work.,0.0
+c019,1,1,"Here we tested whether multiple forms of connectivity to human recreational activities promotes biological invasion of freshwater ecosystems. Location: England, UK. Time period: 1990–2018.",3.5831712196387895
+c019,1,2,"Major taxa studied: One hundred and twenty-six non-native freshwater birds, crus-taceans, fish, molluscs and plants.",2.182330044116471
+c019,1,3,Methods: Machine learning was used to predict spatial gradients in human recrea-tion and two high risk activities for invasion (fishing and water sports).,0.0
+c019,1,4,"Connectivity indices were developed for each activity, in which human influence decayed from activity hotspots according to Euclidean distance (spatial connectivity) or hydro-logical network distance (downstream, upstream and along-channel connectivity).",3.471453568158325
+c019,1,5,"Generalized linear mixed models identified the connectivity type most associated to invasive species richness of each group, while controlling for other anthropogenic and environmental drivers. Results:",0.0
+c019,2,6,"trade networks driving national-scale patterns of inva-sion (Chapman et al., 2017).",0.0
+c019,2,7,"In this study, we tested whether connectivity to different types of human activity explains the invasion of freshwater ecosystems.",0.0
+c019,2,8,"Freshwater ecosystems are disproportionately impacted by bio-logical invasion, having high propagule pressure from intentional and accidental introduction pathways, major habitat alteration and large impacts of invasion (Ricciardi & MacIsaac, 2011).",0.009936476899022178
+c019,2,9,"Indeed, there are many examples of ecosystem transformation caused by predatory or competitively dominant non-native species (Strayer, Caraco, Cole, Findlay, & Pace, 1999).",0.0
+c019,2,10,"Here, we analysed the rela-tionships between human activity and invasion rates by non-na-tive birds, crustaceans, fish, molluscs and plants across England.",0.0
+c019,2,11,"human activities, our approach could enable robust inference of specific pathways and spread mechanisms associated with particular taxa.",0.0
+c019,2,12,This would provide evidence to support better prioritization of,0.0
+c019,3,13,"linear mixed models identified the connectivity type most associated to invasive species richness of each group, while controlling for other anthropogenic and environmental drivers.",0.0
+c019,3,14,Results: Connectivity to humans generally had stronger positive effects on invasion than all other drivers except recording effort.,2.4140483831069206
+c019,3,15,"Recreation had stronger influence than urban land cover, and for most groups high risk activities had stronger effects than general recreation.",0.0
+c019,3,16,"Downstream human connectivity was most important for inva-sion by most of the groups, potentially reflecting predominantly hydrological dis-persal.",2.6240179330065
+c019,3,17,"An exception was birds, for which spatial connectivity was most important, possibly because of overland dispersal capacity.",0.0
+c019,3,18,Main conclusions: These findings support the hypothesis that freshwater invasion is partly determined by an interaction between human activity and species dispersal in the hydrological network.,2.1676431504665965
+c019,3,19,By comparing alternative connectivity types for different 2  |     CHAPMAN et,0.8194518327118026
+c019,4,20,invasion is partly determined by an interaction between human activity and species dispersal in the hydrological network.,0.0
+c019,4,21,"By comparing alternative connectivity types for different 2  |     CHAPMAN et Al.1  | INTRODUC TIONHuman transportation of species beyond their native ranges is an important driver of global ecological change, leading to biological in-vasions that impact biodiversity and ecosystem function (Vilà et al., 2011).",2.2278617871923037
+c019,4,22,"As such, substantial effort has been dedicated to understand-ing the risk factors explaining invasion and using these relationships to prioritize surveillance and management (McGeoch et al., 2016).",0.0
+c019,4,23,"Previous studies have linked variation in invasion at biogeographic scales to interactions between environmental, biotic and anthro-pogenic drivers (Catford, Jansson, & Nilsson, 2009; Chapman et al., 2016; Essl et al., 2011; Gallardo, Zieritz, & Aldridge, 2015; Pyšek et al., 2010; Theoharides & Dukes, 2007).",0.0
+c019,4,24,"Among these, human activities clearly play a major role.",0.0
+c019,5,25,"effect on observed non-native richness, river length and disturbed land use types (ara-ble and improved) generally had positive effects on invasion, while elevation and protected areas generally had negative effects.",0.3793504362462404
+c019,5,26,"Effects of lake presence and flow accumulation were less consistent across groups, while temperature surprisingly had no significant effect on any group (Figure 4a and Supporting Information Appendix S5).",0.0
+c019,5,27,"4  | DISCUSSION  This was the case for all taxonomic groups analysed other than fish, for which non-native richness was better explained by local fishing activity than any connectivity metric.",0.0
+c019,5,28,This may be explained by comparatively low recorded invasion rates among this group (see Table 2 and,0.0
+c020,1,0,and critical evaluationThe invasive submerged macrophytes wholly domi-nated the ecosystem functioning in Littoistenjärvi in1986–1999.,0.0
+c020,1,1,"Elodea biomass peaked in 1986, 1991 and1997–1998, followed by population collapses in 1987,1992 and 1999.",0.5473966518638953
+c020,1,2,Ceratophyllum was dominant in 1996and moderately abundant from 1997 to 2005.,0.0
+c020,1,3,"In 1987,most of the plants died during the winter because ofanoxia, or freezing into the thick ice, while in 1992 themass death was after the ice-out in May.",0.0
+c020,1,4,"In the winter1999, the lake went almost completely anoxic underthe ice, and most of the Elodea were killed (Fig. 2).",0.0
+c020,1,5,"Each collapse was followed by high nutrient and Chl-a levels during one summer, while clear-water condi-tions with low nutrient and Chl-a levels prevailed inthe following 2–4 years.",0.0
+c020,1,6,The suc-cessively worsening water quality problems,0.9688706689839506
+c020,2,7,"the submerged macrophytes did not recover,and the lake remained in the 2000s in a hypertrophicstate dominated by cyanobacterial blooms.",6.449346124093644
+c020,2,8,"The suc-cessively worsening water quality problems elicitednumerous management attempts in the catchment andin the lake, from aeration to removal of vegetation,reduction of external load, intensified fishing, andfinally to chemical precipitation of phosphorus(Table 1).",0.0
+c020,2,9,"In the following sections, we criticallyassess the measures implemented and their success incombating specific environmental problems in thelake Littoistenjärvi.",1.5660283336122534
+c020,2,10,"Problem: the threat of winter anoxiaElodea overwinters in an active state (Nichols &Shaw, 1986), and its respiration causes oxygen deficitunder the ice, when there is too little light forphotosynthesis.",0.0
+c020,2,11,"In Littoistenjärvi, the late winteroxygen saturation close to the bottom was low,20–40%, even without Elodea in 1975–1981 (Sarvala& Perttula, 1994).",0.0
+c020,2,12,"During its mass occurrences,Elodea was evenly distributed in the lake,",0.0
+c020,3,13,"Littoistenjärvi was still in about similar condi-tion as in the beginning of the 1900s (Wahlberg, 1913;Rautanen et al., 1985).",0.0
+c020,3,14,"In the following two decades,however, the lake experienced rapid shifts betweenextreme clear-water and turbid states, associated withpopulation cycles of the invasive submerged macro-phytes Elodea canadensis Michx (later briefly Elodea)and Ceratophyllum demersum L. (later Ceratophyl-lum).",0.0
+c020,3,15,"Both species showed up in the 1960s, but theirpopulations remained small until the mid-1980s whenElodea started to develop mass occurrences (Fig. 2).",0.0
+c020,3,16,"To be able to manage the problems caused to waterabstraction, follow-up of macrophytes was started in1986, and by 1992 it was expanded into comprehen-sive ecological monitoring.",1.4588290275092908
+c020,3,17,"In the 2000s, the sub-merged macrophyte dominance was replaced byphytoplankton dominance and badly deterioratedwater quality.",0.0
+c020,3,18,"To maintain or restore the usability ofthe lake, various management actions were taken overthe years. As the lake is one of the",-0.0723041978656927
+c020,4,19,"RESTORATION OF EUTROPHIC LAKES Review PaperInvasive submerged macrophytes complicate managementof a shallow boreal lake: a 42-year history of monitoringand restoration attempts in Littoistenjärvi, SW FinlandJouko Sarvala . Harri Helminen .",0.0
+c020,4,20,"Jukka HeikkiläReceived: 1 November 2019 / Revised: 5 May 2020 / Accepted: 29 May 2020 The Author(s) 2020Abstract The small, shallow lake Littoistenjärvi(SW Finland) experienced in 1978–2019 rapid fluctu-ations between extreme ecological states, initiallyassociated with mass occurrences of the submergedmacrophyte Elodea canadensis Michx.",1.5543163651101402
+c020,4,21,"In collapseyears following abundance peaks, water was turbid, inother years clear.",0.0
+c020,4,22,"Aeration prevented anoxia under ice-cover, but this favoured Elodea.",0.0
+c020,4,23,"Mechanical plantremoval accelerated Elodea growth, and had to beabandoned.",2.2009051808087214
+c020,4,24,"Recurrent cyanobacterial blooms startedin 2000, and by 2006 phosphorus and chlorophyllreached new high levels because of increased internalloading. During this turbid state, internal",3.409964497623659
+c020,5,25,"years, in spiteof clear water (Fig. 2). But during the next summer2018, Elodea started to spread over the lake bottom, sothat the coverage in late summer was approaching30%, and some other species were also increasing(Potamogeton crispus L. and Myriophyllum alterni-florum DC).",0.0
+c020,5,26,Average total macrophyte biomassremained low (Fig. 2).,0.9220604036800623
+c020,5,27,"In the following winter, oxygendeficit developed below 2 m depth, particularly in thesouthern part of the lake where the plant coverage washighest.",0.0
+c020,5,28,"As a result, partially decomposing floatingplants appeared in spring 2019 across the lake, andwere collected and transported away.",0.0
+c020,5,29,"Towards autumn2019, Elodea coverage and biomass continued amoderate increase.",0.0
+c020,5,30,The TP contents of sediment after the chemicaltreatment did not differ significantly from the valuesdetermined before the treatment (Table 2).,0.0
+c020,5,31,"The looselybound NH4Cl-P fraction and the HCl-P (Ca-P) orinsoluble apatite fraction had reduced to roughly half,and the residual phosphorus to two-thirds of the",0.0
+c021,1,0,"or grown, unless it is done in contained holding, where are physically isolated and cannot escape or spread by unauthorized persons (European Commission 2014).",1.140892012492485
+c021,1,1,"Therefore, these species should be removed from the Span-ish urban parks.",0.0
+c021,1,2,"On the other hand, our analysis identified only one spe-cies with no risk to be invasive.",0.0
+c021,1,3,Ficus benjamina is the only species in our Green list.,1.679510733113766
+c021,1,4,"Based on the consulted sci-entific evidence (CABI 2020), this species can be plant-ed safely.",1.6760696655360028
+c021,1,5,"However, the criteria to classify a species in the Green list is that they are not established in Spain, not in-vasive anywhere and the climate in mainland Spain is not suitable.",0.0
+c021,1,6,The propagule pressure is an important factor de-termining invasion (Lockwood & al.,0.3538982384556473
+c021,1,7,"2005, 2009), so it is worth considering that planting species in large quantities and in many locations can change this scenario.",0.0
+c021,1,8,There are possibly many species in the Data Deficient list that could be moved to the Green list but our methodology is conser-vative,0.0
+c021,2,9,Anales del Jardín Botánico de Madrid 79 (1): e121https://doi. org/10.3989/ajbm. 2623ISSN-L: 0211-1322Abstract.,0.0
+c021,2,10,"Urban parks and gardens are one of the most important path-ways for the deliberate introduction of non-native plant species, some of which cause environmental and socioeconomic impacts.",0.0
+c021,2,11,"We conducted a risk assessment on 388 non-native woody plant species from 46 urban parks of mainland Spain to classify them in lists based on their invasion status, being invasive elsewhere, climate matching with the area of origin, and potential to cause negative impacts.",0.0
+c021,2,12,"Four species are invasive and regulat-ed (Priority list); 47 invasive or potentially invasive species can cause more impact types than the median value (Attention list), while 12 can cause less impacts than the median (Watch list).",0.0
+c021,2,13,There is no park without any invasive or potentially invasive species.,1.311109831987865
+c021,2,14,The most common potential impacts could be competition with native,0.0
+c021,3,15,"plants, WRA. Resumen. Los parques y jardines urbanos son una de las vías más im-portantes de la introducción deliberada de especies de plantas no nativas, algunas de las cuales causan impactos ambientales y socioeconómicos.",0.0
+c021,3,16,"Realizamos un análisis de riesgo de 388 especies de plantas leñosas no nativas de 46 parques urbanos de España peninsular para clasificarlas en listas basadas en su categoría de invasión en España, la capacidad de ser invasora en otros lugares, la coincidencia climática en su área de origen y el potencial de causar impactos negativos.",0.6627362159504722
+c021,3,17,Solo Ficus benjamina no po-see potencial invasor (Lista verde).,3.0357692390226747
+c021,3,18,"Cuatro especies son invasoras y están reguladas (Lista de prioridad); 47 especies invasoras o potencialmente in-vasoras pueden causar más impactos que la mediana (Lista de atención), mientras que 12 especies pueden causar menos impactos que la mediana (Lista de observación).",0.0
+c021,3,19,No hay parques sin especies invasoras o poten-cialmente invasoras. Los impactos potenciales más,0.6991826270462711
+c021,4,20,and risks of non-native ornamental plants 5species.,0.0
+c021,4,21,"From the non-native species, 16 were invasive; four are regulated by the Spanish catalogue (BOE 2019), con-forming the Priority List: Acacia dealbata Link, present in four parks (8.7%); Buddleja davidii Franch.",0.0
+c021,4,22,", present in two parks (4.3%); Opuntia ficus-indica (L. ) Mill.",0.0
+c021,4,23,", present in two parks (4.3%); and Ailanthus altissima (Mill.",0.0
+c021,4,24,") Swingle, pres-ent in 20 parks (43.5%).",0.0
+c021,4,25,"This last species is also regulated by the European list (European Commission 2019). Only one species, Ficus benjamina L. , was classified in the Green list.",0.0
+c021,4,26,"From the rest of species, 39 were established, 72 were casual, and 33 were not found in the wild.",0.0
+c021,4,27,We found information of potential impacts for only 59 invasive and potentially invasive species.,1.3463514667129197
+c021,4,28,The median number for environmental impacts was four and the median for socioeconomic impacts was one.,0.0
+c021,4,29,For-ty-seven species (12.1% of total non-native and 79.7% of the invasive and potentially invasive species) had,0.0
+c021,5,30,have provided the first risk analysis of the invasion potential of woody species widely planted in representative urban parks across Spain.,0.0
+c021,5,31,"Overall, our results show that de-spite invasive and potentially invasive species are a minority of the total number of species present at Spanish urban parks, all parks host some of them.",0.0
+c021,5,32,These species have the poten-tial to cause several impacts if they scape and establish in the wild.,0.0
+c021,5,33,"Interestingly, the ones with the highest interest to society are planted in more parks.",1.4784788405315061
+c021,5,34,Because the introduction of plant species for ornamental purposes is one of the major pathways of invasion (Mayer & al. 2017; Haeuser & al.,0.0
+c021,5,35,"2018), our risk analysis indicates that more research is needed on the con-straints of ornamental plants to establish in natural areas and to cause impact. AKNOWLEDGEMENTSWe thank I.",0.0
+c021,5,36,Álvarez and an anonymous reviewer for comments on a previous version of this manuscript.,0.0
+c021,5,37,This study was funded by the Spanish Ministerio de Ciencia e Innovación,0.0
+c026,1,0,"divergence of MT-CO1 was 17.7%, which corresponds top-distance values between MT-CO1 sequences available in databases of other morpholog-ically different congeneric mite species that are also associated with closely related hostplants (e. g., A. holcusi and A. mckenziei).",0.0
+c026,1,1,"Similarly, clear differentiation was shown in othereriophyoid genera inhabiting different grass hosts such as Aceria tosichella s. l.",0.0
+c026,1,2,", 13.9% [8] andAbacarus hystrix, 22.6% [65].",0.0
+c026,1,3,Because of the great morphological similarity between already described Aculodesaltamurgiensis and recently discovered Aculodes marcelli sp. nov.,0.0
+c026,1,4,", there was an early sus-picion that they were the same species, but from different host plants (BV, pers. comm. ).",0.0
+c026,1,5,"However, the integrative approach for description of the new species of eriophyoid mitespresented herein, i.",0.0
+c026,1,6,"e., results of both phenotypic and genotypic variability did not confirmthis hypothesis.",0.0
+c026,1,7,"According to the results of our morphometric analysis, A. altamurgiensis isclearly separated",0.0
+c026,2,8,"sp. nov. , is morphologically described andillustrated. Compared with other Aculodes spp.",0.0
+c026,2,9,", it differs based on morphology and the sequenceof the mitochondrial cytochrome oxidase gene, subunit I (MT-CO1).",0.7727952405297729
+c026,2,10,"Results of morphometricanalysis showed clear differentiation between A. marcelli sp. nov. , and the most similar congener, A.",0.0
+c026,2,11,altamurgiensis from Taeniatherum caput-medusae. Aculodes marcelli sp. nov.,0.6001051228925152
+c026,2,12,", is anew candidate agent for classical biological control of A. tectorum.",0.0
+c026,2,13,Keywords: Acari; biological control of weeds; CVA; Eriophyoidea; MANOVA; Poaceae1.,0.0
+c026,2,14,IntroductionEriophyoid mites are obligate herbivores characterized by minute size and simplifiedbody structure [1].,1.0448612303326292
+c026,2,15,Traditional descriptions of new eriophyoid species only on the basis onmorphological traits often provide,0.0
+c026,3,16,"in genes shared by all mite species). Without these modern analytical tools, this mitewould probably have been considered as the same species as another mite that infests other plants.",0.0
+c026,3,17,This new mite species will now be tested to determine if it is suitable for importation and release inthe USA as a biological control agent of cheatgrass.,0.0
+c026,3,18,"Abstract: A new species of eriophyoid mite, Aculodes marcelli sp. nov.",1.8606138388868614
+c026,3,19,", was discovered on cheatgrass,Anisantha tectorum (L. ) Nevski (syn. Bromus tectorum L.",0.0
+c026,3,20,"), an annual grass that is native to Eurasia andNorthern Africa.",0.9619061641695241
+c026,3,21,"This grass was introduced to North America near the end of the 19th century andnow is widespread and associated with the observed increases in the size, frequency, and intensity ofwildfires in western N. America. In this paper, A. marcelli sp. nov.",0.0
+c026,3,22,", is morphologically described andillustrated. Compared with other Aculodes spp.",0.0
+c026,3,23,", it differs based on morphology and the sequenceof the mitochondrial cytochrome oxidase gene, subunit I",1.0621523711421776
+c026,4,24,"mckenziei(FJ387561) 0.217 0.217 0.211 0.215 0.213 0.000 0.0457 Aculodes mckenziei(FJ387562) 0.219 0.219 0.200 0.202 0.202 0.045 0.0458 Aculodes holcusi(MW439276) 0.172 0.172 0.158 0.162 0.158 0.206 0.208Pairwise comparison of trimmed MT-CO1 fragments (531 bp) between A. marcelli sp. nov. , and A.",0.0
+c026,4,25,altamurgiensis averaged 17.6% genetic divergence.,0.0
+c026,4,26,Similar p-distances wereestimated between the new species and A.,0.0
+c026,4,27,"holcusi (17.2%), while average pairwise distanceestimated between A. marcelli sp. nov. , and A. mckenziei was 21.8% (Table 3).",0.0
+c026,4,28,"Translation into amino acid sequences revealed 1.1% divergence between populationsof A. marcelli sp. nov. , with both A. altamurgiensis and A.",0.0
+c026,4,29,"holcusi, which is approximatelyone-quarter the amino acid divergence between the new species and A. mckenziei (4%)(Table 3). 3.3. TaxonomyAculodes marcelli Vidović sp. nov. , (Figures 2–4)Description. FEMALE (n = 10).",3.1474279584675156
+c026,4,30,"Body wormlike 277 (217–293), 60 (57–65) wide,whitish in color. Gnathosoma 19 (18–20) curved downwards,",0.0
+c026,5,31,"p-distances between Aculodes marcelli sp. nov. ,and three congeners (A. altamurgiensis, A. mckenziei, and A.",1.2719330225391534
+c026,5,32,holcusi) based on CO1 nucleotide (belowthe diagonal) and amino acid sequences (above the diagonal).,0.0
+c026,5,33,Numbers in column headers referto species and populations listed in their respective rows.,0.0
+c026,5,34,Genbank accession numbers providedin parentheses. 1 2 3 4 5 6 7 81 Aculodes marcelli sp. nov.,0.0
+c026,5,35,Bulgaria (OP028122) 0.000 0.011 0.011 0.011 0.040 0.040 0.0112 Aculodes marcelli sp. nov.,1.3008236780806566
+c026,5,36,Serbia (OP028123) 0.000 0.011 0.011 0.011 0.040 0.040 0.0113 Aculodes altamurgiensisBulgaria (OP028124) 0.177 0.177 0.000 0.000 0.045 0.045 0.0004 Aculodes altamurgiensis(MH352403) 0.177 0.177 0.032 0.000 0.045 0.045 0.0005 Aculodes altamurgiensis(MH352404) 0.175 0.175 0.021 0.011 0.045 0.045 0.0006 Aculodes mckenziei(FJ387561) 0.217 0.217 0.211 0.215 0.213 0.000 0.0457 Aculodes mckenziei(FJ387562) 0.219 0.219 0.200 0.202 0.202 0.045 0.0458 Aculodes holcusi(MW439276) 0.172 0.172 0.158 0.162 0.158 0.206,2.355974817783415
+c027,1,0,"L, Pica A, Pilon N, Pinzani L, Pittarello M, Podda L, Probo M, Prosser F, Raffaelli C, Ravetto Enri S, Rivieccio G, Rosati L, Sarmati S, Scafidi F, Selvi F, Sennikov AN, Sotgiu Cocco G, Spampinato G, Stinca A, Tavilla G, Tomaselli V, Tomasi D, Tomasi G, Trenchi M, Turcato C, Verloove F, Viciani D, Villa M, Wagensommer RP, Lastrucci L (2021) Notulae to the Italian alien vascular flora: 11. Italian Botanist 11: 93–119. https://doi. org/10.3897/italianbotanist.",6.239828073410759
+c027,1,1,"11.68063  It includes new records, confirmations, exclusions, and status changes for Italy or for Italian administrative regions.",7.648309535071963
+c027,1,2,Nomenclatural and distribution updates published elsewhere are provided as Suppl. material 1.,0.0
+c027,1,3,"KeywordsAlien species, floristic data, Italy, nomenclatureHow to contributeThe text for the new records should be submitted electronically to Lorenzo Lastrucci (lorenzo. lastrucci@unifi. it). The",0.0
+c027,2,4,"Cecchi L, Del Guacchio E, Domina G, Fascetti S, Gallo L, Gubellini L, Guiggi A, Iamonico D, Iberite M, Jiménez-Mejías P, Lattanzi E, Marchetti D, Marti-netto E, Masin RR, Medagli P, Passalacqua NG, Peccenini S, Pennesi R, Pierini B, Podda L, Poldini L, Prosser F, Raimondo FM, Roma-Marzio F, Rosati L, Santangelo A, Scoppola A, Scortegagna S, Selvaggi A, Selvi F, Soldano A, Stinca A, Wagensommer RP, Wilhalm T, Bartolucci F (2018) An updated checklist of the vascular flora alien to Italy. Plant Biosys-tems 152(3): 556–592. https://doi.",6.50988537016369
+c027,2,5,"org/10.1080/11263504.2018.1441197Galasso G, Domina G, Adorni M, Ardenghi NMG, Banfi E, Bedini G, Bertolli A, Brundu G, Calbi M, Cecchi L, Cibei C, D’Antraccoli M, De Bastiani A, Faggi G, Ghillani L, Iberite M, Latini M, Lazzeri V, Liguori P, Marhold K, Masin R, Mauri S, Mereu G, Nicolella G, Olivieri N, Peccenini S, Perrino EV, Peruzzi L, Petraglia A, Pierini B, Prosser F, Roma-Marzio F, Romani R, Sammartino F, Selvaggi A, Signorile G, Stinca A, Verloove F,",0.0
+c027,3,6,"1. KeywordsAlien species, floristic data, Italy, nomenclatureHow to contributeThe text for the new records should be submitted electronically to Lorenzo Lastrucci (lorenzo. lastrucci@unifi. it).",0.0
+c027,3,7,"The corresponding specimen along with its scan or pho-tograph has to be sent to FI Herbarium: Museo di Storia Naturale (Botanica), Sistema Museale di Ateneo, Via G. La Pira 4, 50121 Firenze (Italy).",2.564526385352726
+c027,3,8,"Those texts concerning no-menclatural novelties (typifications only for accepted names), status changes, exclusions, and confirmations should be submitted electronically to Gabriele Galasso (gabriele. gal-asso@comune. milano. it).",5.236779721577965
+c027,3,9,"Each text should be within 1,000 characters (spaces included).",-7.756517755417594
+c027,3,10,"Floristic recordsAcacia dealbata Link (Fabaceae)+ (NAT) SIC: Castelbuono (Palermo), c.",3.4395974204653825
+c027,3,11,"da Vicaretto (WGS84: 37.901537°N, 14.125820°E), pascolo abbandonato, 7 July 2018, G. Domina (SAF); Cefalù (Paler-mo), c.",0.0
+c027,3,12,"da Carbonara (WGS84: 38.005208°N, 14.027224°E), vicinanze di oliveto e frutteti, 580 m, 8 August 2020, G. Domina",0.0
+c027,4,13,"F, Magrini S, Mainetti A, Marignani M, Maruca G, Medagli P, Mei G, Menini F, Mezzasalma V, Misuri A, Mossini S, Mugnai M, Musarella CM, Nota G, Olivieri N, Padula A, Pascale M, Pasquini F, Peruzzi L, Picella G, Pinzani L, Pirani S, Pittarello M, Podda L, Ravetto Enri S, Rifici CD, Roma-Marzio F, Romano R, Rosati L, Scafidi F, Scarici E, Scarici M, Spampinato G, Stinca A, Wagensommer RP, Zanoni G, Nepi C (2019) Notulae to the Italian alien vascular flora: 8. Italian Botanist 8: 63–93. https://doi. org/10.3897/italianbotanist. 8.48621.",4.156881732032414
+c027,4,14,"suppl1Giardina G, Raimondo FM, Spadaro V (2007) A catalogue of plants growing in Sicily. Bocconea 20: 5–582.",0.0
+c027,4,15,Grandis M (2016) Sulla presenza di Chasmanthe floribunda e Chasmanthe aethiopica in Italia. Acta Plantarum Notes 4: 137–139.,0.0
+c027,4,16,ItIsWet [Italian Islands Wetlands] (2019) ITG26SAR2741 – Foce di s’Ena sa Chitta. Up-dated: 06.2020. https://italiaiswet. it/general/report. php?,0.5491463161650159
+c027,4,17,id=2487&lang=en [accessed 20.11.2020]Lambinon J (1995) Corrections et commentaires,0.0
+c027,5,18,"Mauri S, Mereu G, Nicolella G, Olivieri N, Peccenini S, Perrino EV, Peruzzi L, Petraglia A, Pierini B, Prosser F, Roma-Marzio F, Romani R, Sammartino F, Selvaggi A, Signorile G, Stinca A, Verloove F, Nepi C (2016) Notulae to the Italian alien vascular flora: 1. Italian Botanist 1: 17–37. https://doi. org/10.3897/italianbotanist.",0.0
+c027,5,19,"1.8777Galasso G, Domina G, Andreatta S, Angiolini C, Ardenghi NMG, Aristarchi C, Arnoul M, Azzella MM, Bacchetta G, Bartolucci F, Bodino S, Bommartini G, Bonari G, Buono S, Buono V, Caldarella O, Calvia G, Corti E, D’Antraccoli M, De Luca R, De Mattia F, Di Natale S, Di Turi A, Esposito A, Ferretti G, Fiaschi T, Fogu MC, Forte L, Frigerio J, Gubel-lini L, Guzzetti L, Hofmann N, Laface VLA, Laghetti G, Lallai A, La Rosa A, Lazzaro L, Lodetti S, Lonati M, Luchino F, Magrini S, Mainetti A, Marignani M, Maruca G, Medagli P, Mei G, Menini F, Mezzasalma V, Misuri A, Mossini S, Mugnai M, Musarella CM, Nota G, Olivieri N, Padula A, Pascale M, Pasquini F, Peruzzi L,",-8.336403565179738
+c028,1,0,"are provided in support of the assumption that this non-native species was accidentally introduced as a contaminant of the aquatic plant consignment, which had been transported in trays of water.",0.0
+c028,1,1,"The pumpkinseed is of concern because it is one of six species predicted to benefit, and thus become invasive, under the forecasted future warmer climate conditions, both in England (Britton et al. 2010a) and in France (Masson et al. 2015).",0.0
+c028,1,2,"Materials and methods The study site was Langdon Lake, a small water body (area ≈ 0.8 ha) formerly known as Dunton Lake (latitude: 51.564872; longitude: 0.393362) and situated near Basildon (County of Essex, England). Prior to the arrival of L.",2.3065458423453196
+c028,1,3,"gibbosus, annual electrofishing surveys of Langdon Lake revealed the presence of common carp Cyprinus carpio and rudd Scardinius erythrophthalmus only.",1.1719113610291814
+c028,1,4,"In March 2014, the lake was stocked with native aquatic plants by an independent consultant who transported the plants by automobile from the supplier to the water",0.0
+c028,2,5,"scientists, policy makers and stakeholders could encourage the development of the management and policy in the increasingly important area of biological invasions.",0.0
+c028,2,6,Abstract The introduction of non-native species as contaminants of aquatic plant consignments is poorly documented. Growth and life-history data for the L.,1.4631156299307333
+c028,2,7,gibbosus specimens captured in the water body provided biological evidence (relatively rapid juvenile growth and early maturation) that supports the assumption that L.,0.0
+c028,2,8,gibbosus was accidentally introduced as a contaminant of the aquatic plant consignment.,2.4087191132882753
+c028,2,9,This study highlights the importance of adhering to current guidelines on the movement of aquatic plants (e.,0.0
+c028,2,10,"g. Great Britain’s “Be Plant Wise” educational initiative), which aims to prevent unwanted transfer of",0.0
+c028,3,11,"Scardinius erythrophthalmus only. In March 2014, the lake was stocked with native aquatic plants by an independent consultant who transported the plants by automobile from the supplier to the water body in water-filled trays.",0.0
+c028,3,12,"Subsequent investigation revealed that the source of the aquatic plants was a supplier situated within the current UK range of pumpkinseed and known to have the species on site. On 7 April 2015, specimens of L.",1.7424057206151644
+c028,3,13,"gibbosus were collected by conti-nuous electrofishing (generator-powered DC unit), which was undertaken as three separate passes around the borders of the water body.",1.0014492096510796
+c028,3,14,"Captured pumpkin-seed were immediately killed with an overdose of  2-phenoxyethanol, then immersed in a slurry of iced water (a procedure permitted under U. K.",0.9725418106582592
+c028,3,15,"Home Office project licence), and transported on ice to the laboratory.",0.0
+c028,3,16,"After defrosting, the specimens were measured for total length (TL) to the nearest mm and weighed (Wt) to the nearest 0.1 g, with scale samples taken from the area",0.0
+c028,4,17,but animal contaminants were invertebrates and no fish species were reported.,3.835529741701531
+c028,4,18,"However, the introduction of non-native fish and aquatic plants has a long history, which is evinced by the introduction of Canadian pond weed Elodea canadensis to Loch Leven (Scotland) when fish tank residues were jettisoned into the lake by “an itinerant hawker of goldfish” (West 1910, p. 172).",0.0
+c028,4,19,"As a con-tribution to such rare events, the aim of this short communication is to report on the introduction of the North American sunfish, pumpkinseed Lepomis gibbosus, to an angling venue where the species had not been observed during annual fishery surveys prior to the stocking of native aquatic plants for habitat enhancement. Growth and life-history data for the L.",0.0
+c028,4,20,"gibbosus specimens captured in the water body are provided in support of the assumption that this non-native species was accidentally introduced as a contaminant of the aquatic plant consignment, which had been transported in trays of water. The",0.0
+c028,5,21,"allocation, local-scale variation and environmental influences on life history traits of introduced pumpkinseed (Lepomis gibbosus) in Southern England.",3.970847390995086
+c028,5,22,"Fundamental & Applied Limnology 178 231–243, https://doi.",0.0
+c028,5,23,org/10.1127/1863-9135/2011/0178-0231) Helms DR (1967) Use of formalin for selective control of tadpoles in the presence of fishes.,0.0
+c028,5,24,"Progressive Fish Culturist 29: 43–47, https://doi.",0.0
+c028,5,25,org/10.1577/1548-8640(1967)29[43:UOFFSC]2.0.,0.0
+c028,5,26,"CO;2 Jute A, Dunphy BJ (2017) The potential efficacy and application of freshwater and hypersaline immersion to control the spread of a marine invasive species.",0.0
+c028,5,27,"Biological Invasions 19: 1137–1141, https://doi.",1.5021287293459158
+c028,5,28,"org/10.1007/s10530-016-1350-8 Keller RP, Lodge DM (2007) Species invasions from commerce in live aquatic organisms: problems and possible solutions. Bioscience 57: 428–436, https://doi.",0.0
+c028,5,29,"org/10.1641/B570509 Kipping J (2006) Globalisierung und Libellen: Verschleppung von exotischen Libellenarten nach Deutschland (Odonata: Coenagrionidae, Libellulidae).",0.0
+c029,1,0,"ARTICLESimilarity of introduced plant species to native onesfacilitates naturalization, but differences enhanceinvasion successJan Divíšek 1,2, Milan Chytrý 1, Brian Beckage 3, Nicholas J.",0.0
+c029,1,1,"Gotelli 4, Zdeňka Lososová 1,Petr Pyšek 5,6, David M.",0.0
+c029,1,2,"Richardson 7 & Jane Molofsky 3The search for traits associated with plant invasiveness has yielded contradictory results, inpart because most previous studies have failed to recognize that different traits are importantat different stages along the introduction–naturalization–invasion continuum.",0.0
+c029,1,3,This pattern was driven mainly by the greater average height ofinvasive species.,0.0
+c029,1,4,These results suggest that the primary determinant of successful,0.0
+c029,2,5,of alien species to native ones might alsoprevent naturalized species from becoming invasive because theylack competitive advantage.,1.9580037707881144
+c029,2,6,"Therefore, a small subset of thenaturalized species that differ from the native species of the samehabitat in possessing additional traits that support competitive-ness, namely taller stature, can eventually become invasive.",0.0
+c029,2,7,Thefact that this pattern persists even in residuals of phylogeneticmodels suggests that it is turning up repeatedly for species fromdifferent lineages.,0.3407560223194823
+c029,2,8,"We conclude that naturalized non-invasive species tend to befunctionally similar to native species occurring in the samehabitat type, but that invasive species differ from both native andnaturalized non-invasive species by occupying the periphery ofthe plant functional trait space represented in each habitat, i. e.,the edge of the trait space.",1.6897467627410736
+c029,2,9,"We speculate that, for the temperateherb-dominated ﬂora of Central Europe, this functional differ-ence can be largely ascribed to a single",0.0
+c029,3,10,ofinvasive alien species in this ﬂora37.,0.0
+c029,3,11,"We expect the location ofinvasive species to be on the edge of trait space in other ﬂoras too,although the nature of the traits may be different.",2.5965182787987215
+c029,3,12,A global meta-analysis by van Kleunen et al.9 showed thatinvasive species had on average higher values of several traits thannon-invasive species and more trait differences were signiﬁcantfor native vs.,0.0
+c029,3,13,invasive comparison than for non-invasive alien vs. invasive comparisons.,0.0
+c029,3,14,"Gallagher et al.10 found that in the Aus-tralian ﬂora, traits of invasive plants differed from those of nat-uralized non-invasive congeneric species.",0.0
+c029,3,15,"However, unlike ourstudy, none of these analyses were based on the total ﬂora ofindividual habitats.",2.087095301019271
+c029,3,16,The similarity of non-invasive alien and native species suggeststhat environmental ﬁltering is the main mechanism that controlsestablishment of newly introduced species into plant commu-nities in invaded habitats.,0.0
+c029,3,17,"Environmental ﬁltering11,12 assumesthat new species require the same",0.0
+c029,4,18,DOI: 10.1038/s41467-018-06995-44 NATURE COMMUNICATIONS |          (2018) 9:4631 | DOI: 10.1038/s41467-018-06995-4 | www. nature.,0.0
+c029,4,19,com/naturecommunicationsconsistent across the six studied habitat types.,0.0
+c029,4,20,Functional simi-larity to native species is sufﬁcient for successful naturalization ofintroduced species.,1.2845247035260503
+c029,4,21,"However, to become invasive, alien speciesneed to be functionally different from the mean trait values ofnative species.",0.0
+c029,4,22,"In other words, a species needs to be similarenough to be admissible to a community type, but differentenough, i.",0.0
+c029,4,23,"e., situated on the edge of the trait space, to becomeinvasive.",0.44304821051051196
+c029,4,24,"Our analysis also indicates that in all habitat types, thetrait that makes this difference is being taller at maturity, whichsuggests that stronger competitive ability is the key to success ofinvasive alien species in this ﬂora37.",0.0
+c029,4,25,"We expect the location ofinvasive species to be on the edge of trait space in other ﬂoras too,although the nature of the traits may be different. A global",2.5498881639588444
+c029,5,26,"species (i. e., those thatestablish and reproduce but do not spread considerably) arefunctionally similar to native species while invasive species (i.",0.3533408343867208
+c029,5,27,e.those that spread over considerable distances from introductionsites) are functionally different.,0.0
+c029,5,28,This pattern was driven mainly bythe greater average height of invasive species and did not quali-tatively change after we statistically controlled for the effects ofphylogenetic relatedness. ResultsSingle-trait comparisons.,1.4515373330547248
+c029,5,29,"For each habitat type, we comparedtraits of naturalized and invasive species with those of nativespecies and applied simple randomization tests of the nullhypothesis that univariate trait median of either naturalized orinvasive species is not signiﬁcantly different from that of nativespecies.",0.0
+c029,5,30,"Single-trait comparisons between native and naturalizedspecies yielded only two signiﬁcant results (p ≤ 0.05) when thecorrection for multiple testing was applied (Fig. 1, SupplementaryTable 1): naturalized non-invasive species in",0.0
+c031,1,0,"Potential invasive plant expansion inglobal ecoregions under climate changeChun-Jing Wang1,2, Qiang-Feng Li2 and Ji-Zhong Wan11 State Key Laboratory of Plateau Ecology and Agriculture, Qinghai University, Xining, China2 College of Agriculture and Animal Husbandry, Qinghai University, Xining, ChinaABSTRACTClimate change is increasing the risk of invasive plant expansion worldwide.",0.0
+c031,1,1,"However, few studies have specified the relationship between invasive plantexpansion and ecoregions at the global scale under climate change.",1.9603010440590625
+c031,1,2,"To address thisgap, we provide risk maps highlighting the response of invasive plant species (IPS),with a focus on terrestrial and freshwater ecoregions to climate change, andfurther explore the climatic features of ecosystems with a high potential for invasiveplant expansion under climate change.",1.5718260249698623
+c031,1,3,We use species distribution modelling topredict the suitable habitats of IPS with records at the global scale.,1.221000686500422
+c031,1,4,"Hotspots with apotential risk of IPS (such as aquatic plants,",0.0
+c031,2,5,under climate change. We use species distribution modelling topredict the suitable habitats of IPS with records at the global scale.,0.0
+c031,2,6,Temperature changes wererelated to the potential of IPS expansion in global ecoregions under climate change.,0.0
+c031,2,7,"Coastal and high latitude ecoregions, such as temperate forests, alpinevegetation, and coastal rivers, were severely infiltrated by IPS under climate change.",0.0
+c031,2,8,"Monitoring strategies should be defined for climate change for IPS, particularlyfor aquatic plants, trees, and herbs in the biomes of regions with coastal orhigh latitudes.",0.5919923993940411
+c031,2,9,"The role of climate change on the potential for IPS expansion shouldbe taken into consideration for biological conservation and risk evaluation of IPS atecoregional scales. Subjects Biogeography, Ecology,",0.30528613844688424
+c031,3,10,"For example, future climate change has a large potential to drive IPSinto ecoregions that are highly valuable for the protection of biodiversity in South Africaand the eastern US; the abilities of some protected areas to conserve biodiversitymay be affected by plant invasion in ecoregions under climate change (Bradley, Wilcove &Oppenheimer, 2010; Donaldson et al., 2014;McConnachie et al., 2015; Foxcroft et al., 2017).",0.0
+c031,3,11,"To decrease the invasion risk of IPS, we should assess the potential of invasive plantexpansion in global ecoregions under climate change.",0.0
+c031,3,12,"However, few studies have specified the relationship between IPS expansion and climatechange in global ecoregions under climate change.",0.0
+c031,3,13,"Bellard et al. (2013) projected thedistributions of 36 of the world’s worst IPS across different biomes and proposedsome management suggestions for invasion prevention and control, however,the number of IPS investigated was limited in this study.",0.0
+c031,3,14,"To address this knowledge gap,IPS with a wide",0.0
+c031,4,15,"(2019), PeerJ, DOI 10.7717/peerj. 6479 9/25in Northern Europe, the UK, South America, North America, southwest China, andNew Zealand (Fig. 2).",4.758975899540675
+c031,4,16,"Climatic features of ecoregions with high invasive plant expansionpotentialAccording to the results of the Jackknife test, we found that the most important climaticsuitability variables for IPS were annual mean temperature and temperature seasonality(Fig. 3; Table S1), indicating that there was a significant linear relationship betweenthe changes of annual mean temperature between current and RCP 4.5 scenarios andpotential of IPS to expand in ecoregions across different biomes (P < 0.05).",0.0
+c031,4,17,"The biomesmost affected include the following: terrestrial ecoregions—Rock and Ice, TemperateBroadleaf and Mixed Forests, Temperate Grasslands, Savannas and Shrublands, andTropical and Subtropical Coniferous Forests (Table 2); freshwater ecoregions—XericFreshwaters and Endorheic (closed) Basins (Table 2).",0.4156137049292603
+c031,4,18,"For temperature seasonality, wealso found a similar",1.5605516237237773
+c031,5,19,"phenomena (i. e. environmental driving forces), and climate factors are themain forces of plant invasion in New Zealand and South Africa (Gimeno, Vila &Hulme, 2006; Sheppard, 2013; Donaldson et al., 2014).",0.0
+c031,5,20,"Furthermore, weak competitionability of native plant species may enhance the role of climate factors on invasiveplant expansion potential in southern areas (e.",0.0
+c031,5,21,"g. New Zealand and South Africa;Callaway & Aschehoug, 2000; Vila & Weiner, 2004; Dzikiti et al., 2013; Suckling, 2013;Ellender &Weyl, 2014).",1.021536094073069
+c031,5,22,"Therefore, climate factors play an important role on invasive plantexpansion potential of ecoregions at global scales.",0.0
+c031,5,23,"Implication for invasion managementBased on our results, we provide suggestions for invasion management under climatechange.",0.0
+c031,5,24,"Monitoring strategies should be defined and utilised for climate change forIPS, particularly for aquatic plants, trees, and herbs in the biomes of coastal regions or highlatitudes (Petitpierre et al., 2016;Wang, Wan & Zhang, 2017). In these",0.8500117212770063
+c032,1,0,"inthe two species. Figure 1. Evolution of seed germination as cumulative germination percentages over 14 days,in the presence of increasing isosmotic NaCl and PEG concentrations: (a) Erigeron bonariensis;(b) E. sumatrensis.",0.0
+c032,1,1,"Plants 2022, 11, 2059 4 of 24The one-way ANOVA performed on final germination percentages indicated a smallbut significant reduction only in the seeds of E.",0.0
+c032,1,2,bonariensis from the treatment with the PEGconcentration equivalent to 150 mM NaCl (−0.63 MPa). In E.,0.0
+c032,1,3,"sumatrensis, this reductionwas significant under all PEG concentrations, but not as strong as for NaCl (Figure 2). Figure 2.",1.8429381472197237
+c032,1,4,Final germination percentages and mean germination time after 14 days in the presence ofincreasing concentrations of NaCl and isosmotic concentrations of PEG: (a) germination percentage inErigeron bonariensis and E.,0.0
+c032,1,5,sumatrensis under NaCl stress; (b) germination percentage in E. bonariensisand E.,2.30646929888599
+c032,1,6,sumatrensis under isosmotic concentrations of PEG; (c) mean germination time in E.,2.587795757181658
+c032,2,7,inErigeron bonariensis and E. sumatrensis under NaCl stress; (b) germination percentage in E. bonariensisand E.,0.0
+c032,2,8,sumatrensis under isosmotic concentrations of PEG; (c) mean germination time in E. bonariensisand E.,0.0
+c032,2,9,sumatrensis under NaCl stress; (d) mean germination time in E. bonariensis and E.,0.0
+c032,2,10,"sumatrensisunder isosmotic concentrations of PEG. Bars represent mean with SE, n = 5.",1.8437766384436969
+c032,2,11,"Different lowercaseletters indicate significant differences between treatments, within each species, according to the Tukeytest (α < 0.05).",0.0
+c032,2,12,"Of the three calculated germination indices, the largest oscillations among treatmentswere registered for germination indices (GIs) in both species (Table 1).",0.0
+c032,2,13,"GI values inPlants 2022, 11, 2059 5 of 24E.",2.4464406430587666
+c032,2,14,"bonariensis varied from wide limits, between 4.4 at a concentration of 150 mM NaCland 69.0 in the control (without salt or water stress). In E.",0.0
+c032,2,15,"sumatrensis, the lowest value ofGI was also noted at the concentration of 150 mM NaCl (0.4), and the highest in the control(31.9).",2.0916205868336086
+c032,3,16,"of Valencian Agrodiversity, Universitat Politècnica deValència, Camino de Vera s/n, 46022 Valencia, Spain5 Department of Forestry, University of Agricultural Sciences and Veterinary Medicine of Cluj-Napoca,400372 Cluj-Napoca, Romania* Correspondence: adriana. sestras@usamvcluj. roAbstract: Erigeron bonariensis and E.",0.0
+c032,3,17,sumatrensis are two noxious weeds present in many parts of theworld.,0.0
+c032,3,18,Their tolerance to salinity and water deficit was analysed at the seed germination stage andduring vegetative development.,0.0
+c032,3,19,Seed germination was tested in solutions with different concen-trations of NaCl and polyethylene glycol (PEG).,1.128867458945006
+c032,3,20,"Growth parameters, photosynthetic pigments, ionaccumulation, and antioxidant mechanisms were analysed in plants that were subjected to increasingNaCl solutions, or severe water deficit by completely restricting irrigation. E.",0.0
+c032,3,21,bonariensis had a faster germination inall treatments and maintained a,0.0
+c032,4,22,deficit by completely restricting irrigation. E.,0.0
+c032,4,23,bonariensis had a faster germination inall treatments and maintained a higher percentage of germination under the highest concentrationof salt applied.,3.350769389568317
+c032,4,24,"Growth responses were similar in the two species, both being more affected byhigher salt concentrations than by water deficit.",0.0
+c032,4,25,The main differences in the responses of the twospecies to stress regard K+ and proline concentration.,0.0
+c032,4,26,K+ in roots decreased under salt stress inE.,0.0
+c032,4,27,"sumatrensis, but remained constant in leaves, whereas in E.",0.0
+c032,4,28,bonariensis increased in roots and leavesin salt-stressed plants.,0.0
+c032,4,29,Proline concentration increased in all E.,0.0
+c032,4,30,"bonariensis plants under salt stress, butonly in those under the highest salt concentration in E. sumatrensis.",0.0
+c032,4,31,The results obtained indicate thatthe two species are relatively tolerant to water deficit and medium salinity but are susceptible to highNaCl,0.0
+c032,5,32,"(iv) to analyse the ionic homeostasis, and (v) toquantify oxidative stress markers and antioxidants. Plants 2022, 11, 2059 3 of 242. Results2.1.",0.0
+c032,5,33,"Effects of NaCl and PEG on Seed GerminationSeeds of the two species germinated within 2 weeks, a faster germination registeredfor E. bonariensis (Figure 1).",0.0
+c032,5,34,"The highest percentages of germination were found in thecontrol, reaching 96% in E. bonariensis and 82% in E. sumatrensis. Salinity strongly affectedboth species.",1.025491090839407
+c032,5,35,"Under 50 mM salt concentration, only 56% of seeds of E. bonariensis and 64%of E. sumatrensis germinated.",0.0
+c032,5,36,"The reduction was stronger at higher NaCl concentration,reaching a minimum under 150 mM NaCl of 42% germination in the first species, but only16% in the second.",0.8785165358988253
+c032,5,37,"On the contrary, PEG had only a smaller effect on seed germination inthe two species. Figure 1.",0.0
+c032,5,38,"Evolution of seed germination as cumulative germination percentages over 14 days,in the presence of increasing isosmotic NaCl and PEG concentrations: (a) Erigeron",0.0
+c033,1,0,of high bio-engineering capacity increasingly change bottom topography of sedimentary coasts.,0.0
+c033,1,1,"A Vaucheria-taxon (Xanthophyceae) of unknown origin is spreading at the transition between intertidal and subtidal zones, while resident Vaucheria-species are confined to the upper shore in the Wadden Sea (European Atlantic).",0.0
+c033,1,2,The unicellular filaments reach about 5 cm out of and 5 cm into the sediment. Felted rhizoids provide firm anchorage.,0.0
+c033,1,3,Dry phytomass (up to 208 g m-2) was similar to that of intertidal seagrass beds.,0.0
+c033,1,4,"Residual filaments overwinter in the sediment and give rise to renewed growth in late spring. In addition, oospores germinate.",0.0
+c033,1,5,"Fine particles are trapped by the turf during summer, generating laminated cohesive mud.",2.007159785738556
+c033,1,6,"Muddy hummocks arise up to 20 cm above ambient sand flats, alternating with troughs but gradually merge into coherent and pertinacious plateaus of mud.",0.0
+c033,2,7,Vaucheria cf. velutina at the lower shore of the Wadden Sea is described.,0.0
+c033,2,8,"This Vaucheria persists in large muddy beds, and a rapid spread occurred in 2020 on sandy flats.",0.0
+c033,2,9,Turfs of Vaucheria trap silt upon sand and raise the bottom by up to 20 cm in 3 years.,0.5065346624266516
+c033,2,10,"This may change balance and distribution of mud in tidal basins, and may have implications for adaptations to accelerating global sea level rise.",0.0
+c033,2,11,Layers of dead Vaucheria-filaments in the sediment as well as aerial images indicate that spread in the form of coherent beds commenced in 2018.,2.4129987118417806
+c033,2,12,"Although at rather inaccessible sites, their conspicuousness as raised  Invading grass-like alga in the Wadden Sea  Reise et al. (2022), Aquatic Invasions 17(1): 1–20, https://doi. org/10.3391/ai.",0.0
+c033,2,13,2022.17.1.01 13 beds precludes that these went unnoticed for many years if being present. We assume that V. cf.,0.0
+c033,2,14,velutina constitutes a recent invader to the lower shores at the island of Sylt and to the entire Wadden Sea (Rybalka et al. in press). Why and,0.0
+c033,3,15,then continued more slowly until September 2020 and more than doubled the entire area of the Vaucheria-bed at Blidsel Bay (Figure 2).,2.016653520211242
+c033,3,16,"Beds of Vaucheria at the lower shore were visible from the air as dark shading on  Invading grass-like alga in the Wadden Sea  Reise et al. (2022), Aquatic Invasions 17(1): 1–20, https://doi. org/10.3391/ai. 2022.17.1.01 7  Figure 2. Spread of Vaucheria cf.",1.692084541964008
+c033,3,17,"velutina from overwintered bed (blue) into adjacent sand flats in June (red) and until September 2020 (yellow), measured by walking along boundaries between bed and ambient bare sand flat with GPS.",0.0
+c033,3,18,"Underlying aerial image is from August 31, 2008.",0.0
+c033,3,19,"Black patches near the Vaucheria-bed are from beds with mixed mussels and oysters, while other dark patches further away mostly stem from Sargassum-kelp anchored by clumps of oysters. Photo by AWI. exposed sand flats.",0.0
+c033,3,20,"However, shading was too similar to that of other algae or seagrass for detection or mapping purposes.",0.0
+c033,3,21,"Nevertheless, comparisons between images",0.0
+c033,4,22,keeping pace with sea level rise (Madsen et al. 2010; Braat et al. 2017; Becherer et al. 2018; Benninghoff and Winter 2019). Vaucheria cf.,0.0
+c033,4,23,velutina spreading at the lower shore has the potential to alter this pattern.,1.2091410430690588
+c033,4,24,"Depending on the net mud supply to tidal basins, Vaucheria may either increase the net accumulation rate of mud or initiate an internal redistribution of mud from upper to lower shores.",0.0
+c033,4,25,Which one of these processes would prevail has implications on the capacity of the tidal zone to keep up with an accelerating sea level rise in the wake of global warming.,0.0
+c033,4,26,"Conclusions A novel habitat of bumpy mud deposits emerged at the intertidal-subtidal transition zone, when an introduced Vaucheria-alga established near the island of Sylt in the Wadden Sea in 2018.",0.11044481277935603
+c033,4,27,"Green filaments are thin but dense, trapping fine sediments in summer, and the felted mesh of pink rhizoids consolidates the trapped deposits.",1.8182444709142955
+c033,4,28,This raises the sediment surface up to 20 cm above ambient flats. Although,1.3391117220947297
+c033,5,29,"to 11 Bft, and a long fetch from southeast, hit the muddy  Invading grass-like alga in the Wadden Sea  Reise et al. (2022), Aquatic Invasions 17(1): 1–20, https://doi. org/10.3391/ai. 2022.17.1.01 12 elevations.",0.0
+c033,5,30,This caused erosion at edges of hummocks and the plateaus became rippled.,0.0
+c033,5,31,"At erosion scarps, buried filaments resurfaced, usually mixed with other algae, which deposited in the Vaucheria-bed during summer.",0.786659321733759
+c033,5,32,"In February 2021, 12 d with drifting ice shoals of up to 1.5 m in thickness also hit the mud deposits generated by V. cf. velutina.",0.0
+c033,5,33,Ice scouring left traces as if off-road vehicles had crisscrossed Vaucheria-beds.,0.0
+c033,5,34,Storm and ice events decreased differences in elevation between hummocks/plateaus and troughs to 97 ± 15 mm [range 70–120] (n = 42) by the end of February 2021 where in summer 2020 hummocks were twice as high.,0.0
+c033,5,35,"Nevertheless, the basic bumpy pattern persisted.",0.0
+c033,5,36,"In August 2020, plenty of spherical oogonia (280 to 320 μm in diameter), sessile on old siphons, were",0.0
+c034,1,0,"Science, Tanta University, Tanta 31527, Egypt 5Federal Scientific Center of the East Asia Terrestrial Biodiversity of the Far Eastern Branch, Russian Academy of Sciences, 159,  100-Letia Vladivostoka Prospect, Vladivostok, 690022, Russia *Corresponding author E-mail: marco. cantonati@muse.",0.0
+c034,1,1,it     Abstract Sampling campaigns associated with the ongoing PhyBiO project revealed the new presence of the benthic pinnate heterovalvar araphid diatom Licmophora normaniana.,0.0
+c034,1,2,This species is considered cosmopolitan and is common on marine coasts. The presence of L.,0.0
+c034,1,3,normaniana was confirmed using light and scanning electron microscopy.,2.3173608828163355
+c034,1,4,Environmental variables (including major ions and metals) of this Saharan biotope were measured to,0.0
+c034,2,5,"marine diatom [the araphid Licmophora normaniana (Greville) Wahrer] in a groundwater-fed habitat (an inland mineral desert spring in the Siwa Oasis, the Western Desert of Egypt).",0.0
+c034,2,6,"We characterized the invasive diatom by studying morphology and ultrastructure, and the colonized habitat by measuring hydrochemical and environmental characteristics.",2.23305087525908
+c034,2,7,"Materials and methods Study site The Siwa Oasis (~ 800 km2 total area), with a hot hyper-arid desert climate, represents one of the smallest oases in the Western Desert of Egypt. It is located ca.",0.0
+c034,2,8,10–17 m below the sea level (El-Sabbagh et al. 2017).,1.1468700070746514
+c034,2,9,"Groundwater (GW), the only available water source in this Saharan ecosystem, is mainly discharging from the world’s largest non-renewable GW resource, the Nubian Sandstone Aquifer System (NSAS), and the Fissured Complex Carbonate Aquifer (Powell and Fensham 2016).",0.0
+c034,2,10,The samples including the invasive diatom species were collected on 6 May 2018 from the thermal limno-rheocrenic mineral spring “Ain,0.0
+c034,3,11,"2016), for the first time in an inland mineral desert spring can most likely be attributed to rapidly-growing fish farming activities and other human impacts on this isolated, azonal biotope.",2.124908570441787
+c034,3,12,"Generally, in the oases, springs and their artificial counterparts, i.",0.0
+c034,3,13,"e. drilled wells, are the only available sources of water necessary for settlement and development.",0.0
+c034,3,14,"Being widely distributed on marine coasts, the diatom L.",0.0
+c034,3,15,"normaniana investigated in this study is considered an invasive species in this unique inland-desert spring ecosystem because: 1) previous studies on the diatom flora of the Siwa Oasis did not record this species (Shaaban 1985, 1994; Hamed 2008); 2) L.",0.42772553779602124
+c034,3,16,"normaniana is fairly abundant in the diatom assemblage (being a large-celled species, its quantitative importance is under-expressed by the standard valve counts).",0.0
+c034,3,17,"From the taxonomic point of view, the Siwa Oasis L.",1.447697687564476
+c034,3,18,"normaniana  Licmophora normaniana: An invasive benthic diatom in a desert spring  Saber et al. (2022),",0.0
+c034,4,19,"by the standard valve counts). From the taxonomic point of view, the Siwa Oasis L.",0.0
+c034,4,20,"normaniana  Licmophora normaniana: An invasive benthic diatom in a desert spring  Saber et al. (2022), BioInvasions Records 11(1): 13–22, https://doi. org/10.3391/bir.",2.840978038915153
+c034,4,21,2022.11.1.02 19 specimens resemble the holotype population described by Wahrer et al. (1985).,0.24099479846853344
+c034,4,22,"In a similar way and in the frame of our in-depth multifaceted studies on the algal communities inhabiting the Siwa Oasis within the PhyBio project, a characteristic Ulva (Chlorophyta) population, U. flexuosa subsp.",0.0
+c034,4,23,"paradoxa, has recently been reported as an invasive species in Ain Abu Sherouf (Saber et al. 2018).",0.0
+c034,4,24,"The Asterionella formosa Hassall incursion into New Zealand is an informative example of a diatom species invasion coupled with rapid expansion (Harper 1994), and of the significant negative effects that such a diatom incursion can cause.",0.0
+c034,4,25,Asterionella formosa is a widespread planktonic diatom in eutrophic lakes (Krammer and Lange-Bertalot,0.0
+c034,5,26,"are continuously increasing today as a result of global climate changes and Citation: Saber AA, Borrini A, Saber H, El-Sheekh M, Gontcharov AA, Cantonati M (2022) A marine invasive benthic diatom species [Licmophora normaniana (Greville) Wahrer, 1985] in an inland oasis mineral spring in Egypt.",1.313215058715421
+c034,5,27,"BioInvasions Records 11(1): 13–22, https://doi. org/10. 3391/bir.",0.4259668534954155
+c034,5,28,2022.11.1.02  Received: 9 February 2021 Accepted: 1 August 2021 Published: 12 December 2021 Handling editor: Demetrio Boltovskoy Thematic editor: Kenneth Hayes Copyright: © Saber et al.  This is an open access article distributed under terms of the Creative Commons Attribution License (Attribution 4.0 International - CC BY 4.0). OPEN ACCESS.,0.0
+c034,5,29,"Licmophora normaniana: An invasive benthic diatom in a desert spring  Saber et al. (2022), BioInvasions Records 11(1): 13–22, https://doi. org/10.3391/bir.",0.0
+c034,5,30,2022.11.1.02 14 direct human pressures (Simberloff et al. 2013).,0.0
+c034,5,31,"Of the many species that get introduced into new environments, only a",0.0
+c035,1,0,"by the standard valve counts). From the taxonomic point of view, the Siwa Oasis L.",0.0
+c035,1,1,"normaniana  Licmophora normaniana: An invasive benthic diatom in a desert spring  Saber et al. (2022), BioInvasions Records 11(1): 13–22, https://doi. org/10.3391/bir.",0.0
+c035,1,2,2022.11.1.02 19 specimens resemble the holotype population described by Wahrer et al. (1985).,0.0
+c035,1,3,"In a similar way and in the frame of our in-depth multifaceted studies on the algal communities inhabiting the Siwa Oasis within the PhyBio project, a characteristic Ulva (Chlorophyta) population, U. flexuosa subsp.",0.0
+c035,1,4,"paradoxa, has recently been reported as an invasive species in Ain Abu Sherouf (Saber et al. 2018).",0.0
+c035,1,5,"The Asterionella formosa Hassall incursion into New Zealand is an informative example of a diatom species invasion coupled with rapid expansion (Harper 1994), and of the significant negative effects that such a diatom incursion can cause.",0.9744458405023949
+c035,1,6,Asterionella formosa is a widespread planktonic diatom in eutrophic lakes (Krammer and Lange-Bertalot,0.0
+c035,2,7,"2016), for the first time in an inland mineral desert spring can most likely be attributed to rapidly-growing fish farming activities and other human impacts on this isolated, azonal biotope.",1.859865602122655
+c035,2,8,"Generally, in the oases, springs and their artificial counterparts, i.",0.0
+c035,2,9,"e. drilled wells, are the only available sources of water necessary for settlement and development.",0.0
+c035,2,10,"Being widely distributed on marine coasts, the diatom L.",0.0
+c035,2,11,"normaniana investigated in this study is considered an invasive species in this unique inland-desert spring ecosystem because: 1) previous studies on the diatom flora of the Siwa Oasis did not record this species (Shaaban 1985, 1994; Hamed 2008); 2) L.",4.785945995439051
+c035,2,12,"normaniana is fairly abundant in the diatom assemblage (being a large-celled species, its quantitative importance is under-expressed by the standard valve counts).",0.0
+c035,2,13,"From the taxonomic point of view, the Siwa Oasis L.",0.8718054756288076
+c035,2,14,"normaniana  Licmophora normaniana: An invasive benthic diatom in a desert spring  Saber et al. (2022),",0.5230958507275082
+c035,3,15,"marine diatom [the araphid Licmophora normaniana (Greville) Wahrer] in a groundwater-fed habitat (an inland mineral desert spring in the Siwa Oasis, the Western Desert of Egypt).",0.0
+c035,3,16,"We characterized the invasive diatom by studying morphology and ultrastructure, and the colonized habitat by measuring hydrochemical and environmental characteristics.",1.3556967647105076
+c035,3,17,"Materials and methods Study site The Siwa Oasis (~ 800 km2 total area), with a hot hyper-arid desert climate, represents one of the smallest oases in the Western Desert of Egypt. It is located ca.",0.0
+c035,3,18,10–17 m below the sea level (El-Sabbagh et al. 2017).,0.5628806584354386
+c035,3,19,"Groundwater (GW), the only available water source in this Saharan ecosystem, is mainly discharging from the world’s largest non-renewable GW resource, the Nubian Sandstone Aquifer System (NSAS), and the Fissured Complex Carbonate Aquifer (Powell and Fensham 2016).",0.0
+c035,3,20,The samples including the invasive diatom species were collected on 6 May 2018 from the thermal limno-rheocrenic mineral spring “Ain,0.0
+c035,4,21,"consequences of this diatom-invasion process are the alteration of the native diatom and algal community  Licmophora normaniana: An invasive benthic diatom in a desert spring  Saber et al. (2022), BioInvasions Records 11(1): 13–22, https://doi. org/10.3391/bir.",5.431689692064371
+c035,4,22,"2022.11.1.02 20 structure, with replacement of native and characteristic species with widely distributed halophilic taxa.",1.5694827213376923
+c035,4,23,"Unfortunately, oasis desert springs, besides biological invasions, are also affected by other increasingly growing and diverse human impacts and by the detrimental effects of global climatic changes.",0.0
+c035,4,24,"Therefore, spring-protection legislation that foresees sustainable and adaptive management, and the raise of public awareness for these peculiar biodiversity hotspots are urgently needed to safeguard and conserve the role of these unique desert springs, and their capability to offer shelter to a rich and characteristic biodiversity.",0.0
+c035,4,25,"Acknowledgements This study was a part of the PhyBiO project, partially supported",0.0
+c035,5,26,waterbody. The presence of L. normaniana was confirmed using light and scanning electron microscopy.,0.0
+c035,5,27,Environmental variables (including major ions and metals) of this Saharan biotope were measured to characterize the habitat of this population.,0.0
+c035,5,28,We hypothesize that the introduction of this marine species in the Siwa Oasis was related to fish farming activities carried out in the springhead by local inhabitants.,1.5721829212483702
+c035,5,29,"Biological invasions place further pressure on spring habitats in oases, where they are affected by numerous growing human impacts, including global climatic changes.",0.0
+c035,5,30,"Therefore, legislation to protect these springs and enable sustainable and adaptive management, coupled with raised public awareness, is urgently needed to safeguard and conserve these unique biodiversity hotspots. Key",0.0
+c041,1,0,water discharge data through the totalshipping dataset 1999–2012.,0.5399610711022896
+c041,1,1,"Hindcast ballast water discharge volume into Australian ports increasedsubstantially over time, with the total hindcast ballast volume from 2012 more than double the volumedischarged in 1999 (figure 4).",0.0
+c041,1,2,"The volume of ballast water predicted to be sourced from, or arrive at,individual ports was concentrated heavily around a small number of key ports.",0.0
+c041,1,3,"For example, the largesttotal ballast water volumes arrived at Port Hedland, Dampier and Newcastle (49.4% of total hindcastvolume), and the largest volumes of ballast water were sourced from Singapore, Kaohsiung and Pohang(13.5% of total hindcast volume).",0.0
+c041,1,4,Marine ecoregions from which the most hindcast ballast water were associated tended to be thoseecoregions with large amounts of bulker traffic.,0.8001826625824755
+c041,1,5,"In particular: destination ecoregions Exmouth-Broome,Central & Southern GBR, and Manning-Hawksbury, and source ecoregions Central Kuroshio Current,East China Sea, Yellow Sea,",0.7432926248281521
+c041,2,6,"water discharge was effectively modelled based on combinations of vessel type, vessel size anddestination port purpose.",0.0
+c041,2,7,"Annual hindcast ballast water discharge volumes more than doubled over thestudy period (1999–2012), primarily associated with bulker traffic.",7.9385491114929145
+c041,2,8,"These results provide a case studyfor ballast-water-mediated biological invasion risk, and similar techniques could be applied in othercountries when relevant data are available. 5.1.",0.0
+c041,2,9,Global shipping network into AustraliaThe characteristics of shipping traffic varied across different vessels types.,0.0
+c041,2,10,"Container ships tended totravel to ecoregions containing major metropolitan centres, whereas bulkers primarily travelled to portsnear mines, which are often remote.",0.0
+c041,2,11,"Container and ‘other’ vessels also often arrived from relativelyclose regional areas including Indonesia, New Caledonia and New Zealand, whereas bulkers primarilyoriginated from China and/or Japan.",0.0
+c041,2,12,The substantial increase in bulker traffic is correlated with economic,2.1583336560040527
+c041,3,13,Hedland and Dampier (Exmouth-Broome ecoregion)have increased in capacity and are continuing to expand [50].,0.3485743559228709
+c041,3,14,"In the Central & Southern GBR ecoregion,Dalrymple Bay completed expansions in 2009 [51] (electronic supplementary material, figure S12), andAbbott Point has undergone constant expansion since 2006 [51].",0.0
+c041,3,15,This trend is likely to continue withproposed further expansions to port and/or mining capacity Australia wide. 5.2.,0.0
+c041,3,16,Trends in the volume of ballast water discharge differed from overall shippingtraffic patterns (i.,0.0
+c041,3,17,e. the number of voyages) primarily in the sense that ballast water was discharged ingreater volume from larger vessels.,0.0
+c041,3,18,"Those routes and ecoregions with high levels of traffic of large bulkcarriers, i.",0.5785510265696252
+c041,3,19,"e. routes and ecoregions with significant mining-related traffic, contributed more ballast waterrelative to those ecoregions",0.0
+c041,4,20,of ballast water discharge andship-mediated invasion risk to Australia. R. Soc. open sci. 2: 150039. http://dx. doi. org/10.1098/rsos.,0.0
+c041,4,21,"150039Received: 23 January 2015Accepted: 18 March 2015Subject Category:Biology (whole organism)Subject Areas:environmental science/statistics/ecologyKeywords:Australia, ballast water, biosecurity,invasive species, shipping, transportAuthor for correspondence:Robert C. Copee-mail: robert. cope@adelaide. edu.",2.9712568876876944
+c041,4,22,auElectronic supplementary material is availableat http://dx. doi. org/10.1098/rsos. 150039 or viahttp://rsos. royalsocietypublishing. org.,0.0
+c041,4,23,"Temporal modelling ofballast water discharge andship-mediated invasion riskto AustraliaRobert C. Cope1, Thomas A. A. Prowse2,Joshua V. Ross1, Talia A.",0.8264756320881378
+c041,4,24,"Wittmann2 and Phillip Cassey21School of Mathematical Sciences, and 2School of Biological Sciences,The University of Adelaide, Adelaide, South Australia 5005, Australia1.",0.0
+c041,4,25,SummaryBiological invasions have the potential to cause extensiveecological and economic damage. Maritime,0.0
+c041,5,26,waters between 1999 and 2012. Weused models for propagule survival to compare the risk of ballast-mediated propagule transport between ecoregions.,0.0
+c041,5,27,"We found thattotal annual ballast discharge volume into Australia more thandoubled over the study period, with the vast majority of ballastwater discharge and propagule pressure associated with bulkcarrier traffic.",2.356206028362413
+c041,5,28,"As such, the ecoregions suffering the greatest riskare those associated with the export of mining commodities.",0.0
+c041,5,29,"Asglobal marine trade continues to increase, effective monitoringand biosecurity policy will remain necessary to combat the riskof future marine invasion events. 2.",0.0
+c041,5,30,"IntroductionGlobalization of maritime trade has played a major role infacilitating the spread of species beyond their native ranges athistorically unprecedented rates [1,2].",0.0
+c041,5,31,"The volume of internationalseaborne trade has steadily increased over the past century and,at present, ca 90% of total world trade is carried by sea [3]. In2012, 9.2 billion tonnes of",0.0
+c043,1,0,"2007; Conde et al., 2010). The main aim of the present study was to demon-strate that the established populations of Mya arenaria in the Tagus estuary are able to reproduce in the new habitat.",2.9502035812374006
+c043,1,1,"Given the previous condition (the existence of a reproducing population), the intertidal distribution of juvenile specimens of Mya arenaria was studied and compared against the intertidal distribution of Scro-bicularia plana.",0.0
+c043,1,2,A field experiment was conducted to address these questions and also to assess the effect of disturbed excavated sediments on the abundance of juveniles of both bivalve species.,0.0
+c043,1,3,MATERIALS AND METHODS The Tagus estuary (Fig. 1) is one of the largest European estuarine systems and covers an area of ap-proximately 325 km2.,0.0
+c043,1,4,The Tagus is a mesotidal estuary with a tidal range of between 1 m at neap tides and 4 m at spring tides.,0.0
+c043,1,5,Most of the southern bank is dominated by intertidal mudflats and salt marshes.,0.0
+c043,1,6,The study site was located on a small spit of land on the east bank of the,0.8371904873447911
+c043,2,7,"between the juveniles of the two species in the study site, the possible interaction between these two species is considered and discussed.",0.0
+c043,2,8,"Keywords: Mya arenaria, reproductive success, intertidal distribution, Scrobicularia plana, Tagus estuary.",0.0
+c043,2,9,RESUMEN: Experimento de campo sobre la capacidad reproductiva de la almeja invasiva Mya arenaria en el estuario del rio Tajo: coexistencia con la almeja nativa Scrobicularia plana.,0.0
+c043,2,10,"– La almeja invasiva Mya arenaria ha alcanzado un nuevo estadio invasivo en el estuario del Río Tajo, de acuerdo con los resultados de un experimento de campo que transcurrió durante 3 meses y en el que fueron considerados los factores categóricos elevación intermareal (superior, intermedia e inferior) y tratamiento (unidades experimentales excavadas y no excavadas).",0.0
+c043,2,11,La presencia continua durante el tiempo de estudio de juveniles del menor tamaño observado (2 mm) nos permitió deducir que la almeja invasiva es capaz de reproducirse en el nuevo hábitat. Individuos,0.826527818754151
+c043,3,12,"A field experiment on the reproductive success of the invasive clam Mya arenaria (Bivalvia) in the Tagus estuary: coexistence with the native clam  Scrobicularia plana ANXO CONDE 1,2, JÚLIO M.",0.0
+c043,3,13,"NOVAIS 1 and JORGE DOMÍNGUEZ 21 IBB-Institute for Biotechnology and Bioengineering, Center for Biological and Chemical Engineering, Instituto Superior Técnico (IST),1049-001, Lisbon, Portugal. E-mail: aconde@ist. utl.",0.0
+c043,3,14,"pt 2 Departamento de Ecoloxía e Bioloxía Animal, Universidade de Vigo, Vigo E-36310, España, Spain.",0.0
+c043,3,15,"SUMMARY: A three month field experiment with tidal level (upper, middle, lower) and treatment (excavated and not excavated plots) as categorical experimental factors showed that the invasive clam Mya arenaria has reached a more advanced stage in the invasion process in the Tagus estuary. Juveniles of both Mya",0.7432729086917078
+c043,4,16,specimen of Mya arenaria (49 mm SL) recorded in the mid-control plot in December.,0.0
+c043,4,17,"The environmental parameters did not show any statistically significant correlations in relation to the Scrobicularia plana juveniles, except in one case.",0.0
+c043,4,18,"The only significant negative correlation was between the abundance of Scrobicularia plana juveniles and the organic matter content of the sediment, considered as TOC (rho=-0.85, P=0.006) or TN (rho=-0.90, P=0.002).",2.083428182269023
+c043,4,19,The correlations between Mya arenaria and the envi-ronmental parameters are not presented because zero value entries were frequent in the response variable.,1.5809536578266534
+c043,4,20,"As a reference value, the best rho score was a negative cor-relation between grain size and the abundance of Mya arenaria juveniles (rho=-0.567, P=0.111).",0.0
+c043,4,21,"DISCUSSIONThe invasive process of Mya arenaria in the Tagus estuary has reached a further stage (following Colautti et al., 2006) due to the reproductive success of the species in the new habitat. The reproduction of the clam was",1.6690501778011424
+c043,5,22,"Juveniles of both Mya arenaria and the bivalve Scrobicularia plana were found to avoid excavated experimental plots, showing a significantly higher abundance in the control plots.",0.0
+c043,5,23,"These data, strongly suggest that the recruited bivalves actively avoid unsuitable substrata.",0.8239736272269474
+c043,5,24,Juvenile specimens of Mya arenaria were more abundant in the mid-intertidal zone.,0.0
+c043,5,25,"However, juvenile specimens of Scrobicularia plana were mainly distributed in the upper intertidal level, which suggests that they have a different settlement behaviour from that observed for the juveniles of the invasive clam.",2.7159056892890217
+c043,5,26,"Despite the divergent distribution between the juveniles of the two species in the study site, the possible interaction between these two species is considered and discussed.",0.5310905492466609
+c043,5,27,"Keywords: Mya arenaria, reproductive success, intertidal",0.0
+c044,1,0,"As we observed the smallest recruited juveniles of Mya arenaria (2 mm) throughout the study period, we concluded that the clam is capable of reproducing in the new habitat.",0.0
+c044,1,1,"Juveniles of both Mya arenaria and the bivalve Scrobicularia plana were found to avoid excavated experimental plots, showing a significantly higher abundance in the control plots.",0.0
+c044,1,2,"These data, strongly suggest that the recruited bivalves actively avoid unsuitable substrata.",0.0
+c044,1,3,"However, juvenile specimens of Scrobicularia plana were mainly distributed in the upper intertidal level, which suggests that they have a different settlement behaviour from that observed for the juveniles of the invasive clam.",0.0
+c044,1,4,"Despite the divergent distribution between the juveniles of the two species in the study site, the possible interaction between these two species is considered and discussed.",0.8418297439273347
+c044,1,5,"Keywords: Mya arenaria, reproductive success, intertidal",0.0
+c044,2,6,"Dec 2 3 3 5 1 6    Fig. 4. – Mean density (and standard deviation) per plot (ind/0.035 m2) of Mya arenaria juveniles (a) and Scrobicularia plana juveniles (b), over time. 306 • A. CONDE et al.SCI. MAR. , 75(2), June 2011, 301-308. ISSN 0214-8358 doi: 10.3989/scimar.",-2.6126215943484032
+c044,2,7,"2011.75n2301cant interaction between the treatment effect and the predator covariate on the abundance of Mya arenaria (deviance=0.002, df=1, P=0.965), which suggests that predators were not selectively attracted by a specific treatment (excavated or control).",0.0
+c044,2,8,"Pairwise comparisons revealed significant differences in the abundance of Mya arenaria between the mid and both the lower and upper intertidal (P<0.001 and P=0.033 respectively), but no difference between the upper and lower inter-tidal (P=0.175).",0.0
+c044,2,9,"Juvenile specimens of Scrobicularia plana were significantly more abundant at the upper intertidal level than at the other two levels (P<0.001 in both cases, Fig. 5b).",5.742294276431352
+c044,2,10,A significant difference in abun-dance of juvenile,0.0
+c044,3,11,"(2009) reported a peak in recruitment from October to December, which resembles the recruitment pattern previously described by Sola (1997) in the Bidasoa estuary.",0.0
+c044,3,12,"Adult specimens of Scrobicularia plana are widely distributed within the estuary in all intertidal areas and the species is a key com-ponent of the community within the estuary (Calvário, 2001; Silva et al., 2006; Rodrigues et al., 2006; Dias et al., 2008; França et al., 2009; Conde et al., 2010).",0.0
+c044,3,13,"Al-though Scrobicularia plana is a deposit-feeder and Mya arenaria a filter-feeder (Ysebaert et al., 1998), inter-specific competition between these two species appears to be inevitable in the Tagus estuary.",0.0
+c044,3,14,"Competition for space may be especially acute between the two species as they are buried at a common shallower depth in the sediment when they are younger, while adults occupy a different position in sediment depth (Zwarts and Wanik, 1989).",1.4918088701083725
+c044,3,15,"Therefore, the occurrence of Mya arenaria in the estuary may exert further stress on",0.0
+c044,4,16,"of Scrobicularia plana were significantly more abundant at the upper intertidal level than at the other two levels (P<0.001 in both cases, Fig. 5b).",4.269894023193142
+c044,4,17,"A significant difference in abun-dance of juvenile specimens of Scrobicularia plana was also found between the mid and lower intertidal levels (mid>lower level, P=0.047).",0.4627665690825875
+c044,4,18,A total number of 46 adult specimens of Scro-bicularia plana were collected during the study.,0.0
+c044,4,19,"The maximum mean density of Scrobicularia plana adults was observed in the mid-intertidal excavated plot, with a mean value of 5.7±1.5 ind 0.035 m-2, followed by a mean density of 3.0±1.7 ind 0.035 m-2 in the lower excavated plot.",0.0
+c044,4,20,No individuals were observed in the upper excavated plot.,0.0
+c044,4,21,"There were no records of adult individuals of other bivalve species, with the exception of one specimen of Mya arenaria (49 mm SL) recorded in the mid-control plot in December.",0.19516361736971458
+c044,4,22,The environmental parameters did not show any statistically significant correlations in relation to the Scrobicularia,0.12909039144310513
+c044,5,23,and Mya arenaria abundance were inversely related.,0.0
+c044,5,24,"In the case of Scrobicularia plana, the analysis of devi-ance only revealed significant differences among tidal levels (deviance=140.93, df=2, P<0.001) and treatments (deviance=44.66, df=1, P<0.001).",1.8019738964320438
+c044,5,25,"In the latter case, the error term was adjusted to a quasi-Poisson model (Craw-ley, 2007) because some overdispersion was observed (residual deviance/degrees of freedom= 1.25).",0.0
+c044,5,26,The mean number of Mya arenaria juveniles per sample increased from the lower to the upper level of the intertidal zone in the excavated plots (Fig. 5a).,2.806912450013096
+c044,5,27,"However, the same trend was not observed in the control plots, with a maximum mean number per sample in the mid-intertidal zone.",0.0
+c044,5,28,"The mean number of specimens was lower in the upper control plots than in the upper excavated plots, in agreement with the significant statistical interaction (deviance=6.004, df=2, P=0.049; Table 3, Fig. 5a). There was no signifi-Table 2.",0.0
+c044,5,29,– Total and relative number of juvenile bivalves,0.0
+c047,1,0,"among individual red oak trees (Quercus rubra) in Amherst, MA and across a network of forest plots in Central Massachusetts.",0.8685195560964252
+c047,1,1,We combined these field data with estimated defoliation severity derived from Landsat imagery to assess relationships between plot-scale defoliation and ecosystem N cycling.,0.0
+c047,1,2,"Additionally, forest plots with lower N soil were correlated with more severe L.",0.0
+c047,1,3,"dispar defoliation, which matched the tree-level relationship.",0.0
+c047,1,4,The amount of inorganic N in soil solution was strongly positively correlated with defoliation intensity and the number of sequential years of defoliation.,3.740142615426722
+c047,1,5,These results suggested that higher ecosystem N pools might promote the resistance of oak trees to L.,0.48111583746180386
+c047,1,6,dispar defoliation and that defoliation severity across multiple years is associated with a linear increase in soil solution inorganic N. Keywords:  Defoliation; gypsy,0.0
+c047,2,7,"and dietary nitrogen affect performance of the gypsy moth (Lymantria dispar L. ). Physiological Entomology 22:55–64. Lloret J, Valiela I. 2016.",0.0
+c047,2,8,Unprecedented decrease in deposition of nitrogen oxides over North America: the relative effects of emission controls and prevailing air-mass trajectories. Biogeochemistry 129:165–180.,0.0
+c047,2,9,"Lovett GM, Christenson LM, Groffman PM, Jones CG, Hart JE, Mitchell MJ. 2002.",0.0
+c047,2,10,"Insect defoliation and nitrogen cycling in forests. BioScience 52:335–341. Martin  M, Aber  J. 1992.",0.0
+c047,2,11,Canopy chemistry study at Harvard Forest 1992. Harvard Forest. Mattson WJ. 1980.,0.0
+c047,2,12,Herbivory in relation to plant nitrogen content.,0.0
+c047,2,13,Annual Review of Ecology and Systematics 11:119–161.,0.0
+c047,2,14,"McClaugherty  CA, Pastor  J, Aber  JD, Melillo  JM. 1985.",0.0
+c047,2,15,Forest litter decomposition in relation to soil nitrogen dynamics and litter quality. Ecology 66:266–275.,1.0539666906104914
+c047,2,16,"McShea WJ, Healy WM, Devers P, Fearer T, Koch FH, Stauffer D, Waldon J. 2007.",1.2123987211674054
+c047,2,17,Forestry matters: decline of oaks will impact wildlife in hardwood,0.0
+c047,3,18,ecosystem nitrogen (N) cycling and invasive insect defoliation could facilitate the prediction of disturbance impacts across a range of spatial scales.,0.0
+c047,3,19,"In this study we investigated relationships between ecosystem N cycling and tree defoliation during a recent 2015–18 irruption of invasive gypsy moth caterpillars (Lymantria dispar), which can cause tree stress and sometimes mortality following multiple years of defoliation.",0.0
+c047,3,20,Nitrogen is a critical nutrient that limits the growth of caterpillars and plants in temperate forests.,0.0
+c047,3,21,"In this study, we assessed the associations among N concentrations, soil solution N availability and defoliation intensity by L.",2.528056897102797
+c047,3,22,dispar at the scale of individual trees and forest plots.,0.0
+c047,3,23,"We measured leaf and soil N concentrations and soil solution inorganic N availability among individual red oak trees (Quercus rubra) in Amherst, MA and across a network of forest plots in Central Massachusetts.",3.6000133969542323
+c047,3,24,We combined these field data with estimated defoliation severity,0.0
+c047,4,25,resistance of oak trees to L. dispar defoliation and that defoliation severity across multiple years is associated with a linear increase in soil solution inorganic N.,4.899180698209504
+c047,4,26,Keywords:  Defoliation; gypsy moth; insect disturbance; Lymantria dispar; nitrogen; soil solution nitrogen.,0.0
+c047,4,27,IntroductionForests are an important global carbon sink that buffer the accumulation of atmospheric carbon dioxide (CO2) from the combustion of fossil fuels causing climate change (IPCC 2014).,0.0
+c047,4,28,The uptake and sequestration of CO2 during the regrowth of Northeastern US forests following agricultural abandonment over the last two centuries continues to play a significant role in Downloaded from https://academic. oup.,0.5983530605821875
+c047,4,29,"com/aobpla/article/12/6/plaa059/5981347 by guest on 02 June 2021Copyedited by: SU2 | AoB PLANTS, 2020, Vol. 12, No.",0.0
+c047,4,30,6reducing the global greenhouse gas burden (Goodale et  al. 2002; Pugh et al. 2019).,0.0
+c047,4,31,The carbon sequestered by forest growth is only possible through important interactions with ecosystem,0.8954421626188991
+c047,5,32,"131:444–452. Conrad-Rooney  E, Barker  Plotkin  A, Matthes  JH. 2020a.",0.0
+c047,5,33,Leaf and soil nitrogen following gypsy moth defoliation in Central Massachusetts 2018–2019 ver 1. Environmental Data Initiative.,0.0
+c047,5,34,doi:10.6073/pasta/b9361a509c3371cd58bdcd1da7a8b71f.,0.0
+c047,5,35,"Conrad-Rooney  E, Barker  Plotkin  A, Matthes  JH. 2020b.",0.0
+c047,5,36,Leaf and soil nitrogen following Gypsy Moth Defoliation in Central Massachusetts 2018–2019. Harvard Forest Data Archive: HF344.,0.0
+c047,5,37,"Dale  VH, Joyce  LA, McNulty  S, Neilson  RP, Ayres  MP, Flannigan  MD, Hanson PJ, Irland LC, Lugo AE, Peterson CJ, Simberloff D, Swanson FJ, Stocks BJ, Wotton BM. 2001.",0.0
+c047,5,38,"Climate change and forest disturbances: climate change can affect forests by altering the frequency, intensity, duration, and timing of fire, drought, introduced species, insect and pathogen outbreaks, hurricanes, windstorms, ice storms, or landslides. BioScience 51:723–734.",0.0
+c047,5,39,"Davidson CB, Johnson JE, Gottschalk KW, Amateis RL. 2001.",0.0
+c047,5,40,Prediction of stand susceptibility and gypsy moth defoliation,0.0
+c049,1,0,"this study, we investigated the population genetics,colony structure and levels of aggression in the tawny crazy ant, Nylanderia fulva, which was recently introducedinto the United States from South America.",0.0
+c049,1,1,Our results show that the introduction of N.,0.0
+c049,1,2,fulva is associated with a shift in colony structure.,0.0
+c049,1,3,"Thisspecies exhibits a multicolonial organization in its native range, with colonies clearly separated from one another,whereas it displays a unicolonial system with no clear boundaries among nests in its invasive range.",0.0
+c049,1,4,"We uncoveredan absence of genetic differentiation among populations across the entire invasive range, and a lack of aggressivebehaviors towards conspecifics from different nests, even ones separated by several hundreds of kilometers.",0.0
+c049,1,5,"Conclusions: Overall, these results suggest that across its entire invasive range in the U. S. A. , this species",1.2814349503553937
+c049,2,6,species exhibiting plasticity in reproductivestrategy and behavior that allows it to take advantage ofthe loss of genetic diversity in the invasive range.,0.0
+c049,2,7,Furtherstudies investigating whether native populations of thisspecies consist of small localized colonies or smallersupercolonies should shed further light on whether thelarge supercolonies formed in the U. S. A.,0.0
+c049,2,8,are due to apost-introduction shift in social structure or whether itis related to pre-adapted traits present in the nativepopulation. MethodsA total of 36 populations of N.,-2.7536405128765056
+c049,2,9,fulva were mainly col-lected between 2015 and 2017 (Fig. 1).,0.0
+c049,2,10,"Sampling com-prised of 14 populations in its introduced range fromTexas to Georgia, U. S. A.",0.6136201205746706
+c049,2,11,and 22 populations in its nativerange in South America (Additional file 2: Table S1).,0.0
+c049,2,12,"Foreach population, 1 to 8 nests were sampled (X ± SD =1.7 ± 1.6; N = 65).",0.0
+c049,2,13,"Colonies from Texas populations werebrought back alive to the laboratory, where they weremaintained under standard conditions (28 ± 2 °C, 12:12",0.0
+c049,3,14,this ant species experienced a genetic bottleneckfollowing its introduction in the U. S. A.,6.347453717801409
+c049,3,15,that led to asignificant reduction (60%) in genetic diversity.,6.022697508868333
+c049,3,16,Popula-tion genetic analyses show that N.,0.0
+c049,3,17,fulva exhibits aabcFig. 3 a Principal Components Analysis of the microsatellite markers for all the populations of N. fulva sampled.,0.0
+c049,3,18,b Graphical representation ofSTRUCTURE results for different values of K genetic groups using the entire dataset (n = 937; N = 63 nests).,0.0
+c049,3,19,Simulation using a single individual pernest gives similar results (Additional file 1: Figure S1).,0.0
+c049,3,20,Each group is characterized by a color; and each individual is represented by a vertical baraccording to its probability to belong to each group.,0.0
+c049,3,21,A different simulation was run for our overall sampling and then for both native andintroduced ranges separately.,0.0
+c049,3,22,c Haplotypes network for the COI mitochondrial marker of N.,0.0
+c049,3,23,fulva in its native and introduced populations.,1.0312105415474075
+c049,3,24,Circlesizes are proportional to the number of sequences observed,0.0
+c049,4,25,"a weak pat-tern of isolation by distance in the introduced range,several orders of magnitude lower than that in the nativerange.",2.3697933600044343
+c049,4,26,This result may stem from the absence of nuptialflights in N.,0.0
+c049,4,27,fulva and its invasion front expansionthrough budding.,0.0
+c049,4,28,"These features usually lead to a gen-etic population viscosity, which may, over time, result inpopulation differentiation. The invasion of N. fulva inthe U. S. A.",-2.139575674396386
+c049,4,29,"is recent, and may not have had sufficienttime to induce genetic differentiation between localitiesand split the invasive range into distinct supercolonies.",-2.354791655759898
+c049,4,30,Fig. 7 Aggression level between workers of N.,0.0
+c049,4,31,"fulva from differentorigins: nestmate, non-nestmate from the same site, and non-nestmatefrom different sites.",0.0
+c049,4,32,"Grey zone indicates non-aggressive behaviors (ascore from 0 to 2); the red dotted line indicates the maximum level ofaggression, uncovered during all the assays against the heterospecificfire ant Solenopsis invictaEyer et al. BMC Evolutionary Biology          (2018) 18:209 Page 8",0.0
+c049,5,33,and introduced ranges to estimate theextent of the genetic diversity loss stemming from thefounder effect following its introduction in the U. S. A.,4.087584539633099
+c049,5,34,"Second, we investigated the reproductive system of thisspecies in its introduced range, assessing the number ofqueens per nest, the number of matings per queen, thepossibility that queens reproduced through thelytokousparthenogenesis, and the relatedness among nestmateEyer et al. BMC Evolutionary Biology          (2018) 18:209 Page 2 of 14workers.",0.0
+c049,5,35,A comparison of colony genetic structure inthe native and introduced ranges allowed us to deter-mine whether the recent introduction of N.,0.0
+c049,5,36,"fulva in-duced a shift in its social system, from multicolonialityto unicoloniality.",0.0
+c049,5,37,"Lastly, we performed behavioral assaystesting whether workers from different colonies withinthe invasive range recognize each other as colony matesin order to define the number and the extent of thesupercolonies observed in the U. S. A. ResultsAll thirteen microsatellite loci",0.0
+c050,1,0,"exploit a wide range of food sources, thereby fostering their success and hampering mitigation, but the actual degree of opportunism is often unknown.",0.0
+c050,1,1,"The small hive beetle (SHB), Aethina tumida, is a parasite of honeybee colo‐nies endemic to sub‐Saharan Africa.",3.1072666903461603
+c050,1,2,SHBs have now spread on all habitable conti‐nents and can also infest colonies of other social bees.,0.0
+c050,1,3,"To date, the possible role of solitary bee nests as alternative hosts is unknown.",0.0
+c050,1,4,"Similarly, flowers as possible alter‐native food sources are not well understood.",0.0
+c050,1,5,The data also show that flowers can serve as alternative food sources.,0.0
+c050,1,6,"These results sup‐port the opportunistic nature of this invasive species, thereby generating further obstacles for mitigation efforts in the field.",1.4430718142448171
+c050,1,7,It also suggests that SHB invasions may result in more serious consequences for endemic bee fauna than previously thought. This,1.3972016900149706
+c050,2,8,hive beetles associated with Megachile rotundata nests.,0.0
+c050,2,9,First part: small hive beetle eating pollen in front of the nest.,0.0
+c050,2,10,Second part: small hive beetle larvae crawling around the nest.,1.3645001602306188
+c050,2,11,Third part: small hive beetle larvae eating inside a cell of Megachile rotundata during preliminary testsF I G U R E  3   Total number of cells built versus cells with clinical small hive beetle (SHB) symptoms.,0.0
+c050,2,12,"The correlation is significant (Spearman's correlation, |r| (4) = 0.9933, p = 0.02).",0.0
+c050,2,13,Small hive beetle symptoms positively correlate with the number of cells within a tent.,2.1012422336354857
+c050,2,14,"The higher number of cells produced may have amplified the odor cues required for SHB host finding6428  |     GONTHIER ET al.4  | DISCUSSIONOur study provides clear evidence that SHBs can complete an en‐tire life cycle in association with solitary bees, M. rotundata.",0.0
+c050,2,15,"These solitary bees therefore constitute potential alternative hosts of SHBs, which corresponds with earlier studies suggesting a broad host range (reviewed by",0.0
+c050,3,16,"with solitary bees, M. rotundata. These solitary bees therefore constitute potential alternative hosts of SHBs, which corresponds with earlier studies suggesting a broad host range (reviewed by Neumann et al., 2016).",0.0
+c050,3,17,Field experiments did not show any SHB infestations of M.,1.316255959516296
+c050,3,18,"rotundata nests, thereby suggesting that F I G U R E  5   Kaplan–Meier survival curves of adult small hive beetles over the experimental time in association with different flowering plant species, without any food (negative control) and with honey/pollen paste (positive control).",2.240851872635007
+c050,3,19,"Significant differences between groups are indicated by different letters (A, B, C; Logrank test: Mantel–Haenszel, p < 0.001)F I G U R E  6   For all plant species, small hive beetle feeding on the flowers was observed at least once over the experiment.",0.0
+c050,3,20,Adult foraging on flowers: (a) Magnolia grandiflora; (b) Coreopsis tinctoria; (c) Erigeron annus; (d) Fagopyrum esculentum; and (e) Lagerstroemia indica(a) (b) (c)(e)(d)     |  6429GONTHIER,0.0
+c050,4,21,species. Flowers are very likely to serve as alternative food sources for adult SHBs in the absence of bee hosts.,2.0708055337155895
+c050,4,22,"Even though flowers do not appear to elicit SHB reproduction, the provided food may nevertheless foster SHB invasion success.",0.0
+c050,4,23,"Furthermore, SHBs were capable of completing an entire life cycle in association with solitary bee M. rotundata nests.",0.0
+c050,4,24,"Even though SHB infestations of solitary bee nests were not observed in the field, our observations nevertheless create demand for field studies on the role of wild solitary and social bee species for the success and pos‐sible impact of this biological invasion.",0.0
+c050,4,25,"Finally, the possible role of flowers as alternative food and of solitary bees as alternative hosts imposes further practical difficulties for adequate mitigation of this invasive species.",0.6239479933175787
+c050,4,26,"ACKNOWLEDG MENTSWe wish to thank the team of the Auburn Bee Laboratory for en‐thusiastic, superb technical support and fruitful discussions.",0.0
+c050,4,27,Robert Hensarling and Leanne Dillard kindly,0.0
+c050,5,28,observed foraging on buckwheat flowers in the tents de‐spite the close proximity of solitary bee nests.,0.0
+c050,5,29,"This is consistent with former findings that SHBs seem to be opportunistic and are in princi‐ple able to exploit a wide range of alternative food sources (Buchholz et al., 2008; Ellis et al., 2002).",0.0
+c050,5,30,"The observed association of SHBs with F I G U R E  9   Adult small hive beetle foraging on buckwheat flowers, Fagopyrum esculentum     |  6431GONTHIER ET al.flowering plants is not surprising because very closely related spe‐cies, for example, Aethina concolor are known to be flower visitors (Buchholz et al., 2008).",0.0
+c050,5,31,"5  | CONCLUSIONSIn general, our study provides strong support for the opportunism of SHBs, thereby contributing to our understanding of the global invasion success of this species.",4.591707248632537
+c050,5,32,Flowers are very likely to serve as alternative food sources for adult SHBs in the absence of bee hosts.,0.0
+c050,5,33,"Even though flowers do not appear to elicit SHB reproduction, the provided food may",0.0
+c051,1,0,"al. , 2015). This could have affected the effective population size of the local A. aegypti population.",0.2349906433576881
+c051,1,1,Absence of kdr mutations in both the 2007 and 2010 samples is in line with a field study carried out in November 2009 that revealed susceptibility of A.,5.932812409286978
+c051,1,2,"aegypti from Cape Verde to pyrethroid insecticides (Dia et al., 2012).",0.0
+c051,1,3,"However, this situation has changed in 2012 and 2014, with the first reports of resistance to these insecticides (Rocha et al., 2015).",0.6386088412814866
+c051,1,4,"This reinforces the hypothesis of insecticide‐based reduction of Ne of the mosquito population, and the increase of selection pressure for insecticide resistance during the 2009 den‐gue epidemic.",0.0
+c051,1,5,"4.4 | Epidemic preparedness and implications for vector controlThe role of airports and airlines in the spread of vector‐borne dis‐eases has been helpful in predicting the risks of vector‐borne disease importation	 and	 establishment	 (Huang,	 Das,	 Qiu,	 &	 Tatem,	 2012;	Tatem et al., 2012).",1.5193525516635142
+c051,1,6,Cape Verde is in a strategic route linking,0.0
+c051,2,7,"Given the historic im‐portance of Cape Verde in the transatlantic trade of the 16th–17th centuries, a pos‐sible contribution to the genetic pool of the founding populations in the New World cannot be fully discarded.",0.0
+c051,2,8,"However, contemporary gene flow with the Americas is likely to be infrequent.",0.0
+c051,2,9,The implications for vector control and prevention of future outbreaks are discussed.,0.0
+c051,2,10,"K E Y W O R D SAedes aegypti, Africa, Cape Verde, Dengue, phylogeography, population genetics, vector control, Zika1798  |     SALGUEIRO Et AL.in infants born to mothers infected during pregnancy, reported in 31 countries (WHO, 2017).",0.0
+c051,2,11,"For these arboviruses, a proportion of cases is asymptomatic (Bhatt et al., 2013; Petersen et al., 2016), which to‐gether with poor disease surveillance and lack of point‐of‐care di‐agnostic tests may be potentially misdiagnosed and underreported",0.0
+c051,3,12,genetics study of A. aegypti from three islands of Cape Verde with samples collected before and after the dengue outbreak of 2009.,0.0
+c051,3,13,"We have measured levels of genetic variability and deter‐mine the population structure, inferred the evolutionary history and detect possible origins for this insular population, and evalu‐ated the allelic composition in three kdr sites.",0.0
+c051,3,14,"2  | MATERIAL S AND METHODS2.1 | Mosquito samplingAedes aegypti mosquitoes were collected between November and December 2007 in three islands of the leeward group of the Cape Verde	 archipelago:	 Santiago,	 Fogo,	 and	 Brava	 and	 in	 April	 2010	from	 Santiago	 island	 (Figure	 1,	 Table	 1).",0.0
+c051,3,15,The	 samples	 consisted	of larvae or pupae collected from 12 breeding sites.,-2.7279409999971396
+c051,3,16,"These were reared to adult stage and then morphologically identified to spe‐cies	(Ribeiro	&	Ramos,	1995;	Ribeiro	et	al. ,	1980).",0.0
+c051,3,17,"The	detailed	pro‐cedure of the entomological survey has been described elsewhere (Alves et al., 2010). Adult specimens were",0.3992344352545959
+c051,4,18,"M. (2017). Population	 genomics	 reveals	 that	 an	anthropophilic population of Aedes aegypti mosquitoes in West Africa recently gave rise to American and Asian populations of this major disease vector. BMC Biology, 15, 16. https ://doi.",0.5605260702745691
+c051,4,19,"org/10.1186/s12915‐017‐0351‐0da	Costa‐Ribeiro,	M. C. V. ,	 Lourenco‐De‐Oliveira,	 R. ,	&	 Failloux,	A. B. (2007).",0.0
+c051,4,20,Low gene flow of Aedes aegypti between dengue‐endemic and dengue‐free areas in southeastern and southern Brazil.,0.0
+c051,4,21,"American Journal of Tropical Medicine and Hygiene, 77, 303–309. https ://doi. org/10.4269/ajtmh. 2007.77.303de Pina, A. (2013).",0.0
+c051,4,22,Estudos e experiências de controlo vectorial e doenças transmitidas.,0.0
+c051,4,23,In Bioecologia e controlo vectorial de Culicidade em Cabo Verde	 (pp. 13–17).,1.5393004708835718
+c051,4,24,"Praia:	Ministério	 de	 Ensino	 Superior,	 Ciências	 e	Inovação de Cabo Verde. Dia,	 I. ,	Diagne,	C. T. ,	 Ba,	Y. ,	Diallo,	D. ,	Konate,	 L. ,	&	Diallo,	M. (2012).",0.0
+c051,4,25,Insecticide susceptibility of Aedes aegypti	populations	from	Senegal	and Cape Verde Archipelago.,0.0
+c051,5,26,"(deltame‐thrin, cypermethrin) and to the organophosphate temephos (Rocha et al., 2015).",0.0
+c051,5,27,A major resistance mechanism affects a gene in the insect's voltage‐gated sodium channel.,0.0
+c051,5,28,"In this gene, several muta‐tions, known as knockdown resistance (kdr) mutations, have been described and associated with DDT and pyrethroids resistance worldwide	 (Du,	Nomura,	Zhorov,	&	Dong,	2016). These	mutations	were not detected in A.",5.45975451193007
+c051,5,29,"aegypti collected in 2012 (Rocha et al., 2015).",0.0
+c051,5,30,"Since	Cape	Verde	is	 in	a	strategic	route	linking	Africa,	Europe,	and the Americas, by sea or by air, thus having a high risk of intro‐duction of new strains of arboviruses or new vectors, it is of great importance to study the local population structure of A. aegypti.",0.0
+c051,5,31,"Therefore, we have developed a comprehensive phylogenetic and population genetics study of A.",0.0
+c051,5,32,aegypti from three islands of Cape Verde with samples collected before and after the dengue outbreak of 2009.,0.0
+c051,5,33,We have measured levels of genetic variability and deter‐mine,-1.6654302852536953
+c052,1,0,because younger stages of maize were found to be more infested thanolder stages.,0.0
+c052,1,1,The sampling interval observed during this study might also have affected the results asconditions varied in different months.,2.0920312211974332
+c052,1,2,"We expected to record higher numbers of FAW egg masses and larvae during the rainy seasondue to more availability of food in this period compared to the dry season, which would result in moresignificant foliar damages and infestation.",3.0607977754767597
+c052,1,3,"However, we observed a contrary tendency as the numberof egg masses and larvae recorded in the rainy season were much lower than those found on the dryInsects 2020, 11, 512 8 of 12season, although the number of maize fields sampled in the rainy season was by far higher than duringthe dry season.",2.5417815102093444
+c052,1,4,There was a slight difference in temperatures between seasons (Figure 2).,0.0
+c052,1,5,"Unlike temperature,the difference in rainfall between seasons was noticeably big.",0.0
+c052,1,6,Our results suggest that rainfall was akey factor influencing the differences observed in the number of,0.0
+c052,2,7,"higher values (p < 0.001). Between seasons, all districts had ahigher number of larvae per field in the dry season. Table 3.",4.30722913347447
+c052,2,8,Average number of fall armyworm (FAW) egg masses and larvae per field per district andseason of sampling.,0.0
+c052,2,9,DistrictNumber of Egg Masses (mean ± SD) Number of Larvae (Mean ± SD)Dry Season Rainy Season Dry Season Rainy SeasonMacate 0.16 ± (0.62) Aa 0.03 ± (0.35) Aa 7.92 ± (10.36) Ba 0.52 ± (1.40) BbManica 0.69 ± (1.63) Aa 0.01 ± (0.09) Aa 11.76 ± (9.75) Ba 1.25 ± (3.33) BbSussundenga 1 ± (2.56) Aa 0 ± (0.0) Aa 26.19 ± (24.73) Aa 0.74 ± (2.32) BbVanduzi 0.44 ± (1.60) Aa 0 ± (0.0) Aa 10.56 ± (11.16) Ba 2.75 ± (5.59) AbSD = Standard Deviation.,0.0
+c052,2,10,Means ± (SD) followed by the same capital letter in the column are not statisticallydifferent.,0.0
+c052,2,11,Means ± (SD) followed by the same small letter between columns are not statistically different. 3.4.,0.0
+c052,2,12,Temperature and Precipitation during the SurveyAn increase in the average monthly temperatures can be observed during the rainy season,-3.9963784742608652
+c052,3,13,small letter between columns are not statistically different. 3.2.,0.0
+c052,3,14,DamageTable 2 shows the percentage of damaged plants per field and average plant damage scores perfield per district and season of sampling.,0.019628884609667822
+c052,3,15,"No differences were observed in the percentage of damagedplants per field among districts in the dry season (p = 0.117) but, in the rainy season, the district ofSussundenga exhibited a lower percentage of damaged plants per field (p = 0.004), which in turn wasnot different from Macate and Manica.",0.0
+c052,3,16,"Between seasons, the percentage of damaged plants per fieldwas higher in the dry season than in the rainy season in all districts.",4.79218665597416
+c052,3,17,"In the dry season, the average plant damage was more intense in the district of Sussundenga 3scores, which means that between 25 and 50% of the plant surface appeared to be damaged by FAWlarvae.",0.0
+c052,3,18,"Still, no differences were observed on damage intensity in the rainy season among districts.",0.0
+c052,3,19,"When damage intensity was compared within the same district between seasons,",0.0
+c052,4,20,"percentageof FAW-infested plants and yield on maize [17], the infestation recorded in our study during the dryseason might have caused a yield reduction ranging from 11% in the district of Macate to 27% in thedistrict of Sussundenga compared to potential yield reduction ranging from around 2% in the districtof Macate to 8% in the district of Vanduzi in the rainy season.",2.4870301221755002
+c052,4,21,"Insects 2020, 11, 512 9 of 12The knowledge of the dynamics of a pest population is a fundamental tool for the implementationof integrated pest management strategies.",0.0
+c052,4,22,"In temperate climates, where winter temperatures areshallow and not suitable for development and reproduction of FAW, its population is limited to thesummer [36].",0.0
+c052,4,23,"Monitoring the populations of two Lepidopteran Noctuid species in the United States,it was found that the peak of the populations of both species occurred in the spring [37].",0.0
+c052,4,24,This trendwas also confirmed for FAW [38].,0.0
+c052,4,25,It is important to note that during the spring in some regions of theUnited,0.0
+c052,5,26,cropping season) and in December 2019 and January 2020 (rainy season of the 2019/2020cropping season) in 622 maize fields.,0.0
+c052,5,27,"In each field, 20 plants were selected in a “W” pattern andchecked for the presence of FAW egg masses and/or larvae. Plants were also assessed for damage.",1.2359662136219236
+c052,5,28,Our results suggest that early planting of maize in the primary cropping season maysignificantly reduce the infestation and damage by FAW when compared to the dry season.,3.3364321271993367
+c052,5,29,Keywords: fall armyworm; cropping season; population density; infestation; smallholder farmers1.,0.0
+c052,5,30,"IntroductionThe fall armyworm Spodoptera frugiperda Smith (Lepidoptera: Noctuidae) is an alien polyphagousinsect pest originating from the Americas, where it has more than 350 different host plants includingboth crop and non-crop species [1].",0.0
+c052,5,31,"Despite its ability to survive in different host plants, fall armywormInsects 2020, 11, 512;",0.0
+c054,1,0,"be involved (Juzwik et al., 2016; Ploetz et al.,2017; Chahal et al., 2019).",0.0
+c054,1,1,"Currently, the frequency and the extent of these associations islargely unclear.",0.0
+c054,1,2,"In this study, we tested the hypothesis that different habitats influence the compositionof the fungal community associated with ambrosia beetles, reflecting a potential acquisitionof fungi from the environment.",0.0
+c054,1,3,We used a metabarcoding approach for identification ofthe fungal community of the most widespread exotic (Xylosandrus germanus) and native(Xyleborinus saxesenii) ambrosia beetle species in European forests.,0.0
+c054,1,4,Individuals of bothspecies were collected in two forest habitats: old-growth forests and restored forests.,2.5562989102475595
+c054,1,5,"Old-growth forests are expected to host more complex fungal communities than restored forests(Blaser et al., 2013; Pioli et al., 2018); thus, we hypothesized that ambrosia beetles shouldreflect these differences in their mycobiome.",0.0
+c054,1,6,"Furthermore, the mechanisms regulatinginsect-fungus symbioses resulting from a long",0.0
+c054,2,7,"et al., 2018); thus, we hypothesized that ambrosia beetles shouldreflect these differences in their mycobiome.",0.0
+c054,2,8,"Furthermore, the mechanisms regulatinginsect-fungus symbioses resulting from a long co-evolutionary history (Biedermann, DeFine Licht & Rohlfs, 2019) might be disrupted by the interaction with microbiomes ofthe invaded habitat.",0.0
+c054,2,9,"Therefore, when comparing the fungal communities associated toindividuals collected in the two forest habitats, we expected to observe larger differencesfor the exotic than for the native ambrosia beetle species.",1.3513624164657791
+c054,2,10,MATERIALS & METHODSAmbrosia beetle speciesWe selected two ambrosia beetle species: the exotic X. germanus and the native X. saxesenii.,0.0
+c054,2,11,"Xylosandrus germanus is a species native to Asia that was first reported in Europe in the1950s and since then rapidly spread, becoming one of the dominant ambrosia beetles inEuropean forest ecosystems (Galko et al., 2018).",0.0
+c054,2,12,"Xylosandrus germanus’ fungal mutualist isAmbrosiella grosmanniae (Mayers et al., 2015).",0.0
+c054,3,13,we show that individuals of the exotic X.,0.0
+c054,3,14,"germanus were associatedwith a richer, more diverse and more even community of fungi in old-growth forests thanin restored forests.",1.4206351223034597
+c054,3,15,This pattern reflects the different fungal community structures likelyinhabiting the two forest habitats and suggests the occurrence of a direct acquisition of fungifrom the environment during invasion.,2.0572793583400024
+c054,3,16,"Future research efforts should directly compare themycobiome associated with ambrosia beetles to the environmental fungal communities,proving empirical evidence that such acquisition occurs.",0.0
+c054,3,17,"After introduction in a newenvironment, an exotic insect and its microbiome experience a series of biotic and abioticforces that may lead the insect to lose part of its original community of microorganisms.",0.0
+c054,3,18,This ‘‘bottleneck effect ’’ challenging the microbiome (e.,0.0
+c054,3,19,"g., Lester et al., 2017) may favor theacquisition of microorganisms from the invaded habitat.",0.1443753179118776
+c054,3,20,Given that we do not have dataon the community of fungi associated with,0.0
+c054,4,21,"identify the majority of OTUs due to the lack of reliabletaxonomic information (Stielow et al., 2015; Abdelfattah et al., 2018).",0.0
+c054,4,22,"Among the identifiedtaxa, however, we found a large cohort of plant pathogens, saprotrophs and yeasts, of whichmany have already been reported to establish a commensalistic relationship with both barkand ambrosia beetles (Kostovcik et al., 2015; Davis, 2015; Miller et al., 2016; Malacrinò etal. , 2017).",0.0
+c054,4,23,We found that forest habitat greatly influenced the diversity and dominance of fungalcommunities associated with the exotic ambrosia beetle X. germanus.,3.2827747597755583
+c054,4,24,"A similar patternwas previously shown only for the invasive ambrosia beetle Xyleborus glabratus, wheresampling location influenced the structure of the symbiotic fungal community (Campbellet al., 2016).",0.0
+c054,4,25,"Here, we show that individuals of the exotic X.",0.0
+c054,4,26,"germanus were associatedwith a richer, more diverse and more even community of fungi in old-growth forests thanin restored forests. This pattern reflects the",0.0
+c054,5,27,can play critical roles when their host attempts to colonize anew habitat.,1.449183977633057
+c054,5,28,The lack of symbiont adaptation can in fact hinder the invasion processof their host.,2.2395824812843665
+c054,5,29,This scenario could change if the exotic species are able to acquiremicroorganisms from the invaded environment.,2.16904908507986
+c054,5,30,Understanding the ecological factorsthat influence the take-up of new microorganisms is thus essential to clarify themechanisms behind biological invasions.,0.0
+c054,5,31,"In this study, we tested whether differentforest habitats influence the structure of the fungal communities associated withambrosia beetles.",3.2087996964467624
+c054,5,32,We collected individuals of the most widespread exotic (Xylosandrusgermanus) and native (Xyleborinus saxesenii) ambrosia beetle species in Europe inseveral old-growth and restored forests.,0.0
+c054,5,33,We characterized the fungal communitiesassociated with both species via metabarcoding. germanus. Our,0.0
+c055,1,0,"CLIMEX modelling. In contrast to previous models, the influence of irrigation on its dis-tribution was also investigated.",1.7827343106702846
+c055,1,1,"Under a natural rainfall scenario, the model showed similari-ties to previous models.",0.0
+c055,1,2,The main areas at risk of invasion by V.,0.0
+c055,1,3,"ger-manica include western USA, Mexico, small areas in Central America and in the north-western region of South America, eastern Brazil, western Russia, north-western China,Japan, the Mediterranean coastal regions of North Africa, and parts of southern and easternAfrica. PLOS ONE | https://doi. org/10.1371/journal. pone.",0.8929816113264055
+c055,1,4,"0181397 July 17, 2017 1 / 17a1111111111a1111111111a1111111111a1111111111a1111111111OPENACCESSCitation: de Villiers M, Kriticos DJ, Veldtman R(2017) Including irrigation in niche modelling of theinvasive wasp Vespula",0.0
+c055,2,5,distribution than with a natural rainfall scenario (Fig6C).,2.5501743413832934
+c055,2,6,Fig 7 shows the potential global distribution for a natural rainfall scenario and a compositerisk scenario.,0.0
+c055,2,7,"Under natural rainfall, the estimated distribution of V. germanica in Asia doesFig 2.",2.2672821850810174
+c055,2,8,The projected climate suitability for V.,0.0
+c055,2,9,"germanica in Argentina, (a) without irrigation, (b) with2.5 mm day-1 top-up irrigation during summer and (c) with a composite risk irrigation scenario (whereareas are not under irrigation, the EI of the natural rainfall scenario is mapped, while with areas underirrigation the EI of the irrigation scenario is mapped), using the CLIMEX Ecoclimatic Index (EI).",2.7804112623184976
+c055,2,10,Opencircles: presence sites; black crosses: absence sites; blue dotted lines: main rivers.,0.0
+c055,2,11,Unsuitable: EI = 0;marginal: EI = 1–4; suitable: EI = 5–9; highly suitable: EI = 10–29; optimal: EI = 30–100. https://doi. org/10.1371/journal. pone. 0181397.,0.0
+c055,2,12,g002Including irrigation in niche modelling of Vespula germanicaPLOS ONE |,0.0
+c055,3,13,"July 17, 2017 13 / 17the other two models, as well as the current model, is because the model described in Tribe &Richardson [38] did not include hot-wet stress (Fig 3B), which was needed to model SouthEast China as unsuitable.",0.0
+c055,3,14,"With irrigation (composite risk scenario), the improved fit betweenthe current distribution and the estimated range again supported the inclusion of irrigationwhen modelling the potential distribution of the species.",0.0
+c055,3,15,The main areas still at risk of invasionby V.,0.0
+c055,3,16,"germanica include the western region of the USA, Mexico, small areas in Central Amer-ica and in the north-western region of South America, eastern Brazil, western Russia, north-western China, Japan, the Mediterranean coastal regions of North Africa, and parts of south-ern and eastern Africa.",0.0
+c055,3,17,"By including agricultural irrigation as a location-specific factor we were able to markedlyimprove the overall fit of the model, simultaneously improving both sensitivity and specificity. circles: presence sites.",0.0
+c055,4,18,"was added. However, when a composite risk scenario was mapped, where onlythe areas considered to be under irrigation [47] was shown, the fit was less accurate, especiallyFig 3.",1.5017970575583597
+c055,4,19,Annual (a) dry stress (DS) and (b) hot-wet stress (HWS) indices for V. germanica. https://doi. org/10.1371/journal. pone. 0181397.,0.0
+c055,4,20,g003Including irrigation in niche modelling of Vespula germanicaPLOS ONE | https://doi. org/10.1371/journal. pone.,0.0
+c055,4,21,"0181397 July 17, 2017 9 / 17in Argentina, with many presence sites in the Patagonian region falling out of the estimatedsuitable range.",0.0
+c055,4,22,The anomalies between distribution in Argentina and Australia and the modelled rangewith the composite risk scenario could be due to the dataset of Siebert et al. [47] failing to cap-ture all areas under irrigation.,0.0
+c055,4,23,"However, since these presence sites in Australia and Argentinamostly fall into areas where crop production is not practiced on a commercial scale and whichare unlikely to be irrigated, it is more likely that the Siebert et al. [47]",1.4346707919994521
+c055,5,24,"constructed based on the known distribution of the wasp inEurope, Asia, the Middle East and North Africa [37, 38].",0.0
+c055,5,25,"The model based on the parameterset of Spradbery & Maywald [37] indicated that wasp populations benefit from cool to hot, dryconditions, but are sensitive to prolonged cold, as well as hot, wet conditions.",0.0
+c055,5,26,"These previousmodels estimated certain parts in the dry desert such as Patagonia in Argentina, where V.",0.0
+c055,5,27,"ger-manica is known to occur, to be climatically unsuitable [32, 37–39].",1.5833551312276675
+c055,5,28,"While climate is the pri-mary range-limiting factor for poikilotherms [42, 43], climate-modifying factors such asirrigation can also play an important role in extending a species range beyond the limitsafforded by climate.",2.129130758094468
+c055,5,29,We therefore hypothesised that the persistence of V.,0.0
+c055,5,30,germanica in thesexeric regions may be predicated on irrigation.,2.9559301101550064
+c055,5,31,Google Earth revealed that many of these pres-ence sites in Argentina lie alongside river beds.,0.0
+c055,5,32,We explored the possibility that considerationof irrigation,0.0
+c057,1,0,"diversifoliaTithonia diversifolia has some benefits in Zambia, although the costs outweighed the benefits for the majority of those interviewed.",0.0
+c057,1,1,"In particular, costs associated with movement, access and reduced grass cover were regarded as high, with additional negative impacts on water availability, crop yields, livestock health and tree cover (Tables 1 and 4).",3.559709070065466
+c057,1,2,"Many invasive plants form dense monospecific stands, inhibiting access to water resources or grazing lands (Mwangi & Swallow 2008; Shackleton et al. 2017b, 2017c, 2017d). Dense stands of T.",0.0
+c057,1,3,"diversifolia are also known to reduce species richness (Borokini 2011; Sun, Chen & Wang 2007), contributing to the local extinction of valued native species, including medicinal plants (Oludare & Muoghalu 2014). In Nigeria, T.",0.767493214975192
+c057,1,4,"diversifolia invasions have reduced plant diversity at one site by 25.4%, from 59 to 44 species; impacts that are considerably higher than those recorded for the highly aggressive invasive plant Chromolaena odorata",2.4310899679461837
+c057,2,5,"Zambia but less so in Zimbabwe. Tithonia rotundifolia was comparatively uncommon in eastern Africa but common in some southern African countries, while T.",0.0
+c057,2,6,"tubaeformis was invasive in Swaziland, South Africa, Zambia and possibly also Zimbabwe.",2.9030518134386933
+c057,2,7,Conclusion: Invasive Tithonia species are widespread and spreading throughout much of Africa.,0.0
+c057,2,8,Livelihood and biodiversity costs have not been considered by those actively promoting the use and further dissemination of T. diversifolia.,0.0
+c057,2,9,We therefore recommend that detailed cost–benefit studies should be undertaken to support informed decisions on the future management of these species.,0.0
+c057,2,10,Distribution of invasive alien Tithonia (Asteraceae) species in eastern and southern Africa and the socio-ecological impacts of T.,0.0
+c057,2,11,diversifolia in ZambiaPage 2 of 11 Original,0.0
+c057,3,12,many more publications on the benefits of T.,0.0
+c057,3,13,"diversifolia in Africa (Adoyo et al. 1997; Anette 1996; Jiri & Waddington 1998; Nginja et al. 1998; Otuma et al. 1998; Roothaert & Patterson 1997; Tongma, Kobayashi & Usui 1997, 1998) than on negative impacts (Agboola & Muoghalu 2015; Oludare & Muoghalu 2014).",0.0
+c057,3,14,"However, based on people’s responses in Zambia, T.",0.0
+c057,3,15,diversifolia does have negative impacts (Table 1) and is considered to be the weed with the biggest negative impacts by most respondents in the region (Table 4).,0.3588083929827981
+c057,3,16,"As Tithonia species spread and densify, management costs will increase steeply, leading to the possible abandonment of productive cropland when the cost of control becomes prohibitive.",0.0
+c057,3,17,"Widespread and abundant invasive alien plants are best controlled by integrated management strategies (Kaplan et al. 2017; Shackleton et al. 2017a; Van Wilgen et al. 2011), which involve a combination of manual, chemical and biological control best suited for the prevailing conditions, followed",0.0
+c057,4,18,Tithonia diversifolia invasionsRespondents identified a variety of benefits and costs associated with T. diversifolia invasions (Table 1).,1.0147001229675345
+c057,4,19,"On average, most respondents (62%) could not say whether a particular aspect was positively or negatively affected, or unaffected, by T.",0.0
+c057,4,20,"diversifolia, but for the 38% who did express an opinion, there were more who considered that the net outcome was negative (29%) than positive (9%).",0.0
+c057,4,21,"In general, the costs were mentioned more frequently and by a higher proportion of respondents (Table 1).",0.0
+c057,4,22,"Key negative aspects raised by respondents included impacts on grass and tree cover, mobility or access, water availability, crop yield and animal health (Table 2). To a lesser extent T.",4.022580600481084
+c057,4,23,diversifolia was also said to reduce the abundance of medicinal and other valuable plant species.,2.8088031209178466
+c057,4,24,More than 40% of respondents said that T.,0.5033636427319155
+c057,4,25,diversifolia was the most problematic weed in croplands (followed by several other alien species; Table 2). Of the respondents who mentioned,0.0
+c057,5,26,exceeds any benefits and that a focus on aggressive control would deliver the best outcomes (De Wit et al. 2001; Nordblum et al. 2001; Wise et al. 2012).,0.0
+c057,5,27,"ConclusionSurveys have revealed that Tithonia diversifolia, T. rotundifolia and T.",1.1602882065694535
+c057,5,28,"tubaeformis are already well established in many parts of Africa and have the potential to significantly increase their distribution, exacerbating biodiversity loss.",0.0
+c057,5,29,"Further promotion of these species, especially T.",0.0
+c057,5,30,"diversifolia, by various development agencies, should be discouraged as the costs of invasions to livelihoods will rapidly outweigh any benefits that accrue from their use, considering their potential for further spread and densification.",0.0
+c057,5,31,"AcknowledgementsThis work was funded by the Department of Science and Technology-National Research Foundation (DST-NRF) Centre of Excellence for Invasion Biology, Stellenbosch University (through the office of the Vice Rector: Research, Innovation and Post-graduate Studies) and the National Research",0.0
+c058,1,0,"is the oak processionarymoth (OPM). OPM was established in the UK in 2006; it is harmful to both oak trees and humans,and its infestation area is continually expanding.",0.0
+c058,1,1,"Here, we use a computational inference scheme toestimate the parameters for a two-node network epidemic model to describe the temporal dynamicsof OPM in two geographically neighbouring parks (Bushy Park and Richmond Park, London).",0.0
+c058,1,2,Keywords: invasive pests; network epidemic models; compartmental epidemic models; oak processionarymoth; Bayesian inference; SIR model; linear noise approximation; Markov chain Monte Carlo1.,5.0156872986659575
+c058,1,3,"IntroductionThe spread of invasive pests, including non-native insects within urban treescapes,woodlands, and forests is having profound environmental, economic and social impacts [1–3]. In the UK, invasive",0.0
+c058,2,4,of themovement of the underlying OPM population between the two nodes.,0.0
+c058,2,5,"The movementpatterns of OPM are not fully characterised, but can occur through three possible routes:short-distance larvae movement, flight of adult moths, and accidental human-mediateddispersal [13,33].",3.9507360941586764
+c058,2,6,"Considering the locations of the two parks considered here, the lattertwo dispersal mechanisms are possibilities for facilitating moth movement between nodes.",0.0
+c058,2,7,We find that the connecting parameter representing the infestation pressure on thetrees in Bushy Park resulting from the infestation in Richmond park is much stronger thanvice versa.,9.667369898597489
+c058,2,8,The infestation in Richmond Park is relatively unaffected by the infestationin Bushy Park.,0.0
+c058,2,9,"One reason for the observed Richmond-led infestation dynamics couldbe the higher underlying nest density within the park, resulting in a greater populationdensity of OPM per susceptible tree, a larger contact number, κ, and more opportunitiesfor longer-range movement between the two parks.",2.8029009152639404
+c058,3,10,show the 95% credibleintervals over the 50 simulations.,0.8767629998166504
+c058,3,11,"A possible contributing factor to the dynamics, not considered explicitly in this epi-demic model, is the density of OPM nests within each park, i.",0.0
+c058,3,12,"e., the number of nests perinfested tree, shown in Figure 7.",0.0
+c058,3,13,"Richmond park has a slightly higher infestation density,with a median of three nests per infested tree, compared to the median of two nests per treeDiversity 2023, 15, 496 10 of 13in Bushy Park, and an upper quartile of six nests per tree, compared to the upper quartile offour in Bushy Park.",0.0
+c058,3,14,This increased nest density could contribute to the resulting infestationpressure from the Richmond Park infestation to the Bushy Park infestation. Figure 6.,2.6553181710789846
+c058,3,15,Forward simulations for the removal prevalence in (a) Bushy and (b) Richmond Park fromthe stochastic two-node epidemic model with the median parameters estimated through the inferencescheme (shown in Table 2).,0.0
+c058,3,16,"In both panels, the solid lines show the mean removal prevalence witherror",0.0
+c058,4,17,stochastic two-node epidemic model with the median parameters estimated through the inferencescheme (shown in Table 2).,1.157817116950167
+c058,4,18,"In both panels, the solid lines show the mean removal prevalence witherror bars showing the 95% credible intervals over 50 simulations.",0.0
+c058,4,19,Black dashed lines show theobserved data. Figure 7. OPM nest density.,0.0
+c058,4,20,"(a) Probability density of the number of recorded removed nests per treein Bushy Park (blue, open diamonds) and Richmond Park (orange, filled circles).",0.0
+c058,4,21,"For visualisationpurposes, this shows nest numbers up to 20 per tree only.",0.0
+c058,4,22,"(b) Box plots of the number of logged nestsper tree on a logarithmic scale, showing all recorded data. 4.",-11.335303211183172
+c058,4,23,DiscussionIt is crucial to deepen our understanding of the dynamics of invasive pests to developpredictive modelling tools and maximise the impact of control strategies.,0.0
+c058,4,24,"Here, we showthe applicability of two-node compartmental epidemic models, using case study data ofthe OPM infestations within the neighbouring Bushy Park and Richmond Park",2.157541055057038
+c058,5,25,"using the medianposterior estimates of Si,t and Ii,t, and the full posterior distributions of β and αij, areshown in Figure 4.",0.0
+c058,5,26,"Similarly, the expected number of new infestations from each of thetwo components, averaged over 50 forward simulations with the median parametersestimated through the inference scheme (Table 2), are shown in Figure 5.",0.0
+c058,5,27,"Both Figures4 and 5 illustrate that in Bushy Park the inter-park dynamics (Richmond–Bushy) aresignificantly greater than the intra-park (Bushy–Bushy), whereas in Richmond Park theintra-park dynamics (Richmond–Richmond) are more significant than the inter-park (Bushy-Richmond).",0.0
+c058,5,28,This suggests that the infestation in Bushy Park has been largely driven by theinfestation in Richmond Park to a greater extent than vice versa.,0.0
+c058,5,29,Predictions of the spread of OPM are required to inform management strategies.,2.5504143515356765
+c058,5,30,Wecan use the inferred model parameters to simulate the infestation forwards in time.,0.0
+c058,5,31,Thesimulated removal prevalence time series resulting from the,0.0
+c059,1,0,potential distributions of the different species of ham-merhead flatworms.,0.8410363498160127
+c059,1,1,"Calculation was performed by comparing pairs of ensemble suitability maps using functions in the “dismo” R pack-age (Hijmans et al., 2020).",0.0
+c059,1,2,"As such, this approach is complementary to the mapping of predicted species richness that shows potential overlap in space but relies on binarized maps instead of the contin-uous model outputs.",1.8187211914945587
+c059,1,3,"3  |  RESULTSAlthough there was no single variable that appeared to unambigu-ously constrain the distribution of all the five species modelled, we observed that the relative importance of at least one climate variable was always higher than the soil variables (Figure 2a).",6.9257114945280795
+c059,1,4,"adventitium for which BIO 5 was also equally important), both having on average an importance of ca. 0.38. In terms of",0.0
+c059,2,5,"scale of our models, there was no strong shift in the distribution of suitability for the five species.",0.4226762133870625
+c059,2,6,"As such, the poten-tial hotspots of highest species richness of hammerhead flatworms remained located in the same regions.",0.0
+c059,2,7,"However, it was evident that there was a tendency for a shift towards higher latitudes, especially in the 2061– 2080 period, and for the scenario of maximum climate change, RCP 8.5 (Figure 4, Appendix S2 and Appendix S1, Figure S3), except for B. vagum.",0.0
+c059,2,8,"Similarly, overlaps between potential ranges of the five species did not change much in future climate compared with current conditions (Appendix S1, Figure S2).",0.0
+c059,2,9,"However, binary predic-tions unveiled substantial changes in the size of suitable ranges in future for most species (Figure 5).",0.0
+c059,2,10,"Out of the five study species, two of them (B. adventitium, D.",0.0
+c059,2,11,multilineatum) showed a clear decrease F I G U R E  2  Species response to environmental variables.,0.0
+c059,2,12,(a) Variable importance estimated by permutation in each species,0.0
+c059,3,13,"distribution of the study species is limited to humid regions of the world, while they are absent from areas that have a dry season that would make them face a risk of des-iccation, which appears to be confirmed by our modelling approach.",3.678606423970891
+c059,3,14,"The distribution of our study species was also clearly associated with increasing temperature of the coldest month (BIO 6), with the exception of B.",0.0
+c059,3,15,pennsylvanicum for which this was more ambigu-ous.,1.2686314944127663
+c059,3,16,This demonstrates that they are unable to establish in regions F I G U R E  3  Predicted suitability in current conditions obtained from ensemble species distribution models for each of the five hammerhead flatworm species.,0.6289451618170219
+c059,3,17,The bottom- right map shows the predicted potential species richness— from 0 (unsuitable for all species) to 5 (suitable for all species)— as the sum of binary predictions obtained after converting suitability maps according to the threshold that maximizes sensitivity and specificityBipalium,0.0
+c059,4,18,"2013). The fact that we did not detect a strong effect of soil variables on species distributions may be due to the spatial resolution of our analysis; we cannot exclude that at a finer scale, soil characteris-tics could be an important driver of local distribution within areas that are otherwise climatically suitable (Thuiller, 2013).",1.7464920983275563
+c059,4,19,"In this re-gard, Steel (1897) observed that land planarians were most plentiful F I G U R E  4  Predicted suitability in future conditions (top: 2041– 2060, median 2050; bottom: 2061– 2080, median 2070) under the RCP 8.5 scenario, obtained from ensemble species distribution models for each of the five hammerhead flatworm species.",0.0
+c059,4,20,The bottom- left maps show the predicted potential species richness— from 0 (unsuitable for all species) to 1 (suitable for all species)— as the sum of binary predictions obtained after converting suitability maps according to the threshold that maximizes sensitivity and specificity.,0.0
+c059,4,21,Predictions for a milder scenario of climate,0.0
+c059,5,22,"calls for careful monitoring of these areas, where hammerhead flatworms might already occur without our knowledge, or may establish viable populations if they were to be transported there.",1.468179109266331
+c059,5,23,"Thanks to the availability of climate variables projected under scenarios of climate change, we were able to use our species dis-tribution models trained in current climate to predict what might become the distribution of habitat suitability for hammerhead flatworms in future.",0.9498293509191729
+c059,5,24,"At the global scale, the areas predicted to be suitable did not change dramatically; the potential hotspots remained located in western Europe, North America, the River F I G U R E  5  Change in predicted range area in future, according to different scenarios of climate change, compared with potential range area in current conditions.",0.0
+c059,5,25,Range size was obtained after converting continuous suitability predictions into binary presence– absence maps using the threshold that maximizes sensitivity and specificityBipalium adventitium,0.0
+c063,1,0,"in non-native plantations, implying increased anthropogenicignitions and greater exposure of societies to wildfire hazards [9,57,58].",2.88418858441694
+c063,1,1,Adaptation measures suchas fuel reduction in both planted and incipiently invaded sites following adequate silviculturalpractices may sensitively diminish ecological and socioeconomic vulnerability to these altered fireregimes.,4.54571116946196
+c063,1,2,"Furthermore, these practices may reduce the probability of transition from native to novelpine-dominated states that could further result in more frequent and severe fire events. 5.",-4.091050101600587
+c063,1,3,ConclusionsPine plantations and invasions in the Patagonian forest-steppe ecotone originate significantincreases in fuel loads and produce changes in fuel structure affecting the potential behavior of fire.,3.459919589681357
+c063,1,4,Wildfires in pine plantations or areas with high levels of pine invasion can increase the potential fireintensity ~30 times compared to the native steppe.,2.380275107904295
+c063,1,5,This drastic rise in intensity may have profoundimpacts on post-fire regeneration due to the,0.0
+c063,2,6,species (Pinus ponderosa and Pinus contorta) in thenorthwestern Patagonian forest-steppe ecotone.,0.0
+c063,2,7,"Although changes in fuel loads may seem obvious(especially above the height of steppe’s vegetation), alterations in potential fire behavior originatedfrom fuel build-up are not easily forecasted.",0.0
+c063,2,8,"We quantified the amount and spatial arrangement of finefuels in four contrasting scenarios: native steppe, pine plantations, pine invasions and mechanicallyremoved pine invasions.",0.0
+c063,2,9,We also compared fuel structure among three levels of invasion withprogressively higher basal areas and older ages of establishment and between plantations with prunedbasal branches vs. unpruned plantations.,0.0
+c063,2,10,We used fuel characterizations and additional quantificationsof fuel loads to evaluate the effects of pine-induced fuel changes on fire behavior under two fire dangerscenarios of contrasting fuel moisture and wind speed utilizing the modeling software BehavePlus 5.0.5(US Forest Service and Systems for Environmental,2.8013999750505048
+c063,3,11,"ArticlePine Plantations and Invasion Alter Fuel Structureand Potential Fire Behavior in a PatagonianForest-Steppe EcotoneJuan Paritsis 1,* ID , Jennifer B.",3.398831110613153
+c063,3,12,"Landesmann 1, Thomas Kitzberger 1, Florencia Tiribelli 1 ID ,Yamila Sasal 1, Carolina Quintero 1, Romina D. Dimarco 2, María N. Barrios-García 3,Aimé L. Iglesias 1, Juan P. Diez 4, Mauro Sarasola 4 and Martín A.",0.0
+c063,3,13,"Nuñez 51 Laboratorio Ecotono, INIBIOMA-Universidad Nacional del Comahue, CONICET, Quintral 1250,8400 Bariloche, Argentina; jennifer. landesmann@gmail. com (J. B. L. ); kitzberger@gmail. com (T. K. );flopitiribelli@gmail. com (F. T. ); shamilacony@gmail. com (Y. S. ); quintero. carolina@gmail. com (C. Q. );iglesias. aime1987@gmail. com (A. L. I.",1.761234156320934
+c063,3,14,")2 Grupo de Ecología de Poblaciones de Insectos, INTA-CONICET, EEA Bariloche, CC 277, 8400 Bariloche,Argentina; rominadimarco@gmail.",1.5467241042263167
+c063,3,15,"com3 Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), CENAC-APN, Fagnano 244,8400 Bariloche, Argentina; noeliabarrios@gmail. com4 Grupo Ecología Forestal,",0.0
+c063,4,16,"Franzese, J. ; Raffaele, E. Fire as a driver of pine invasions in the Southern Hemisphere: A review. Biol. Invasions 2017, 19, 2237–2246. [CrossRef]51. Bravo-Monasterio, P. ; Pauchard, A. ; Fajardo, A.",0.0
+c063,4,17,"Pinus contorta invasion into treeless steppe reduces speciesrichness and alters species traits of the local community. Biol. Invasions 2016, 18, 1883–1894. [CrossRef]52. Braun, A. C. ; Troeger, D. ; Garcia, R. ; Aguayo, M. ; Barra, R. ; Vogt, J.",0.0
+c063,4,18,"Assessing the impact of plantation forestryon plant biodiversity: A comparison of sites in Central Chile and Chilean Patagonia. Glob. Ecol. Conserv. 2017, 10, 159–172. [CrossRef]53. Victoria Lantschner, M. ; Rusch, V. ; Hayes John, P.",0.0
+c063,4,19,"Influences of pine plantations on small mammalassemblages of the Patagonian forest-steppe ecotone. Mammalia 2011, 75, 24–255. [CrossRef]54. Premoli, A. ; Quiroga, P. ; Gardner, M. Araucaria Araucana.",0.0
+c063,4,20,The IUCN Red List of Threatened Species2013: e. T31355A2805113. 2013. Available online:,0.0
+c063,5,21,native plant communities. Such changes are not easily predicted and deserve system-specificstudies.,0.0
+c063,5,22,"In several regions of the southern hemisphere, exotic pines have been extensively planted innative treeless areas for forestry purposes and have subsequently invaded the native environments.",0.0
+c063,5,23,"However, studies evaluating alterations in flammability caused by pines in Patagonia are scarce.",0.0
+c063,5,24,"In theforest-steppe ecotone of northwestern Patagonia, we evaluated fine fuels structure and simulated firebehavior in the native shrubby steppe, pine plantations, pine invasions, and mechanically removedinvasions to establish the relative ecological vulnerability of these forestry and invasion scenarios tofire.",0.564185371307939
+c063,5,25,"These changesin fuel properties have the potential to affect fire behavior, increasing fire intensity by almost 30",0.0

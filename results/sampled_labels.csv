@@ -1,0 +1,2936 @@
+condition,claim_id,gold,sample,label,confidence
+original,c001,supported,0,supported,1.0
+original,c001,supported,1,supported,1.0
+original,c001,supported,2,supported,1.0
+original,c001,supported,3,supported,1.0
+original,c001,supported,4,supported,1.0
+evidence_removed,c001,supported,0,supported,0.9999961853100103
+evidence_removed,c001,supported,1,supported,0.9999961853100103
+evidence_removed,c001,supported,2,supported,0.9999961853100103
+evidence_removed,c001,supported,3,supported,0.9999961853100103
+evidence_removed,c001,supported,4,supported,0.9999961853100103
+original,c002,unclear,0,not supported,0.9973751246097228
+original,c002,unclear,1,not supported,0.9979193428671953
+original,c002,unclear,2,not supported,0.9973142515208705
+original,c002,unclear,3,not supported,0.9979117293758614
+original,c002,unclear,4,not supported,0.9966448927024331
+evidence_removed,c002,unclear,0,not supported,0.9999847413273523
+evidence_removed,c002,unclear,1,not supported,0.9999923706345725
+evidence_removed,c002,unclear,2,not supported,0.9999847413273523
+evidence_removed,c002,unclear,3,not supported,0.9999923706345725
+evidence_removed,c002,unclear,4,not supported,0.9999847413273523
+original,c003,supported,0,supported,1.0
+original,c003,supported,1,supported,1.0
+original,c003,supported,2,supported,1.0
+original,c003,supported,3,supported,1.0
+original,c003,supported,4,supported,1.0
+original,c004,unclear,0,not supported,0.8167866803841667
+original,c004,unclear,1,not supported,0.8168988566675098
+original,c004,unclear,2,not supported,0.851217981161686
+original,c004,unclear,3,not supported,0.8513056584272886
+original,c004,unclear,4,not supported,0.8511984985512164
+evidence_removed,c004,unclear,0,not supported,0.6190362971620468
+evidence_removed,c004,unclear,1,not supported,0.7725603142699561
+evidence_removed,c004,unclear,2,not supported,0.8110489412586173
+evidence_removed,c004,unclear,3,not supported,0.7714000354474895
+evidence_removed,c004,unclear,4,not supported,0.8127957828248974
+original,c005,supported,0,supported,0.9997978414817095
+original,c005,supported,1,supported,0.9998474237503151
+original,c005,supported,2,supported,0.9998436096423565
+original,c005,supported,3,supported,0.999801655415076
+original,c005,supported,4,supported,0.999801655415076
+evidence_removed,c005,supported,0,supported,0.8479770278146055
+evidence_removed,c005,supported,1,supported,0.8483717622900415
+evidence_removed,c005,supported,2,not supported,0.11879864030266978
+evidence_removed,c005,supported,3,supported,0.8484235443733587
+evidence_removed,c005,supported,4,supported,0.8484235443733587
+original,c006,not supported,0,not supported,0.5549915793758968
+original,c006,not supported,1,unclear,0.5036512955535901
+original,c006,not supported,2,not supported,0.37494779526034056
+original,c006,not supported,3,supported,0.1442985121209529
+original,c006,not supported,4,not supported,0.5591673607522254
+original,c007,supported,0,supported,0.9999961853100103
+original,c007,supported,1,supported,0.9999961853100103
+original,c007,supported,2,supported,0.9999961853100103
+original,c007,supported,3,supported,0.9999961853100103
+original,c007,supported,4,supported,0.9999961853100103
+original,c008,supported,0,supported,0.9999923706345725
+original,c008,supported,1,supported,0.9999923706345725
+original,c008,supported,2,supported,0.9999923706345725
+original,c008,supported,3,supported,0.9999923706345725
+original,c008,supported,4,supported,0.9999923706345725
+original,c009,supported,0,supported,1.0
+original,c009,supported,1,supported,1.0
+original,c009,supported,2,supported,1.0
+original,c009,supported,3,supported,1.0
+original,c009,supported,4,supported,1.0
+evidence_removed,c009,supported,0,supported,1.0
+evidence_removed,c009,supported,1,supported,1.0
+evidence_removed,c009,supported,2,supported,1.0
+evidence_removed,c009,supported,3,supported,1.0
+evidence_removed,c009,supported,4,supported,1.0
+original,c010,not supported,0,not supported,1.0
+original,c010,not supported,1,not supported,1.0
+original,c010,not supported,2,not supported,1.0
+original,c010,not supported,3,not supported,1.0
+original,c010,not supported,4,not supported,1.0
+evidence_removed,c010,not supported,0,supported,0.8189206662666297
+evidence_removed,c010,not supported,1,supported,0.6914468701229958
+evidence_removed,c010,not supported,2,supported,0.7420887468941068
+evidence_removed,c010,not supported,3,supported,0.7420321321755418
+evidence_removed,c010,not supported,4,supported,0.7420293015529952
+original,c011,unclear,0,not supported,0.9969110611364608
+original,c011,unclear,1,not supported,0.9978203720104443
+original,c011,unclear,2,not supported,0.996572659247785
+original,c011,unclear,3,not supported,0.9965574528718079
+original,c011,unclear,4,not supported,0.9956530910003317
+original,c012,supported,0,supported,1.0
+original,c012,supported,1,supported,1.0
+original,c012,supported,2,supported,1.0
+original,c012,supported,3,supported,1.0
+original,c012,supported,4,supported,1.0
+evidence_removed,c012,supported,0,supported,1.0
+evidence_removed,c012,supported,1,supported,0.9999961853100103
+evidence_removed,c012,supported,2,supported,1.0
+evidence_removed,c012,supported,3,supported,0.9999961853100103
+evidence_removed,c012,supported,4,supported,0.9999961853100103
+original,c013,supported,0,not supported,1.0
+original,c013,supported,1,not supported,1.0
+original,c013,supported,2,not supported,1.0
+original,c013,supported,3,not supported,1.0
+original,c013,supported,4,not supported,1.0
+original,c014,not supported,0,not supported,0.9998436096423565
+original,c014,not supported,1,not supported,0.9998474237503151
+original,c014,not supported,2,not supported,0.9997863997689034
+original,c014,not supported,3,not supported,0.9998436096423565
+original,c014,not supported,4,not supported,0.9998436096423565
+original,c015,supported,0,supported,0.9999961853100103
+original,c015,supported,1,supported,0.9999961853100103
+original,c015,supported,2,supported,0.9999961853100103
+original,c015,supported,3,supported,0.9999961853100103
+original,c015,supported,4,supported,0.9999961853100103
+evidence_removed,c015,supported,0,supported,0.9624613075519928
+evidence_removed,c015,supported,1,supported,0.9624870083847618
+evidence_removed,c015,supported,2,supported,0.9624870083847618
+evidence_removed,c015,supported,3,supported,0.9624870083847618
+evidence_removed,c015,supported,4,supported,0.9624833367952057
+original,c016,supported,0,supported,0.9999961853100103
+original,c016,supported,1,supported,1.0
+original,c016,supported,2,supported,1.0
+original,c016,supported,3,supported,1.0
+original,c016,supported,4,supported,1.0
+evidence_removed,c016,supported,0,supported,0.9970860105250813
+evidence_removed,c016,supported,1,supported,0.9953492881494257
+evidence_removed,c016,supported,2,supported,0.996264775353974
+evidence_removed,c016,supported,3,supported,0.9964358102167411
+evidence_removed,c016,supported,4,supported,0.9967589561854832
+original,c017,not supported,0,supported,0.9999961853100103
+original,c017,not supported,1,supported,0.9999961853100103
+original,c017,not supported,2,supported,0.9999961853100103
+original,c017,not supported,3,supported,0.9999961853100103
+original,c017,not supported,4,supported,0.9999961853100103
+original,c018,not supported,0,not supported,1.0
+original,c018,not supported,1,not supported,1.0
+original,c018,not supported,2,not supported,1.0
+original,c018,not supported,3,not supported,1.0
+original,c018,not supported,4,not supported,1.0
+evidence_removed,c018,not supported,0,not supported,0.9625420839088563
+evidence_removed,c018,not supported,1,not supported,0.9625384121092042
+evidence_removed,c018,not supported,2,not supported,0.9705837003783571
+evidence_removed,c018,not supported,3,not supported,0.9625677868986156
+evidence_removed,c018,not supported,4,not supported,0.9625677868986156
+original,c019,supported,0,supported,0.9999198945660335
+original,c019,supported,1,supported,0.9998970084778191
+original,c019,supported,2,supported,0.9998970084778191
+original,c019,supported,3,supported,0.9998703087036122
+original,c019,supported,4,supported,0.9999198945660335
+evidence_removed,c019,supported,0,supported,0.9990239141819757
+evidence_removed,c019,supported,1,supported,0.9987381320308604
+evidence_removed,c019,supported,2,supported,0.9987571816306376
+evidence_removed,c019,supported,3,supported,0.9987571816306376
+evidence_removed,c019,supported,4,supported,0.9987571816306376
+original,c020,supported,0,supported,1.0
+original,c020,supported,1,supported,1.0
+original,c020,supported,2,supported,1.0
+original,c020,supported,3,supported,1.0
+original,c020,supported,4,supported,1.0
+evidence_removed,c020,supported,0,supported,0.9999847413273523
+evidence_removed,c020,supported,1,supported,0.9999885559736865
+evidence_removed,c020,supported,2,supported,0.9999885559736865
+evidence_removed,c020,supported,3,supported,0.9999847413273523
+evidence_removed,c020,supported,4,supported,0.9999847413273523
+original,c021,supported,0,supported,1.0
+original,c021,supported,1,supported,1.0
+original,c021,supported,2,supported,1.0
+original,c021,supported,3,supported,1.0
+original,c021,supported,4,supported,1.0
+evidence_removed,c021,supported,0,supported,1.0
+evidence_removed,c021,supported,1,supported,1.0
+evidence_removed,c021,supported,2,supported,1.0
+evidence_removed,c021,supported,3,supported,1.0
+evidence_removed,c021,supported,4,supported,1.0
+original,c022,not supported,0,not supported,0.9999847413273523
+original,c022,not supported,1,not supported,0.9999885559736865
+original,c022,not supported,2,not supported,0.9999885559736865
+original,c022,not supported,3,not supported,0.9999885559736865
+original,c022,not supported,4,not supported,0.9999885559736865
+original,c023,not supported,0,not supported,0.9987609915941943
+original,c023,not supported,1,not supported,0.9986809854115338
+original,c023,not supported,2,not supported,0.9984600492475597
+original,c023,not supported,3,not supported,0.998395301359093
+original,c023,not supported,4,not supported,0.9987762315937606
+original,c024,supported,0,supported,1.0
+original,c024,supported,1,supported,1.0
+original,c024,supported,2,supported,1.0
+original,c024,supported,3,supported,1.0
+original,c024,supported,4,supported,1.0
+original,c025,supported,0,not supported,0.9604111265763302
+original,c025,supported,1,not supported,0.9605979923156843
+original,c025,supported,2,not supported,0.9688968357134196
+original,c025,supported,3,not supported,0.9652814706227694
+original,c025,supported,4,not supported,0.9652777883732062
+original,c026,supported,0,supported,1.0
+original,c026,supported,1,supported,1.0
+original,c026,supported,2,supported,1.0
+original,c026,supported,3,supported,1.0
+original,c026,supported,4,supported,1.0
+evidence_removed,c026,supported,0,supported,0.9999618537549303
+evidence_removed,c026,supported,1,supported,0.9999389667063573
+evidence_removed,c026,supported,2,supported,0.9999465956643435
+evidence_removed,c026,supported,3,supported,0.9999618537549303
+evidence_removed,c026,supported,4,supported,0.9999465956643435
+original,c027,supported,0,supported,1.0
+original,c027,supported,1,supported,1.0
+original,c027,supported,2,supported,1.0
+original,c027,supported,3,supported,0.9999961853100103
+original,c027,supported,4,supported,0.9999961853100103
+evidence_removed,c027,supported,0,supported,1.0
+evidence_removed,c027,supported,1,supported,1.0
+evidence_removed,c027,supported,2,supported,0.9999961853100103
+evidence_removed,c027,supported,3,supported,1.0
+evidence_removed,c027,supported,4,supported,0.9999961853100103
+original,c028,supported,0,supported,1.0
+original,c028,supported,1,supported,1.0
+original,c028,supported,2,supported,1.0
+original,c028,supported,3,supported,1.0
+original,c028,supported,4,supported,1.0
+evidence_removed,c028,supported,0,supported,0.9999961853100103
+evidence_removed,c028,supported,1,supported,0.9999961853100103
+evidence_removed,c028,supported,2,supported,1.0
+evidence_removed,c028,supported,3,supported,0.9999961853100103
+evidence_removed,c028,supported,4,supported,0.9999961853100103
+original,c029,supported,0,supported,1.0
+original,c029,supported,1,supported,1.0
+original,c029,supported,2,supported,1.0
+original,c029,supported,3,supported,1.0
+original,c029,supported,4,supported,1.0
+evidence_removed,c029,supported,0,supported,0.9999961853100103
+evidence_removed,c029,supported,1,supported,1.0
+evidence_removed,c029,supported,2,supported,0.9999961853100103
+evidence_removed,c029,supported,3,supported,0.9999961853100103
+evidence_removed,c029,supported,4,supported,0.9999961853100103
+original,c030,supported,0,supported,0.9999618537549303
+original,c030,supported,1,supported,0.9999542246805344
+original,c030,supported,2,supported,0.9999618537549303
+original,c030,supported,3,supported,0.9999389667063573
+original,c030,supported,4,supported,0.9999542246805344
+original,c031,supported,0,supported,1.0
+original,c031,supported,1,supported,1.0
+original,c031,supported,2,supported,1.0
+original,c031,supported,3,supported,1.0
+original,c031,supported,4,supported,1.0
+evidence_removed,c031,supported,0,supported,1.0
+evidence_removed,c031,supported,1,supported,1.0
+evidence_removed,c031,supported,2,supported,1.0
+evidence_removed,c031,supported,3,supported,1.0
+evidence_removed,c031,supported,4,supported,1.0
+original,c032,supported,0,supported,0.9999809266955697
+original,c032,supported,1,supported,0.9999809266955697
+original,c032,supported,2,supported,0.9999809266955697
+original,c032,supported,3,supported,0.9999809266955697
+original,c032,supported,4,supported,0.9999809266955697
+evidence_removed,c032,supported,0,supported,0.9999809266955697
+evidence_removed,c032,supported,1,supported,0.9999809266955697
+evidence_removed,c032,supported,2,supported,0.9999809266955697
+evidence_removed,c032,supported,3,supported,0.9999809266955697
+evidence_removed,c032,supported,4,supported,0.9999809266955697
+original,c033,supported,0,supported,1.0
+original,c033,supported,1,supported,1.0
+original,c033,supported,2,supported,1.0
+original,c033,supported,3,supported,1.0
+original,c033,supported,4,supported,1.0
+evidence_removed,c033,supported,0,supported,0.9999008227894784
+evidence_removed,c033,supported,1,supported,0.9998703087036122
+evidence_removed,c033,supported,2,supported,0.9999008227894784
+evidence_removed,c033,supported,3,supported,0.9999008227894784
+evidence_removed,c033,supported,4,supported,0.9999008227894784
+original,c034,supported,0,supported,1.0
+original,c034,supported,1,supported,1.0
+original,c034,supported,2,supported,1.0
+original,c034,supported,3,supported,1.0
+original,c034,supported,4,supported,1.0
+evidence_removed,c034,supported,0,supported,1.0
+evidence_removed,c034,supported,1,supported,1.0
+evidence_removed,c034,supported,2,supported,1.0
+evidence_removed,c034,supported,3,supported,1.0
+evidence_removed,c034,supported,4,supported,1.0
+original,c035,unclear,0,supported,1.0
+original,c035,unclear,1,supported,1.0
+original,c035,unclear,2,supported,1.0
+original,c035,unclear,3,supported,1.0
+original,c035,unclear,4,supported,1.0
+evidence_removed,c035,unclear,0,supported,0.9999961853100103
+evidence_removed,c035,unclear,1,supported,0.9999961853100103
+evidence_removed,c035,unclear,2,supported,0.9999961853100103
+evidence_removed,c035,unclear,3,supported,0.9999961853100103
+evidence_removed,c035,unclear,4,supported,1.0
+original,c036,supported,0,not supported,0.9763246511296949
+original,c036,supported,1,not supported,0.9836217812538658
+original,c036,supported,2,not supported,0.9763507221586184
+original,c036,supported,3,not supported,0.9814628756390582
+original,c036,supported,4,not supported,0.9791406134523509
+original,c037,not supported,0,not supported,1.0
+original,c037,not supported,1,not supported,1.0
+original,c037,not supported,2,not supported,1.0
+original,c037,not supported,3,not supported,1.0
+original,c037,not supported,4,not supported,1.0
+original,c038,supported,0,supported,0.9999961853100103
+original,c038,supported,1,supported,0.9999923706345725
+original,c038,supported,2,supported,0.9999961853100103
+original,c038,supported,3,supported,0.9999961853100103
+original,c038,supported,4,supported,0.9999923706345725
+original,c039,supported,0,supported,1.0
+original,c039,supported,1,supported,1.0
+original,c039,supported,2,supported,1.0
+original,c039,supported,3,supported,1.0
+original,c039,supported,4,supported,1.0
+original,c040,unclear,0,not supported,0.9524828603714096
+original,c040,unclear,1,not supported,0.9398001688051142
+original,c040,unclear,2,not supported,0.9397858287019841
+original,c040,unclear,3,not supported,0.9397858287019841
+original,c040,unclear,4,not supported,0.952493760735071
+evidence_removed,c040,unclear,0,not supported,0.9238051091777959
+evidence_removed,c040,unclear,1,not supported,0.9237698694817045
+evidence_removed,c040,unclear,2,not supported,0.9239390322835175
+evidence_removed,c040,unclear,3,not supported,0.9237698694817045
+evidence_removed,c040,unclear,4,not supported,0.9044350415457306
+original,c041,supported,0,supported,1.0
+original,c041,supported,1,supported,1.0
+original,c041,supported,2,supported,1.0
+original,c041,supported,3,supported,1.0
+original,c041,supported,4,supported,1.0
+evidence_removed,c041,supported,0,supported,1.0
+evidence_removed,c041,supported,1,supported,1.0
+evidence_removed,c041,supported,2,supported,1.0
+evidence_removed,c041,supported,3,supported,1.0
+evidence_removed,c041,supported,4,supported,1.0
+original,c042,not supported,0,not supported,1.0
+original,c042,not supported,1,not supported,1.0
+original,c042,not supported,2,not supported,1.0
+original,c042,not supported,3,not supported,1.0
+original,c042,not supported,4,not supported,1.0
+evidence_removed,c042,not supported,0,not supported,1.0
+evidence_removed,c042,not supported,1,not supported,1.0
+evidence_removed,c042,not supported,2,not supported,1.0
+evidence_removed,c042,not supported,3,not supported,1.0
+evidence_removed,c042,not supported,4,not supported,1.0
+original,c043,supported,0,supported,1.0
+original,c043,supported,1,supported,1.0
+original,c043,supported,2,supported,1.0
+original,c043,supported,3,supported,1.0
+original,c043,supported,4,supported,1.0
+evidence_removed,c043,supported,0,supported,1.0
+evidence_removed,c043,supported,1,supported,1.0
+evidence_removed,c043,supported,2,supported,1.0
+evidence_removed,c043,supported,3,supported,1.0
+evidence_removed,c043,supported,4,supported,1.0
+original,c044,supported,0,supported,1.0
+original,c044,supported,1,supported,1.0
+original,c044,supported,2,supported,1.0
+original,c044,supported,3,supported,1.0
+original,c044,supported,4,supported,1.0
+evidence_removed,c044,supported,0,supported,0.9999694828875315
+evidence_removed,c044,supported,1,supported,0.9999694828875315
+evidence_removed,c044,supported,2,supported,0.9999694828875315
+evidence_removed,c044,supported,3,supported,0.9999694828875315
+evidence_removed,c044,supported,4,supported,0.9999732974756593
+original,c045,supported,0,supported,0.9995156507822369
+original,c045,supported,1,supported,0.9992030460081425
+original,c045,supported,2,supported,0.999119193069998
+original,c045,supported,3,supported,0.9991230044145214
+original,c045,supported,4,supported,0.9995766582379376
+original,c046,unclear,0,supported,0.15636888517593328
+original,c046,unclear,1,unclear,0.48938055153721627
+original,c046,unclear,2,supported,0.1505190968128982
+original,c046,unclear,3,unclear,0.5253512450510598
+original,c046,unclear,4,unclear,0.5253632695244164
+original,c047,supported,0,supported,1.0
+original,c047,supported,1,supported,1.0
+original,c047,supported,2,supported,1.0
+original,c047,supported,3,supported,1.0
+original,c047,supported,4,supported,1.0
+evidence_removed,c047,supported,0,supported,0.9999961853100103
+evidence_removed,c047,supported,1,supported,0.9999923706345725
+evidence_removed,c047,supported,2,supported,0.9999771120783387
+evidence_removed,c047,supported,3,supported,0.9999694828875315
+evidence_removed,c047,supported,4,supported,0.9999961853100103
+original,c048,not supported,0,not supported,0.9996643629793364
+original,c048,not supported,1,not supported,0.9995232765105667
+original,c048,not supported,2,not supported,0.9995232765105667
+original,c048,not supported,3,not supported,0.9994203340868637
+original,c048,not supported,4,not supported,0.9995804713275555
+original,c049,supported,0,supported,1.0
+original,c049,supported,1,supported,1.0
+original,c049,supported,2,supported,1.0
+original,c049,supported,3,supported,1.0
+original,c049,supported,4,supported,1.0
+evidence_removed,c049,supported,0,supported,1.0
+evidence_removed,c049,supported,1,supported,1.0
+evidence_removed,c049,supported,2,supported,1.0
+evidence_removed,c049,supported,3,supported,1.0
+evidence_removed,c049,supported,4,supported,1.0
+original,c050,supported,0,supported,1.0
+original,c050,supported,1,supported,1.0
+original,c050,supported,2,supported,1.0
+original,c050,supported,3,supported,1.0
+original,c050,supported,4,supported,1.0
+evidence_removed,c050,supported,0,supported,0.9997749581870365
+evidence_removed,c050,supported,1,supported,0.9996033501707265
+evidence_removed,c050,supported,2,supported,0.9997177522417389
+evidence_removed,c050,supported,3,supported,0.9997978414817095
+evidence_removed,c050,supported,4,supported,0.9998092833254564
+original,c051,supported,0,supported,0.9999961853100103
+original,c051,supported,1,supported,1.0
+original,c051,supported,2,supported,0.9999961853100103
+original,c051,supported,3,supported,1.0
+original,c051,supported,4,supported,1.0
+evidence_removed,c051,supported,0,supported,0.997656710979911
+evidence_removed,c051,supported,1,supported,0.9973484921761812
+evidence_removed,c051,supported,2,supported,0.9973675152704289
+evidence_removed,c051,supported,3,supported,0.9966182797679267
+evidence_removed,c051,supported,4,supported,0.9970289584382009
+original,c052,supported,0,supported,0.9999961853100103
+original,c052,supported,1,supported,0.9999961853100103
+original,c052,supported,2,supported,0.9999961853100103
+original,c052,supported,3,supported,0.9999961853100103
+original,c052,supported,4,supported,0.9999961853100103
+evidence_removed,c052,supported,0,supported,1.0
+evidence_removed,c052,supported,1,supported,1.0
+evidence_removed,c052,supported,2,supported,1.0
+evidence_removed,c052,supported,3,supported,1.0
+evidence_removed,c052,supported,4,supported,1.0
+original,c053,not supported,0,not supported,1.0
+original,c053,not supported,1,not supported,1.0
+original,c053,not supported,2,not supported,1.0
+original,c053,not supported,3,not supported,1.0
+original,c053,not supported,4,not supported,1.0
+original,c054,supported,0,supported,1.0
+original,c054,supported,1,supported,1.0
+original,c054,supported,2,supported,1.0
+original,c054,supported,3,supported,1.0
+original,c054,supported,4,supported,1.0
+evidence_removed,c054,supported,0,supported,1.0
+evidence_removed,c054,supported,1,supported,1.0
+evidence_removed,c054,supported,2,supported,1.0
+evidence_removed,c054,supported,3,supported,1.0
+evidence_removed,c054,supported,4,supported,1.0
+original,c055,supported,0,supported,0.9999923706345725
+original,c055,supported,1,supported,1.0
+original,c055,supported,2,supported,0.9999961853100103
+original,c055,supported,3,supported,1.0
+original,c055,supported,4,supported,1.0
+evidence_removed,c055,supported,0,supported,0.9999389667063573
+evidence_removed,c055,supported,1,supported,0.9999198945660335
+evidence_removed,c055,supported,2,supported,0.9999237089649965
+evidence_removed,c055,supported,3,supported,0.9999427811780749
+evidence_removed,c055,supported,4,supported,0.9999427811780749
+original,c056,supported,0,unclear,0.41096472546552876
+original,c056,supported,1,supported,0.35206696908122337
+original,c056,supported,2,unclear,0.45206293667650804
+original,c056,supported,3,unclear,0.36034451008999235
+original,c056,supported,4,supported,0.41059334704389344
+original,c057,supported,0,supported,0.9999885559736865
+original,c057,supported,1,supported,0.9999885559736865
+original,c057,supported,2,supported,0.9999885559736865
+original,c057,supported,3,supported,0.9999885559736865
+original,c057,supported,4,supported,0.9999847413273523
+evidence_removed,c057,supported,0,supported,0.9998626803276469
+evidence_removed,c057,supported,1,supported,0.9998931941807102
+evidence_removed,c057,supported,2,supported,0.9998931941807102
+evidence_removed,c057,supported,3,supported,0.9998931941807102
+evidence_removed,c057,supported,4,supported,0.9998931941807102
+original,c058,supported,0,supported,0.9999847413273523
+original,c058,supported,1,supported,0.9999694828875315
+original,c058,supported,2,supported,0.9999694828875315
+original,c058,supported,3,supported,0.9999847413273523
+original,c058,supported,4,supported,0.9999694828875315
+evidence_removed,c058,supported,0,supported,0.730932179798349
+evidence_removed,c058,supported,1,not supported,0.2689072311528535
+evidence_removed,c058,supported,2,supported,0.7309656399840376
+evidence_removed,c058,supported,3,supported,0.6790981619209083
+evidence_removed,c058,supported,4,supported,0.7309767937196461
+original,c059,supported,0,supported,1.0
+original,c059,supported,1,supported,1.0
+original,c059,supported,2,supported,1.0
+original,c059,supported,3,supported,0.9999961853100103
+original,c059,supported,4,supported,1.0
+evidence_removed,c059,supported,0,supported,0.992002216083974
+evidence_removed,c059,supported,1,supported,0.9935322067533374
+evidence_removed,c059,supported,2,supported,0.9926987511238247
+evidence_removed,c059,supported,3,supported,0.992002216083974
+evidence_removed,c059,supported,4,supported,0.9910301563021676
+original,c060,unclear,0,not supported,0.9999771120783387
+original,c060,unclear,1,not supported,0.9999237089649965
+original,c060,unclear,2,not supported,0.9999237089649965
+original,c060,unclear,3,not supported,0.9999237089649965
+original,c060,unclear,4,not supported,0.9999732974756593
+evidence_removed,c060,unclear,0,not supported,1.0
+evidence_removed,c060,unclear,1,not supported,1.0
+evidence_removed,c060,unclear,2,not supported,1.0
+evidence_removed,c060,unclear,3,not supported,1.0
+evidence_removed,c060,unclear,4,not supported,1.0
+original,c061,supported,0,supported,0.9948747817635741
+original,c061,supported,1,supported,0.9940819123348493
+original,c061,supported,2,supported,0.9922255083112329
+original,c061,supported,3,supported,0.9953189129632538
+original,c061,supported,4,supported,0.9942791222146435
+original,c062,supported,0,supported,1.0
+original,c062,supported,1,supported,1.0
+original,c062,supported,2,supported,1.0
+original,c062,supported,3,supported,1.0
+original,c062,supported,4,supported,0.9999961853100103
+evidence_removed,c062,supported,0,not supported,0.9432445311656751
+evidence_removed,c062,supported,1,not supported,0.928528782128918
+evidence_removed,c062,supported,2,not supported,0.942216009320637
+evidence_removed,c062,supported,3,not supported,0.9495769218411265
+evidence_removed,c062,supported,4,not supported,0.9495769218411265
+original,c063,supported,0,supported,1.0
+original,c063,supported,1,supported,1.0
+original,c063,supported,2,supported,1.0
+original,c063,supported,3,supported,1.0
+original,c063,supported,4,supported,1.0
+evidence_removed,c063,supported,0,supported,0.9999847413273523
+evidence_removed,c063,supported,1,supported,0.9999885559736865
+evidence_removed,c063,supported,2,supported,0.9999885559736865
+evidence_removed,c063,supported,3,supported,0.9999885559736865
+evidence_removed,c063,supported,4,supported,0.9999847413273523
+original,c064,not supported,0,supported,0.9497326956016683
+original,c064,not supported,1,supported,0.9490409655730573
+original,c064,not supported,2,supported,0.9365541443599897
+original,c064,not supported,3,supported,0.9435864213835141
+original,c064,not supported,4,supported,0.9355007993471093
+original,c065,not supported,0,supported,0.9998664945083545
+original,c065,not supported,1,supported,0.9998664945083545
+original,c065,not supported,2,supported,0.9998664945083545
+original,c065,not supported,3,supported,0.9998664945083545
+original,c065,not supported,4,supported,0.9998664945083545
+original,c066,supported,0,not supported,0.774655579874574
+original,c066,supported,1,not supported,0.8161450789644977
+original,c066,supported,2,not supported,0.7748092590954646
+original,c066,supported,3,not supported,0.8159925392476636
+original,c066,supported,4,not supported,0.774655579874574
+original,c067,unclear,0,not supported,0.9695105740008877
+original,c067,unclear,1,not supported,0.9855823911444881
+original,c067,unclear,2,not supported,0.9696844138831403
+original,c067,unclear,3,not supported,0.9815939238184538
+original,c067,unclear,4,not supported,0.9815639684062824
+highest_1,c001,supported,0,supported,0.46726598219909266
+highest_1,c001,supported,1,not supported,0.41249451133503295
+highest_1,c001,supported,2,supported,0.46737116025232267
+highest_1,c001,supported,3,not supported,0.4633467987115302
+highest_1,c001,supported,4,not supported,0.4672517225905612
+highest_1,c005,supported,0,not supported,0.7503924324235007
+highest_1,c005,supported,1,not supported,0.7730673790009918
+highest_1,c005,supported,2,not supported,0.7506042888013561
+highest_1,c005,supported,3,not supported,0.7513777856661628
+highest_1,c005,supported,4,not supported,0.7730673790009918
+highest_1,c009,supported,0,supported,1.0
+highest_1,c009,supported,1,supported,1.0
+highest_1,c009,supported,2,supported,1.0
+highest_1,c009,supported,3,supported,1.0
+highest_1,c009,supported,4,supported,1.0
+highest_1,c012,supported,0,supported,0.9998931941807102
+highest_1,c012,supported,1,supported,0.9998321674057784
+highest_1,c012,supported,2,supported,0.9998512378728234
+highest_1,c012,supported,3,supported,0.9998321674057784
+highest_1,c012,supported,4,supported,0.9999275233785103
+highest_1,c015,supported,0,not supported,0.780877226949204
+highest_1,c015,supported,1,not supported,0.7920222921048417
+highest_1,c015,supported,2,not supported,0.7920162494773485
+highest_1,c015,supported,3,not supported,0.780877226949204
+highest_1,c015,supported,4,not supported,0.7808727587466541
+highest_1,c016,supported,0,supported,0.9534862161921372
+highest_1,c016,supported,1,supported,0.9640487025257581
+highest_1,c016,supported,2,supported,0.9631738418879715
+highest_1,c016,supported,3,supported,0.9638207211420334
+highest_1,c016,supported,4,supported,0.9576453762422914
+highest_1,c019,supported,0,supported,0.9995385281417665
+highest_1,c019,supported,1,supported,0.9995385281417665
+highest_1,c019,supported,2,supported,0.9995347152121489
+highest_1,c019,supported,3,supported,0.9995385281417665
+highest_1,c019,supported,4,supported,0.999641482739709
+highest_1,c020,supported,0,not supported,0.9687859606145686
+highest_1,c020,supported,1,not supported,0.9218126560807961
+highest_1,c020,supported,2,not supported,0.8954833802653291
+highest_1,c020,supported,3,not supported,0.9164306990501122
+highest_1,c020,supported,4,not supported,0.8856586076476576
+highest_1,c021,supported,0,supported,1.0
+highest_1,c021,supported,1,supported,1.0
+highest_1,c021,supported,2,supported,1.0
+highest_1,c021,supported,3,supported,1.0
+highest_1,c021,supported,4,supported,1.0
+highest_1,c026,supported,0,supported,0.9999732974756593
+highest_1,c026,supported,1,supported,0.9999732974756593
+highest_1,c026,supported,2,supported,0.9999732974756593
+highest_1,c026,supported,3,supported,0.9999732974756593
+highest_1,c026,supported,4,supported,0.9999732974756593
+highest_1,c027,supported,0,supported,0.9240694497520116
+highest_1,c027,supported,1,supported,0.9121025330362683
+highest_1,c027,supported,2,supported,0.9121025330362683
+highest_1,c027,supported,3,supported,0.9118903146311061
+highest_1,c027,supported,4,supported,0.9297657829899607
+highest_1,c028,supported,0,supported,1.0
+highest_1,c028,supported,1,supported,1.0
+highest_1,c028,supported,2,supported,1.0
+highest_1,c028,supported,3,supported,1.0
+highest_1,c028,supported,4,supported,1.0
+highest_1,c029,supported,0,supported,1.0
+highest_1,c029,supported,1,supported,1.0
+highest_1,c029,supported,2,supported,1.0
+highest_1,c029,supported,3,supported,1.0
+highest_1,c029,supported,4,supported,1.0
+highest_1,c031,supported,0,supported,0.9364148205732586
+highest_1,c031,supported,1,supported,0.9275658424991642
+highest_1,c031,supported,2,supported,0.9275658424991642
+highest_1,c031,supported,3,supported,0.9241223269428739
+highest_1,c031,supported,4,supported,0.9241223269428739
+highest_1,c032,supported,0,supported,0.9999771120783387
+highest_1,c032,supported,1,supported,0.9999809266955697
+highest_1,c032,supported,2,supported,0.9999771120783387
+highest_1,c032,supported,3,supported,0.9999771120783387
+highest_1,c032,supported,4,supported,0.9999809266955697
+highest_1,c033,supported,0,supported,0.9997253795119863
+highest_1,c033,supported,1,supported,0.9996567361746064
+highest_1,c033,supported,2,supported,0.9996796167633613
+highest_1,c033,supported,3,supported,0.9996567361746064
+highest_1,c033,supported,4,supported,0.9996567361746064
+highest_1,c034,supported,0,supported,1.0
+highest_1,c034,supported,1,supported,1.0
+highest_1,c034,supported,2,supported,1.0
+highest_1,c034,supported,3,supported,1.0
+highest_1,c034,supported,4,supported,1.0
+highest_1,c035,unclear,0,supported,0.7428931422173995
+highest_1,c035,unclear,1,supported,0.7185440555930379
+highest_1,c035,unclear,2,supported,0.7874431661849889
+highest_1,c035,unclear,3,not supported,0.1657618657961386
+highest_1,c035,unclear,4,supported,0.7874191356933239
+highest_1,c041,supported,0,supported,1.0
+highest_1,c041,supported,1,supported,1.0
+highest_1,c041,supported,2,supported,1.0
+highest_1,c041,supported,3,supported,1.0
+highest_1,c041,supported,4,supported,1.0
+highest_1,c043,supported,0,supported,1.0
+highest_1,c043,supported,1,supported,0.9999961853100103
+highest_1,c043,supported,2,supported,1.0
+highest_1,c043,supported,3,supported,1.0
+highest_1,c043,supported,4,supported,1.0
+highest_1,c044,supported,0,supported,0.9970784033915443
+highest_1,c044,supported,1,supported,0.9968235979537641
+highest_1,c044,supported,2,supported,0.9957404514805405
+highest_1,c044,supported,3,supported,0.9965650560307926
+highest_1,c044,supported,4,supported,0.9961431684239628
+highest_1,c047,supported,0,supported,1.0
+highest_1,c047,supported,1,supported,1.0
+highest_1,c047,supported,2,supported,1.0
+highest_1,c047,supported,3,supported,0.9999961853100103
+highest_1,c047,supported,4,supported,1.0
+highest_1,c049,supported,0,supported,0.9999961853100103
+highest_1,c049,supported,1,supported,1.0
+highest_1,c049,supported,2,supported,0.9999961853100103
+highest_1,c049,supported,3,supported,0.9999961853100103
+highest_1,c049,supported,4,supported,1.0
+highest_1,c050,supported,0,supported,0.9997825858937324
+highest_1,c050,supported,1,supported,0.9997711443555116
+highest_1,c050,supported,2,supported,0.9997063114454761
+highest_1,c050,supported,3,supported,0.9997749581870365
+highest_1,c050,supported,4,supported,0.999698684320706
+highest_1,c051,supported,0,supported,0.9999389667063573
+highest_1,c051,supported,1,supported,0.9998359814700882
+highest_1,c051,supported,2,supported,0.9998359814700882
+highest_1,c051,supported,3,supported,0.9999389667063573
+highest_1,c051,supported,4,supported,0.9999008227894784
+highest_1,c052,supported,0,supported,1.0
+highest_1,c052,supported,1,supported,1.0
+highest_1,c052,supported,2,supported,1.0
+highest_1,c052,supported,3,supported,1.0
+highest_1,c052,supported,4,supported,1.0
+highest_1,c054,supported,0,supported,0.9999923706345725
+highest_1,c054,supported,1,supported,0.9999923706345725
+highest_1,c054,supported,2,supported,0.9999923706345725
+highest_1,c054,supported,3,supported,0.9999923706345725
+highest_1,c054,supported,4,supported,0.9999923706345725
+highest_1,c055,supported,0,supported,0.9998245393208071
+highest_1,c055,supported,1,supported,0.9998970084778191
+highest_1,c055,supported,2,supported,0.9998970084778191
+highest_1,c055,supported,3,supported,0.9998741229134197
+highest_1,c055,supported,4,supported,0.9998664945083545
+highest_1,c057,supported,0,supported,0.939251815713931
+highest_1,c057,supported,1,supported,0.9232801768882634
+highest_1,c057,supported,2,supported,0.9392768967781299
+highest_1,c057,supported,3,supported,0.9039073232421294
+highest_1,c057,supported,4,supported,0.9392768967781299
+highest_1,c058,supported,0,not supported,0.9999961853100103
+highest_1,c058,supported,1,not supported,0.9999961853100103
+highest_1,c058,supported,2,not supported,0.9999923706345725
+highest_1,c058,supported,3,not supported,0.9999961853100103
+highest_1,c058,supported,4,not supported,0.9999961853100103
+highest_1,c059,supported,0,not supported,0.7565115519701324
+highest_1,c059,supported,1,not supported,0.671536010616201
+highest_1,c059,supported,2,not supported,0.6944100186308461
+highest_1,c059,supported,3,not supported,0.6944100186308461
+highest_1,c059,supported,4,supported,0.2813703312867763
+highest_1,c063,supported,0,supported,0.9999847413273523
+highest_1,c063,supported,1,supported,0.9999809266955697
+highest_1,c063,supported,2,supported,0.9999847413273523
+highest_1,c063,supported,3,supported,0.9999885559736865
+highest_1,c063,supported,4,supported,0.9999771120783387
+highest_3,c001,supported,0,supported,0.4736313998662755
+highest_3,c001,supported,1,not supported,0.47345437043892075
+highest_3,c001,supported,2,supported,0.4736313998662755
+highest_3,c001,supported,3,supported,0.5406688619236675
+highest_3,c001,supported,4,supported,0.4480062937812931
+highest_3,c005,supported,0,not supported,0.5591300335496325
+highest_3,c005,supported,1,not supported,0.5587281241913128
+highest_3,c005,supported,2,not supported,0.6480074087661912
+highest_3,c005,supported,3,not supported,0.6481693418577824
+highest_3,c005,supported,4,not supported,0.5587270585030054
+highest_3,c009,supported,0,supported,1.0
+highest_3,c009,supported,1,supported,1.0
+highest_3,c009,supported,2,supported,1.0
+highest_3,c009,supported,3,supported,1.0
+highest_3,c009,supported,4,supported,1.0
+highest_3,c012,supported,0,not supported,0.7060884037562232
+highest_3,c012,supported,1,not supported,0.6896845249961635
+highest_3,c012,supported,2,not supported,0.6989305569670838
+highest_3,c012,supported,3,not supported,0.7313393827910162
+highest_3,c012,supported,4,not supported,0.7060816700045746
+highest_3,c015,supported,0,not supported,0.7686022400495545
+highest_3,c015,supported,1,not supported,0.7632539365644226
+highest_3,c015,supported,2,not supported,0.7686022400495545
+highest_3,c015,supported,3,not supported,0.7551578521038425
+highest_3,c015,supported,4,not supported,0.7456286408812561
+highest_3,c016,supported,0,supported,0.8888079060435088
+highest_3,c016,supported,1,supported,0.876404540663344
+highest_3,c016,supported,2,supported,0.8888079060435088
+highest_3,c016,supported,3,supported,0.8763911678933509
+highest_3,c016,supported,4,supported,0.8888079060435088
+highest_3,c019,supported,0,supported,0.9994317716103566
+highest_3,c019,supported,1,supported,0.9996109765681521
+highest_3,c019,supported,2,supported,0.9994965867159467
+highest_3,c019,supported,3,supported,0.9993669607078802
+highest_3,c019,supported,4,supported,0.9995003995001153
+highest_3,c020,supported,0,not supported,0.9398969702247708
+highest_3,c020,supported,1,not supported,0.9524210940002301
+highest_3,c020,supported,2,not supported,0.9450994216512839
+highest_3,c020,supported,3,not supported,0.9450994216512839
+highest_3,c020,supported,4,not supported,0.9464234816948952
+highest_3,c021,supported,0,supported,0.9998893798981516
+highest_3,c021,supported,1,supported,0.9998245393208071
+highest_3,c021,supported,2,supported,0.9998245393208071
+highest_3,c021,supported,3,supported,0.9997101250296826
+highest_3,c021,supported,4,supported,0.9998245393208071
+highest_3,c026,supported,0,supported,0.9988905390031473
+highest_3,c026,supported,1,supported,0.999012481326014
+highest_3,c026,supported,2,supported,0.9985628927598784
+highest_3,c026,supported,3,supported,0.9988905390031473
+highest_3,c026,supported,4,supported,0.9988905390031473
+highest_3,c027,supported,0,supported,0.9679806492272908
+highest_3,c027,supported,1,supported,0.9666301177909274
+highest_3,c027,supported,2,supported,0.9652851528863793
+highest_3,c027,supported,3,supported,0.9652851528863793
+highest_3,c027,supported,4,supported,0.9653993100257389
+highest_3,c028,supported,0,supported,1.0
+highest_3,c028,supported,1,supported,1.0
+highest_3,c028,supported,2,supported,1.0
+highest_3,c028,supported,3,supported,1.0
+highest_3,c028,supported,4,supported,1.0
+highest_3,c029,supported,0,supported,1.0
+highest_3,c029,supported,1,supported,0.9999961853100103
+highest_3,c029,supported,2,supported,0.9999961853100103
+highest_3,c029,supported,3,supported,1.0
+highest_3,c029,supported,4,supported,1.0
+highest_3,c031,supported,0,supported,0.9444110662297988
+highest_3,c031,supported,1,supported,0.9505953475090043
+highest_3,c031,supported,2,supported,0.9347267222196424
+highest_3,c031,supported,3,supported,0.9419177322301022
+highest_3,c031,supported,4,supported,0.9391765765396294
+highest_3,c032,supported,0,supported,0.9999694828875315
+highest_3,c032,supported,1,supported,0.9999771120783387
+highest_3,c032,supported,2,supported,0.9999771120783387
+highest_3,c032,supported,3,supported,0.9999732974756593
+highest_3,c032,supported,4,supported,0.9999771120783387
+highest_3,c033,supported,0,supported,0.9999275233785103
+highest_3,c033,supported,1,supported,0.9999389667063573
+highest_3,c033,supported,2,supported,0.9999389667063573
+highest_3,c033,supported,3,supported,0.9999198945660335
+highest_3,c033,supported,4,supported,0.9999465956643435
+highest_3,c034,supported,0,supported,1.0
+highest_3,c034,supported,1,supported,1.0
+highest_3,c034,supported,2,supported,1.0
+highest_3,c034,supported,3,supported,1.0
+highest_3,c034,supported,4,supported,1.0
+highest_3,c035,unclear,0,supported,0.5974781668857473
+highest_3,c035,unclear,1,not supported,0.3252077677170364
+highest_3,c035,unclear,2,supported,0.46671196016157623
+highest_3,c035,unclear,3,supported,0.4667101798001338
+highest_3,c035,unclear,4,supported,0.5363651695130814
+highest_3,c041,supported,0,supported,1.0
+highest_3,c041,supported,1,supported,1.0
+highest_3,c041,supported,2,supported,1.0
+highest_3,c041,supported,3,supported,1.0
+highest_3,c041,supported,4,supported,1.0
+highest_3,c043,supported,0,supported,0.9999961853100103
+highest_3,c043,supported,1,supported,0.9999961853100103
+highest_3,c043,supported,2,supported,0.9999961853100103
+highest_3,c043,supported,3,supported,0.9999961853100103
+highest_3,c043,supported,4,supported,0.9999961853100103
+highest_3,c044,supported,0,supported,0.9953758671977476
+highest_3,c044,supported,1,supported,0.9959379903878539
+highest_3,c044,supported,2,supported,0.9959569865786584
+highest_3,c044,supported,3,supported,0.9959379903878539
+highest_3,c044,supported,4,supported,0.9959379903878539
+highest_3,c047,supported,0,supported,1.0
+highest_3,c047,supported,1,supported,1.0
+highest_3,c047,supported,2,supported,1.0
+highest_3,c047,supported,3,supported,1.0
+highest_3,c047,supported,4,supported,1.0
+highest_3,c049,supported,0,not supported,0.9481110033824868
+highest_3,c049,supported,1,not supported,0.8985956262439682
+highest_3,c049,supported,2,not supported,0.8985956262439682
+highest_3,c049,supported,3,not supported,0.8985956262439682
+highest_3,c049,supported,4,not supported,0.8985956262439682
+highest_3,c050,supported,0,supported,0.9999923706345725
+highest_3,c050,supported,1,supported,0.9999961853100103
+highest_3,c050,supported,2,supported,0.9999923706345725
+highest_3,c050,supported,3,supported,0.9999847413273523
+highest_3,c050,supported,4,supported,0.9999847413273523
+highest_3,c051,supported,0,not supported,0.9879726935469706
+highest_3,c051,supported,1,not supported,0.9813243580160635
+highest_3,c051,supported,2,not supported,0.9826504363767382
+highest_3,c051,supported,3,not supported,0.9840796585490224
+highest_3,c051,supported,4,not supported,0.9819984113695721
+highest_3,c052,supported,0,supported,0.9999961853100103
+highest_3,c052,supported,1,supported,0.9999961853100103
+highest_3,c052,supported,2,supported,0.9999961853100103
+highest_3,c052,supported,3,supported,1.0
+highest_3,c052,supported,4,supported,1.0
+highest_3,c054,supported,0,supported,1.0
+highest_3,c054,supported,1,supported,1.0
+highest_3,c054,supported,2,supported,0.9999961853100103
+highest_3,c054,supported,3,supported,1.0
+highest_3,c054,supported,4,supported,1.0
+highest_3,c055,supported,0,supported,0.9997902136586232
+highest_3,c055,supported,1,supported,0.9998474237503151
+highest_3,c055,supported,2,supported,0.9998054693629916
+highest_3,c055,supported,3,supported,0.9998054693629916
+highest_3,c055,supported,4,supported,0.9997902136586232
+highest_3,c057,supported,0,supported,0.37524398683982685
+highest_3,c057,supported,1,not supported,0.6186703827604226
+highest_3,c057,supported,2,not supported,0.618384883789256
+highest_3,c057,supported,3,not supported,0.5590863105671444
+highest_3,c057,supported,4,supported,0.37516240350379576
+highest_3,c058,supported,0,not supported,0.9999923706345725
+highest_3,c058,supported,1,not supported,0.9999961853100103
+highest_3,c058,supported,2,not supported,0.9999961853100103
+highest_3,c058,supported,3,not supported,0.9999961853100103
+highest_3,c058,supported,4,not supported,0.9999961853100103
+highest_3,c059,supported,0,supported,0.6105932339155097
+highest_3,c059,supported,1,supported,0.6396716814868176
+highest_3,c059,supported,2,supported,0.6396716814868176
+highest_3,c059,supported,3,not supported,0.3423915780157785
+highest_3,c059,supported,4,not supported,0.3423915780157785
+highest_3,c063,supported,0,supported,0.9998359814700882
+highest_3,c063,supported,1,supported,0.9998245393208071
+highest_3,c063,supported,2,supported,0.9998397955489475
+highest_3,c063,supported,3,supported,0.9998245393208071
+highest_3,c063,supported,4,supported,0.9998397955489475
+highest_5,c001,supported,0,supported,0.6813244985921745
+highest_5,c001,supported,1,not supported,0.2280188911622342
+highest_5,c001,supported,2,unclear,0.10522166106738587
+highest_5,c001,supported,3,not supported,0.2462088576304581
+highest_5,c001,supported,4,supported,0.6813206000332757
+highest_5,c005,supported,0,not supported,0.6979221252494643
+highest_5,c005,supported,1,not supported,0.6981977340819452
+highest_5,c005,supported,2,not supported,0.7912311003280174
+highest_5,c005,supported,3,not supported,0.7462546599908448
+highest_5,c005,supported,4,not supported,0.7462546599908448
+highest_5,c009,supported,0,supported,0.9996834302457355
+highest_5,c009,supported,1,supported,0.9997558891748972
+highest_5,c009,supported,2,supported,0.9996872437426569
+highest_5,c009,supported,3,supported,0.9996872437426569
+highest_5,c009,supported,4,supported,0.9997215658695886
+highest_5,c012,supported,0,not supported,0.8798917500520722
+highest_5,c012,supported,1,not supported,0.9288086467372438
+highest_5,c012,supported,2,not supported,0.8699260452416757
+highest_5,c012,supported,3,not supported,0.9157317845623723
+highest_5,c012,supported,4,not supported,0.856259422774913
+highest_5,c015,supported,0,not supported,0.9024120717041483
+highest_5,c015,supported,1,not supported,0.9036246205707272
+highest_5,c015,supported,2,not supported,0.879546096335324
+highest_5,c015,supported,3,not supported,0.879546096335324
+highest_5,c015,supported,4,not supported,0.879546096335324
+highest_5,c016,supported,0,supported,0.7791811497466645
+highest_5,c016,supported,1,supported,0.7772633819193834
+highest_5,c016,supported,2,supported,0.7091562271734345
+highest_5,c016,supported,3,supported,0.7554070736479022
+highest_5,c016,supported,4,supported,0.7791811497466645
+highest_5,c019,supported,0,supported,0.9942525724521812
+highest_5,c019,supported,1,supported,0.9917297919512823
+highest_5,c019,supported,2,supported,0.994006072796879
+highest_5,c019,supported,3,supported,0.9941577576591378
+highest_5,c019,supported,4,supported,0.9941577576591378
+highest_5,c020,supported,0,not supported,0.9418135371946301
+highest_5,c020,supported,1,not supported,0.9144471742980608
+highest_5,c020,supported,2,not supported,0.9144471742980608
+highest_5,c020,supported,3,not supported,0.9638758729839677
+highest_5,c020,supported,4,not supported,0.9144541510029455
+highest_5,c021,supported,0,supported,0.9999275233785103
+highest_5,c021,supported,1,supported,0.9999275233785103
+highest_5,c021,supported,2,supported,0.9999427811780749
+highest_5,c021,supported,3,supported,0.9999237089649965
+highest_5,c021,supported,4,supported,0.9999160801816213
+highest_5,c026,supported,0,supported,0.9976490994922919
+highest_5,c026,supported,1,supported,0.9979459905442984
+highest_5,c026,supported,2,supported,0.9976681283202237
+highest_5,c026,supported,3,supported,0.9973789293011404
+highest_5,c026,supported,4,supported,0.9976529052288425
+highest_5,c027,supported,0,supported,0.8418612020828322
+highest_5,c027,supported,1,supported,0.8468876088237353
+highest_5,c027,supported,2,supported,0.8472301237720238
+highest_5,c027,supported,3,supported,0.8472268918517517
+highest_5,c027,supported,4,supported,0.9045730579104726
+highest_5,c028,supported,0,supported,1.0
+highest_5,c028,supported,1,supported,1.0
+highest_5,c028,supported,2,supported,1.0
+highest_5,c028,supported,3,supported,1.0
+highest_5,c028,supported,4,supported,1.0
+highest_5,c029,supported,0,supported,0.9999771120783387
+highest_5,c029,supported,1,supported,0.9999732974756593
+highest_5,c029,supported,2,supported,0.9999656683139552
+highest_5,c029,supported,3,supported,0.9999656683139552
+highest_5,c029,supported,4,supported,0.9999656683139552
+highest_5,c031,supported,0,supported,0.9390601468417693
+highest_5,c031,supported,1,supported,0.90999992626561
+highest_5,c031,supported,2,supported,0.9255758706068975
+highest_5,c031,supported,3,supported,0.931528425465551
+highest_5,c031,supported,4,supported,0.9270493824317191
+highest_5,c032,supported,0,supported,0.9999847413273523
+highest_5,c032,supported,1,supported,0.9999847413273523
+highest_5,c032,supported,2,supported,0.9999923706345725
+highest_5,c032,supported,3,supported,0.9999923706345725
+highest_5,c032,supported,4,supported,0.9999923706345725
+highest_5,c033,supported,0,supported,0.9998893798981516
+highest_5,c033,supported,1,supported,0.9998893798981516
+highest_5,c033,supported,2,supported,0.9998626803276469
+highest_5,c033,supported,3,supported,0.9998893798981516
+highest_5,c033,supported,4,supported,0.9998779371377774
+highest_5,c034,supported,0,supported,1.0
+highest_5,c034,supported,1,supported,1.0
+highest_5,c034,supported,2,supported,1.0
+highest_5,c034,supported,3,supported,1.0
+highest_5,c034,supported,4,supported,1.0
+highest_5,c035,unclear,0,not supported,0.7156635422684969
+highest_5,c035,unclear,1,not supported,0.7400618050544245
+highest_5,c035,unclear,2,not supported,0.7027080811532872
+highest_5,c035,unclear,3,not supported,0.7400618050544245
+highest_5,c035,unclear,4,not supported,0.7156635422684969
+highest_5,c041,supported,0,supported,1.0
+highest_5,c041,supported,1,supported,1.0
+highest_5,c041,supported,2,supported,1.0
+highest_5,c041,supported,3,supported,1.0
+highest_5,c041,supported,4,supported,1.0
+highest_5,c043,supported,0,supported,0.9999961853100103
+highest_5,c043,supported,1,supported,0.9999961853100103
+highest_5,c043,supported,2,supported,0.9999961853100103
+highest_5,c043,supported,3,supported,0.9999961853100103
+highest_5,c043,supported,4,supported,0.9999961853100103
+highest_5,c044,supported,0,supported,0.9982848587691717
+highest_5,c044,supported,1,supported,0.9982848587691717
+highest_5,c044,supported,2,supported,0.9992182927529752
+highest_5,c044,supported,3,supported,0.998109699029824
+highest_5,c044,supported,4,supported,0.998109699029824
+highest_5,c047,supported,0,supported,1.0
+highest_5,c047,supported,1,supported,1.0
+highest_5,c047,supported,2,supported,1.0
+highest_5,c047,supported,3,supported,1.0
+highest_5,c047,supported,4,supported,1.0
+highest_5,c049,supported,0,not supported,0.8766854159744278
+highest_5,c049,supported,1,not supported,0.8781346899099196
+highest_5,c049,supported,2,not supported,0.8781346899099196
+highest_5,c049,supported,3,not supported,0.9021711338538857
+highest_5,c049,supported,4,not supported,0.8781346899099196
+highest_5,c050,supported,0,supported,0.9999809266955697
+highest_5,c050,supported,1,supported,0.9999694828875315
+highest_5,c050,supported,2,supported,0.9999694828875315
+highest_5,c050,supported,3,supported,0.9999732974756593
+highest_5,c050,supported,4,supported,0.9999771120783387
+highest_5,c051,supported,0,not supported,0.961485184270679
+highest_5,c051,supported,1,not supported,0.961485184270679
+highest_5,c051,supported,2,not supported,0.961485184270679
+highest_5,c051,supported,3,not supported,0.961485184270679
+highest_5,c051,supported,4,not supported,0.961485184270679
+highest_5,c052,supported,0,supported,0.9859321051303709
+highest_5,c052,supported,1,supported,0.9890096619649149
+highest_5,c052,supported,2,supported,0.9890096619649149
+highest_5,c052,supported,3,supported,0.9890096619649149
+highest_5,c052,supported,4,supported,0.9890096619649149
+highest_5,c054,supported,0,supported,1.0
+highest_5,c054,supported,1,supported,0.9999961853100103
+highest_5,c054,supported,2,supported,0.9999961853100103
+highest_5,c054,supported,3,supported,0.9999961853100103
+highest_5,c054,supported,4,supported,1.0
+highest_5,c055,supported,0,supported,0.9995194636391294
+highest_5,c055,supported,1,supported,0.9995575930080336
+highest_5,c055,supported,2,supported,0.9995347152121489
+highest_5,c055,supported,3,supported,0.9995194636391294
+highest_5,c055,supported,4,supported,0.9995347152121489
+highest_5,c057,supported,0,supported,0.7741179426031346
+highest_5,c057,supported,1,supported,0.7741179426031346
+highest_5,c057,supported,2,supported,0.7742360726394687
+highest_5,c057,supported,3,supported,0.8494598500273893
+highest_5,c057,supported,4,supported,0.6764480286446894
+highest_5,c058,supported,0,not supported,1.0
+highest_5,c058,supported,1,not supported,1.0
+highest_5,c058,supported,2,not supported,1.0
+highest_5,c058,supported,3,not supported,1.0
+highest_5,c058,supported,4,not supported,1.0
+highest_5,c059,supported,0,not supported,0.5176939861183117
+highest_5,c059,supported,1,not supported,0.47860423438645283
+highest_5,c059,supported,2,unclear,0.37885849839239155
+highest_5,c059,supported,3,not supported,0.5177018855619127
+highest_5,c059,supported,4,unclear,0.3444995881488497
+highest_5,c063,supported,0,supported,0.9994088966942621
+highest_5,c063,supported,1,supported,0.9992983419803216
+highest_5,c063,supported,2,supported,0.9992640343833796
+highest_5,c063,supported,3,supported,0.9992983419803216
+highest_5,c063,supported,4,supported,0.9992983419803216
+highest_7,c001,supported,0,supported,0.770967586041023
+highest_7,c001,supported,1,supported,0.7416599979458443
+highest_7,c001,supported,2,supported,0.7645594408416332
+highest_7,c001,supported,3,supported,0.6650112275197452
+highest_7,c001,supported,4,supported,0.6874387376697364
+highest_7,c005,supported,0,not supported,0.4347969208837194
+highest_7,c005,supported,1,supported,0.5584830694023366
+highest_7,c005,supported,2,not supported,0.4655064324404428
+highest_7,c005,supported,3,supported,0.4657382276095612
+highest_7,c005,supported,4,supported,0.5270112163526632
+highest_7,c009,supported,0,supported,0.9999275233785103
+highest_7,c009,supported,1,supported,0.9999542246805344
+highest_7,c009,supported,2,supported,0.9999618537549303
+highest_7,c009,supported,3,supported,0.9999389667063573
+highest_7,c009,supported,4,supported,0.9999580392104567
+highest_7,c012,supported,0,supported,0.3892286741341539
+highest_7,c012,supported,1,not supported,0.5636067118789403
+highest_7,c012,supported,2,not supported,0.5687534933944125
+highest_7,c012,supported,3,not supported,0.5687448149710396
+highest_7,c012,supported,4,not supported,0.5406069908231521
+highest_7,c015,supported,0,not supported,0.9876976082291726
+highest_7,c015,supported,1,not supported,0.9893719144467816
+highest_7,c015,supported,2,not supported,0.9877691984034844
+highest_7,c015,supported,3,not supported,0.9878520987721985
+highest_7,c015,supported,4,not supported,0.9889757075957051
+highest_7,c016,supported,0,supported,0.8037371660144825
+highest_7,c016,supported,1,supported,0.8548821233202039
+highest_7,c016,supported,2,supported,0.8049706491668122
+highest_7,c016,supported,3,supported,0.7817758549022429
+highest_7,c016,supported,4,supported,0.7849928351203834
+highest_7,c019,supported,0,supported,0.9731751895198365
+highest_7,c019,supported,1,supported,0.9697362020007702
+highest_7,c019,supported,2,supported,0.9780580261194526
+highest_7,c019,supported,3,supported,0.9700654911491619
+highest_7,c019,supported,4,supported,0.9697140067545467
+highest_7,c020,supported,0,not supported,0.9444254769089911
+highest_7,c020,supported,1,not supported,0.9687453095907627
+highest_7,c020,supported,2,not supported,0.9621823141090345
+highest_7,c020,supported,3,not supported,0.9619767917443838
+highest_7,c020,supported,4,not supported,0.9337110500839922
+highest_7,c021,supported,0,supported,0.9996376694173515
+highest_7,c021,supported,1,supported,0.9996376694173515
+highest_7,c021,supported,2,supported,0.9996376694173515
+highest_7,c021,supported,3,supported,0.9996376694173515
+highest_7,c021,supported,4,supported,0.9996376694173515
+highest_7,c026,supported,0,supported,0.9992945299669398
+highest_7,c026,supported,1,supported,0.9993707729975639
+highest_7,c026,supported,2,supported,0.9993707729975639
+highest_7,c026,supported,3,supported,0.999386022301727
+highest_7,c026,supported,4,supported,0.9991077591236621
+highest_7,c027,supported,0,supported,0.25202109297903913
+highest_7,c027,supported,1,unclear,0.48217400404744626
+highest_7,c027,supported,2,unclear,0.4515837844454283
+highest_7,c027,supported,3,unclear,0.4767110549007444
+highest_7,c027,supported,4,unclear,0.4617922204858689
+highest_7,c028,supported,0,supported,1.0
+highest_7,c028,supported,1,supported,1.0
+highest_7,c028,supported,2,supported,1.0
+highest_7,c028,supported,3,supported,1.0
+highest_7,c028,supported,4,supported,1.0
+highest_7,c029,supported,0,supported,0.9926798170783369
+highest_7,c029,supported,1,supported,0.9936951911777748
+highest_7,c029,supported,2,supported,0.9973979529759356
+highest_7,c029,supported,3,supported,0.9936951911777748
+highest_7,c029,supported,4,supported,0.9936951911777748
+highest_7,c031,supported,0,supported,0.8677071411546938
+highest_7,c031,supported,1,supported,0.8750265476997912
+highest_7,c031,supported,2,supported,0.8993775206448482
+highest_7,c031,supported,3,supported,0.867697211091338
+highest_7,c031,supported,4,supported,0.8750816257959008
+highest_7,c032,supported,0,supported,0.9999923706345725
+highest_7,c032,supported,1,supported,0.9999923706345725
+highest_7,c032,supported,2,supported,0.9999923706345725
+highest_7,c032,supported,3,supported,0.9999923706345725
+highest_7,c032,supported,4,supported,0.9999923706345725
+highest_7,c033,supported,0,supported,0.9999008227894784
+highest_7,c033,supported,1,supported,0.9998855656301433
+highest_7,c033,supported,2,supported,0.9999008227894784
+highest_7,c033,supported,3,supported,0.9999008227894784
+highest_7,c033,supported,4,supported,0.9998970084778191
+highest_7,c034,supported,0,supported,1.0
+highest_7,c034,supported,1,supported,1.0
+highest_7,c034,supported,2,supported,1.0
+highest_7,c034,supported,3,supported,1.0
+highest_7,c034,supported,4,supported,1.0
+highest_7,c035,unclear,0,unclear,0.19242287690799584
+highest_7,c035,unclear,1,not supported,0.7460113037843864
+highest_7,c035,unclear,2,not supported,0.7489768219948633
+highest_7,c035,unclear,3,not supported,0.7247517352253523
+highest_7,c035,unclear,4,not supported,0.7521922499460021
+highest_7,c041,supported,0,supported,1.0
+highest_7,c041,supported,1,supported,1.0
+highest_7,c041,supported,2,supported,1.0
+highest_7,c041,supported,3,supported,1.0
+highest_7,c041,supported,4,supported,1.0
+highest_7,c043,supported,0,supported,0.9065109579675882
+highest_7,c043,supported,1,supported,0.8469296079231103
+highest_7,c043,supported,2,supported,0.8385710990231384
+highest_7,c043,supported,3,supported,0.8834400145570035
+highest_7,c043,supported,4,supported,0.8305263287086038
+highest_7,c044,supported,0,supported,0.9996186030237627
+highest_7,c044,supported,1,supported,0.9997024978758172
+highest_7,c044,supported,2,supported,0.9996796167633613
+highest_7,c044,supported,3,supported,0.999660549569698
+highest_7,c044,supported,4,supported,0.9996186030237627
+highest_7,c047,supported,0,supported,0.9999961853100103
+highest_7,c047,supported,1,supported,1.0
+highest_7,c047,supported,2,supported,1.0
+highest_7,c047,supported,3,supported,1.0
+highest_7,c047,supported,4,supported,1.0
+highest_7,c049,supported,0,not supported,0.7291081328865956
+highest_7,c049,supported,1,not supported,0.9383028107135644
+highest_7,c049,supported,2,not supported,0.9383028107135644
+highest_7,c049,supported,3,not supported,0.9383028107135644
+highest_7,c049,supported,4,not supported,0.6779592742642415
+highest_7,c050,supported,0,supported,0.9999923706345725
+highest_7,c050,supported,1,supported,0.9999923706345725
+highest_7,c050,supported,2,supported,0.9999923706345725
+highest_7,c050,supported,3,supported,0.9999885559736865
+highest_7,c050,supported,4,supported,0.9999923706345725
+highest_7,c051,supported,0,not supported,0.9732048889228866
+highest_7,c051,supported,1,not supported,0.9697472998143867
+highest_7,c051,supported,2,not supported,0.9720435754901425
+highest_7,c051,supported,3,not supported,0.969665918797113
+highest_7,c051,supported,4,not supported,0.9720435754901425
+highest_7,c052,supported,0,not supported,0.8174849164975758
+highest_7,c052,supported,1,not supported,0.43778352269672893
+highest_7,c052,supported,2,not supported,0.8174817980460481
+highest_7,c052,supported,3,not supported,0.8518774056502226
+highest_7,c052,supported,4,not supported,0.43779187283439663
+highest_7,c054,supported,0,supported,0.9999923706345725
+highest_7,c054,supported,1,supported,0.9999923706345725
+highest_7,c054,supported,2,supported,0.9999923706345725
+highest_7,c054,supported,3,supported,0.9999923706345725
+highest_7,c054,supported,4,supported,0.9999923706345725
+highest_7,c055,supported,0,supported,0.9998855656301433
+highest_7,c055,supported,1,supported,0.9998855656301433
+highest_7,c055,supported,2,supported,0.9998855656301433
+highest_7,c055,supported,3,supported,0.9998855656301433
+highest_7,c055,supported,4,supported,0.9998359814700882
+highest_7,c057,supported,0,not supported,0.5597841533448875
+highest_7,c057,supported,1,supported,0.4970966551266504
+highest_7,c057,supported,2,supported,0.37534706483394603
+highest_7,c057,supported,3,not supported,0.3757481929394571
+highest_7,c057,supported,4,not supported,0.4971782015643752
+highest_7,c058,supported,0,not supported,1.0
+highest_7,c058,supported,1,not supported,1.0
+highest_7,c058,supported,2,not supported,1.0
+highest_7,c058,supported,3,not supported,1.0
+highest_7,c058,supported,4,not supported,1.0
+highest_7,c059,supported,0,unclear,0.460852484878163
+highest_7,c059,supported,1,not supported,0.5301244150073229
+highest_7,c059,supported,2,not supported,0.4647168868516052
+highest_7,c059,supported,3,not supported,0.4647168868516052
+highest_7,c059,supported,4,unclear,0.45083849033962925
+highest_7,c063,supported,0,supported,0.999382209953872
+highest_7,c063,supported,1,supported,0.9990810804244052
+highest_7,c063,supported,2,supported,0.9983838756969929
+highest_7,c063,supported,3,supported,0.9984714757814018
+highest_7,c063,supported,4,supported,0.9983838756969929
+highest_10,c001,supported,0,supported,0.5854247910216744
+highest_10,c001,supported,1,supported,0.5812047758324652
+highest_10,c001,supported,2,supported,0.5854538235800902
+highest_10,c001,supported,3,supported,0.5765025431309677
+highest_10,c001,supported,4,not supported,0.37861794391964926
+highest_10,c005,supported,0,supported,0.6451228998938366
+highest_10,c005,supported,1,not supported,0.37364347885999455
+highest_10,c005,supported,2,supported,0.6160339512548667
+highest_10,c005,supported,3,supported,0.67242422883819
+highest_10,c005,supported,4,supported,0.6154725612629081
+highest_10,c009,supported,0,supported,0.9999694828875315
+highest_10,c009,supported,1,supported,0.9999732974756593
+highest_10,c009,supported,2,supported,0.9999732974756593
+highest_10,c009,supported,3,supported,0.9999732974756593
+highest_10,c009,supported,4,supported,0.9999732974756593
+highest_10,c012,supported,0,not supported,0.6843251888771572
+highest_10,c012,supported,1,supported,0.2760118294230335
+highest_10,c012,supported,2,not supported,0.6573614025264487
+highest_10,c012,supported,3,not supported,0.6621305874638433
+highest_10,c012,supported,4,not supported,0.662117958445576
+highest_10,c015,supported,0,not supported,0.9439716461272037
+highest_10,c015,supported,1,not supported,0.9514914492775893
+highest_10,c015,supported,2,not supported,0.9485921540373284
+highest_10,c015,supported,3,not supported,0.9511902358633066
+highest_10,c015,supported,4,not supported,0.9706207259144376
+highest_10,c016,supported,0,not supported,0.3097790489853984
+highest_10,c016,supported,1,supported,0.5787500791953042
+highest_10,c016,supported,2,supported,0.5856704965875978
+highest_10,c016,supported,3,supported,0.5794713607261591
+highest_10,c016,supported,4,supported,0.5794713607261591
+highest_10,c019,supported,0,supported,0.9821257845357846
+highest_10,c019,supported,1,supported,0.9797720530984634
+highest_10,c019,supported,2,supported,0.9821070521517072
+highest_10,c019,supported,3,supported,0.9821257845357846
+highest_10,c019,supported,4,supported,0.9774388769589459
+highest_10,c020,supported,0,not supported,0.9868690471354916
+highest_10,c020,supported,1,not supported,0.9879237001442746
+highest_10,c020,supported,2,not supported,0.9868728117493277
+highest_10,c020,supported,3,not supported,0.9863383803253332
+highest_10,c020,supported,4,not supported,0.9862142229236356
+highest_10,c021,supported,0,supported,0.9999389667063573
+highest_10,c021,supported,1,supported,0.9999465956643435
+highest_10,c021,supported,2,supported,0.9999389667063573
+highest_10,c021,supported,3,supported,0.9999465956643435
+highest_10,c021,supported,4,supported,0.9999389667063573
+highest_10,c026,supported,0,supported,0.9996719898422546
+highest_10,c026,supported,1,supported,0.9997749581870365
+highest_10,c026,supported,2,supported,0.9997749581870365
+highest_10,c026,supported,3,supported,0.9997749581870365
+highest_10,c026,supported,4,supported,0.9997749581870365
+highest_10,c027,supported,0,unclear,0.6977823652597128
+highest_10,c027,supported,1,unclear,0.6617164812623093
+highest_10,c027,supported,2,unclear,0.6796864723394251
+highest_10,c027,supported,3,not supported,0.2206618902750871
+highest_10,c027,supported,4,not supported,0.20234865359526594
+highest_10,c028,supported,0,supported,1.0
+highest_10,c028,supported,1,supported,1.0
+highest_10,c028,supported,2,supported,1.0
+highest_10,c028,supported,3,supported,1.0
+highest_10,c028,supported,4,supported,1.0
+highest_10,c029,supported,0,not supported,0.9388076335709693
+highest_10,c029,supported,1,not supported,0.9508746084983076
+highest_10,c029,supported,2,not supported,0.9320064937050109
+highest_10,c029,supported,3,not supported,0.9377875271254305
+highest_10,c029,supported,4,not supported,0.9522576141157874
+highest_10,c031,supported,0,supported,0.47659468457179693
+highest_10,c031,supported,1,unclear,0.27805673183950746
+highest_10,c031,supported,2,supported,0.48954392718398454
+highest_10,c031,supported,3,supported,0.4589279745107809
+highest_10,c031,supported,4,supported,0.5201634775858938
+highest_10,c032,supported,0,supported,0.9984676669222582
+highest_10,c032,supported,1,supported,0.9984676669222582
+highest_10,c032,supported,2,supported,0.9984676669222582
+highest_10,c032,supported,3,supported,0.9984676669222582
+highest_10,c032,supported,4,supported,0.9988067122905339
+highest_10,c033,supported,0,supported,0.9274650040686163
+highest_10,c033,supported,1,supported,0.9147629234897371
+highest_10,c033,supported,2,supported,0.9045506288181357
+highest_10,c033,supported,3,supported,0.9185954694792149
+highest_10,c033,supported,4,supported,0.9274650040686163
+highest_10,c034,supported,0,supported,1.0
+highest_10,c034,supported,1,supported,1.0
+highest_10,c034,supported,2,supported,1.0
+highest_10,c034,supported,3,supported,1.0
+highest_10,c034,supported,4,supported,1.0
+highest_10,c035,unclear,0,not supported,0.8383727909926355
+highest_10,c035,unclear,1,not supported,0.8091978071871923
+highest_10,c035,unclear,2,not supported,0.8034122342325134
+highest_10,c035,unclear,3,not supported,0.8091978071871923
+highest_10,c035,unclear,4,not supported,0.8446453017630213
+highest_10,c041,supported,0,supported,1.0
+highest_10,c041,supported,1,supported,1.0
+highest_10,c041,supported,2,supported,1.0
+highest_10,c041,supported,3,supported,1.0
+highest_10,c041,supported,4,supported,1.0
+highest_10,c043,supported,0,supported,0.8051671991961535
+highest_10,c043,supported,1,supported,0.8453576786180005
+highest_10,c043,supported,2,supported,0.865665596868344
+highest_10,c043,supported,3,supported,0.8170266317546542
+highest_10,c043,supported,4,supported,0.8235194665711705
+highest_10,c044,supported,0,supported,0.9996262295375588
+highest_10,c044,supported,1,supported,0.999427959087982
+highest_10,c044,supported,2,supported,0.9996910572541259
+highest_10,c044,supported,3,supported,0.9994432092647422
+highest_10,c044,supported,4,supported,0.9996910572541259
+highest_10,c047,supported,0,supported,0.9999885559736865
+highest_10,c047,supported,1,supported,0.9999847413273523
+highest_10,c047,supported,2,supported,0.9999885559736865
+highest_10,c047,supported,3,supported,0.9999847413273523
+highest_10,c047,supported,4,supported,0.9999847413273523
+highest_10,c049,supported,0,not supported,0.9383028107135644
+highest_10,c049,supported,1,unclear,0.32005598723622214
+highest_10,c049,supported,2,not supported,0.9383028107135644
+highest_10,c049,supported,3,not supported,0.9380880748190932
+highest_10,c049,supported,4,not supported,0.9383028107135644
+highest_10,c050,supported,0,supported,1.0
+highest_10,c050,supported,1,supported,0.9999961853100103
+highest_10,c050,supported,2,supported,1.0
+highest_10,c050,supported,3,supported,1.0
+highest_10,c050,supported,4,supported,1.0
+highest_10,c051,supported,0,not supported,0.9738845103248489
+highest_10,c051,supported,1,not supported,0.9706096181053098
+highest_10,c051,supported,2,not supported,0.9712689014823962
+highest_10,c051,supported,3,not supported,0.9706096181053098
+highest_10,c051,supported,4,not supported,0.9712689014823962
+highest_10,c052,supported,0,supported,0.9859245830940542
+highest_10,c052,supported,1,supported,0.9398754579365467
+highest_10,c052,supported,2,supported,0.993297253014302
+highest_10,c052,supported,3,supported,0.9398754579365467
+highest_10,c052,supported,4,supported,0.9525300961815562
+highest_10,c054,supported,0,supported,0.9999885559736865
+highest_10,c054,supported,1,supported,0.9999923706345725
+highest_10,c054,supported,2,supported,0.9999847413273523
+highest_10,c054,supported,3,supported,0.9999847413273523
+highest_10,c054,supported,4,supported,0.9999885559736865
+highest_10,c055,supported,0,supported,0.9999542246805344
+highest_10,c055,supported,1,supported,0.9999504101651634
+highest_10,c055,supported,2,supported,0.9999580392104567
+highest_10,c055,supported,3,supported,0.9999542246805344
+highest_10,c055,supported,4,supported,0.9999694828875315
+highest_10,c057,supported,0,not supported,0.9943625689408316
+highest_10,c057,supported,1,not supported,0.994006072796879
+highest_10,c057,supported,2,not supported,0.9944270552987118
+highest_10,c057,supported,3,not supported,0.9928578113644675
+highest_10,c057,supported,4,not supported,0.9924715664113535
+highest_10,c058,supported,0,not supported,1.0
+highest_10,c058,supported,1,not supported,1.0
+highest_10,c058,supported,2,not supported,1.0
+highest_10,c058,supported,3,not supported,1.0
+highest_10,c058,supported,4,not supported,1.0
+highest_10,c059,supported,0,unclear,0.501940428715949
+highest_10,c059,supported,1,not supported,0.34810333978216224
+highest_10,c059,supported,2,unclear,0.5131834542027838
+highest_10,c059,supported,3,unclear,0.5136730975256816
+highest_10,c059,supported,4,not supported,0.3484846583236646
+highest_10,c063,supported,0,supported,0.9777782414990326
+highest_10,c063,supported,1,supported,0.9922103682670088
+highest_10,c063,supported,2,supported,0.9681837609562822
+highest_10,c063,supported,3,supported,0.9922406485864775
+highest_10,c063,supported,4,supported,0.9718137034527649
+lowest_1,c001,supported,0,supported,1.0
+lowest_1,c001,supported,1,supported,1.0
+lowest_1,c001,supported,2,supported,0.9999961853100103
+lowest_1,c001,supported,3,supported,1.0
+lowest_1,c001,supported,4,supported,1.0
+lowest_1,c005,supported,0,not supported,0.7920645917881631
+lowest_1,c005,supported,1,not supported,0.8618730367242122
+lowest_1,c005,supported,2,not supported,0.8306784165449634
+lowest_1,c005,supported,3,not supported,0.8618730367242122
+lowest_1,c005,supported,4,not supported,0.8618730367242122
+lowest_1,c009,supported,0,supported,1.0
+lowest_1,c009,supported,1,supported,1.0
+lowest_1,c009,supported,2,supported,1.0
+lowest_1,c009,supported,3,supported,1.0
+lowest_1,c009,supported,4,supported,1.0
+lowest_1,c012,supported,0,supported,0.9999961853100103
+lowest_1,c012,supported,1,supported,0.9999961853100103
+lowest_1,c012,supported,2,supported,0.9999961853100103
+lowest_1,c012,supported,3,supported,0.9999961853100103
+lowest_1,c012,supported,4,supported,0.9999961853100103
+lowest_1,c015,supported,0,supported,0.817163778471499
+lowest_1,c015,supported,1,supported,0.8515589990383695
+lowest_1,c015,supported,2,supported,0.817213655712517
+lowest_1,c015,supported,3,supported,0.7306422556740214
+lowest_1,c015,supported,4,supported,0.8172074208909053
+lowest_1,c016,supported,0,supported,0.9986847950844245
+lowest_1,c016,supported,1,supported,0.9987990920291343
+lowest_1,c016,supported,2,supported,0.9986086043877653
+lowest_1,c016,supported,3,supported,0.9986428894819178
+lowest_1,c016,supported,4,supported,0.9986695564800581
+lowest_1,c019,supported,0,supported,0.999450834440385
+lowest_1,c019,supported,1,supported,0.9995080251120866
+lowest_1,c019,supported,2,supported,0.9993783976205598
+lowest_1,c019,supported,3,supported,0.9994546470500222
+lowest_1,c019,supported,4,supported,0.9995118379398894
+lowest_1,c020,supported,0,supported,0.9999885559736865
+lowest_1,c020,supported,1,supported,0.9999885559736865
+lowest_1,c020,supported,2,supported,0.9999885559736865
+lowest_1,c020,supported,3,supported,0.9999885559736865
+lowest_1,c020,supported,4,supported,0.9999885559736865
+lowest_1,c021,supported,0,supported,1.0
+lowest_1,c021,supported,1,supported,1.0
+lowest_1,c021,supported,2,supported,1.0
+lowest_1,c021,supported,3,supported,1.0
+lowest_1,c021,supported,4,supported,1.0
+lowest_1,c026,supported,0,supported,0.9999351522491907
+lowest_1,c026,supported,1,supported,0.9999465956643435
+lowest_1,c026,supported,2,supported,0.9999504101651634
+lowest_1,c026,supported,3,supported,0.9999465956643435
+lowest_1,c026,supported,4,supported,0.9999465956643435
+lowest_1,c027,supported,0,supported,0.9999961853100103
+lowest_1,c027,supported,1,supported,0.9999961853100103
+lowest_1,c027,supported,2,supported,0.9999961853100103
+lowest_1,c027,supported,3,supported,0.9999961853100103
+lowest_1,c027,supported,4,supported,0.9999923706345725
+lowest_1,c028,supported,0,supported,1.0
+lowest_1,c028,supported,1,supported,1.0
+lowest_1,c028,supported,2,supported,1.0
+lowest_1,c028,supported,3,supported,1.0
+lowest_1,c028,supported,4,supported,1.0
+lowest_1,c029,supported,0,supported,1.0
+lowest_1,c029,supported,1,supported,1.0
+lowest_1,c029,supported,2,supported,1.0
+lowest_1,c029,supported,3,supported,1.0
+lowest_1,c029,supported,4,supported,1.0
+lowest_1,c031,supported,0,supported,1.0
+lowest_1,c031,supported,1,supported,1.0
+lowest_1,c031,supported,2,supported,1.0
+lowest_1,c031,supported,3,supported,1.0
+lowest_1,c031,supported,4,supported,1.0
+lowest_1,c032,supported,0,supported,0.9999732974756593
+lowest_1,c032,supported,1,supported,0.9999351522491907
+lowest_1,c032,supported,2,supported,0.9999809266955697
+lowest_1,c032,supported,3,supported,0.9999771120783387
+lowest_1,c032,supported,4,supported,0.9999732974756593
+lowest_1,c033,supported,0,supported,0.9991458727869859
+lowest_1,c033,supported,1,supported,0.9993174022653576
+lowest_1,c033,supported,2,supported,0.9992259162126347
+lowest_1,c033,supported,3,supported,0.9991306271471857
+lowest_1,c033,supported,4,supported,0.999382209953872
+lowest_1,c034,supported,0,supported,1.0
+lowest_1,c034,supported,1,supported,1.0
+lowest_1,c034,supported,2,supported,1.0
+lowest_1,c034,supported,3,supported,1.0
+lowest_1,c034,supported,4,supported,1.0
+lowest_1,c035,unclear,0,supported,1.0
+lowest_1,c035,unclear,1,supported,1.0
+lowest_1,c035,unclear,2,supported,1.0
+lowest_1,c035,unclear,3,supported,1.0
+lowest_1,c035,unclear,4,supported,1.0
+lowest_1,c041,supported,0,supported,1.0
+lowest_1,c041,supported,1,supported,1.0
+lowest_1,c041,supported,2,supported,1.0
+lowest_1,c041,supported,3,supported,1.0
+lowest_1,c041,supported,4,supported,1.0
+lowest_1,c043,supported,0,supported,1.0
+lowest_1,c043,supported,1,supported,1.0
+lowest_1,c043,supported,2,supported,1.0
+lowest_1,c043,supported,3,supported,1.0
+lowest_1,c043,supported,4,supported,1.0
+lowest_1,c044,supported,0,supported,0.9983000915034722
+lowest_1,c044,supported,1,supported,0.9982962832981065
+lowest_1,c044,supported,2,supported,0.9986733661093506
+lowest_1,c044,supported,3,supported,0.9982962832981065
+lowest_1,c044,supported,4,supported,0.9982543939978611
+lowest_1,c047,supported,0,supported,0.9999961853100103
+lowest_1,c047,supported,1,supported,0.9999961853100103
+lowest_1,c047,supported,2,supported,0.9999961853100103
+lowest_1,c047,supported,3,supported,1.0
+lowest_1,c047,supported,4,supported,0.9999961853100103
+lowest_1,c049,supported,0,supported,1.0
+lowest_1,c049,supported,1,supported,1.0
+lowest_1,c049,supported,2,supported,1.0
+lowest_1,c049,supported,3,supported,1.0
+lowest_1,c049,supported,4,supported,1.0
+lowest_1,c050,supported,0,supported,0.9735242147541372
+lowest_1,c050,supported,1,supported,0.9812382623201125
+lowest_1,c050,supported,2,supported,0.9703208596821712
+lowest_1,c050,supported,3,supported,0.9368364278646392
+lowest_1,c050,supported,4,supported,0.9812345192003357
+lowest_1,c051,supported,0,supported,0.9973903434624757
+lowest_1,c051,supported,1,supported,0.9981858516615731
+lowest_1,c051,supported,2,supported,0.9981858516615731
+lowest_1,c051,supported,3,supported,0.9981858516615731
+lowest_1,c051,supported,4,supported,0.99707459984654
+lowest_1,c052,supported,0,supported,1.0
+lowest_1,c052,supported,1,supported,1.0
+lowest_1,c052,supported,2,supported,1.0
+lowest_1,c052,supported,3,supported,1.0
+lowest_1,c052,supported,4,supported,1.0
+lowest_1,c054,supported,0,supported,0.9999961853100103
+lowest_1,c054,supported,1,supported,0.9999961853100103
+lowest_1,c054,supported,2,supported,0.9999961853100103
+lowest_1,c054,supported,3,supported,0.9999961853100103
+lowest_1,c054,supported,4,supported,0.9999961853100103
+lowest_1,c055,supported,0,supported,0.9999771120783387
+lowest_1,c055,supported,1,supported,0.9999809266955697
+lowest_1,c055,supported,2,supported,0.9999732974756593
+lowest_1,c055,supported,3,supported,0.9999694828875315
+lowest_1,c055,supported,4,supported,0.9999732974756593
+lowest_1,c057,supported,0,supported,0.9994203340868637
+lowest_1,c057,supported,1,supported,0.9994241465801511
+lowest_1,c057,supported,2,supported,0.9994241465801511
+lowest_1,c057,supported,3,supported,0.9994203340868637
+lowest_1,c057,supported,4,supported,0.9994241465801511
+lowest_1,c058,supported,0,supported,0.996804585233817
+lowest_1,c058,supported,1,supported,0.9959075972361896
+lowest_1,c058,supported,2,supported,0.9913893669891403
+lowest_1,c058,supported,3,supported,0.9913893669891403
+lowest_1,c058,supported,4,supported,0.9913855851460461
+lowest_1,c059,supported,0,supported,0.9957404514805405
+lowest_1,c059,supported,1,supported,0.9957404514805405
+lowest_1,c059,supported,2,supported,0.9952467756111375
+lowest_1,c059,supported,3,supported,0.9952429790532253
+lowest_1,c059,supported,4,supported,0.9963483887297981
+lowest_1,c063,supported,0,supported,0.9999923706345725
+lowest_1,c063,supported,1,supported,0.9999923706345725
+lowest_1,c063,supported,2,supported,0.9999847413273523
+lowest_1,c063,supported,3,supported,0.9999847413273523
+lowest_1,c063,supported,4,supported,0.9999923706345725
+lowest_3,c001,supported,0,supported,0.9999923706345725
+lowest_3,c001,supported,1,supported,0.9999923706345725
+lowest_3,c001,supported,2,supported,0.9999923706345725
+lowest_3,c001,supported,3,supported,0.9999923706345725
+lowest_3,c001,supported,4,supported,0.9999923706345725
+lowest_3,c005,supported,0,supported,0.9893115298202053
+lowest_3,c005,supported,1,supported,0.989258696295198
+lowest_3,c005,supported,2,supported,0.990550151621183
+lowest_3,c005,supported,3,supported,0.9893454957191542
+lowest_3,c005,supported,4,supported,0.9915746949744333
+lowest_3,c009,supported,0,supported,1.0
+lowest_3,c009,supported,1,supported,1.0
+lowest_3,c009,supported,2,supported,1.0
+lowest_3,c009,supported,3,supported,1.0
+lowest_3,c009,supported,4,supported,1.0
+lowest_3,c012,supported,0,supported,0.9999961853100103
+lowest_3,c012,supported,1,supported,0.9999923706345725
+lowest_3,c012,supported,2,supported,0.9999961853100103
+lowest_3,c012,supported,3,supported,0.9999961853100103
+lowest_3,c012,supported,4,supported,0.9999961853100103
+lowest_3,c015,supported,0,supported,0.9769654552034795
+lowest_3,c015,supported,1,supported,0.9706318338506849
+lowest_3,c015,supported,2,supported,0.976917007647915
+lowest_3,c015,supported,3,supported,0.9706355365243496
+lowest_3,c015,supported,4,supported,0.9705688905593957
+lowest_3,c016,supported,0,supported,0.997675739953022
+lowest_3,c016,supported,1,supported,0.997371319932819
+lowest_3,c016,supported,2,supported,0.9979497974134008
+lowest_3,c016,supported,3,supported,0.9979497974134008
+lowest_3,c016,supported,4,supported,0.9979497974134008
+lowest_3,c019,supported,0,supported,0.9990239141819757
+lowest_3,c019,supported,1,supported,0.9983876842364978
+lowest_3,c019,supported,2,supported,0.9984029185398025
+lowest_3,c019,supported,3,supported,0.9987495617471256
+lowest_3,c019,supported,4,supported,0.9983876842364978
+lowest_3,c020,supported,0,supported,0.9999847413273523
+lowest_3,c020,supported,1,supported,0.9999885559736865
+lowest_3,c020,supported,2,supported,0.9999847413273523
+lowest_3,c020,supported,3,supported,0.9999847413273523
+lowest_3,c020,supported,4,supported,0.9999847413273523
+lowest_3,c021,supported,0,supported,1.0
+lowest_3,c021,supported,1,supported,1.0
+lowest_3,c021,supported,2,supported,1.0
+lowest_3,c021,supported,3,supported,1.0
+lowest_3,c021,supported,4,supported,1.0
+lowest_3,c026,supported,0,supported,0.996720933574065
+lowest_3,c026,supported,1,supported,0.9973979529759356
+lowest_3,c026,supported,2,supported,0.9957974298363518
+lowest_3,c026,supported,3,supported,0.9974398063377314
+lowest_3,c026,supported,4,supported,0.996720933574065
+lowest_3,c027,supported,0,supported,0.9999961853100103
+lowest_3,c027,supported,1,supported,0.9999961853100103
+lowest_3,c027,supported,2,supported,0.9999961853100103
+lowest_3,c027,supported,3,supported,0.9999961853100103
+lowest_3,c027,supported,4,supported,1.0
+lowest_3,c028,supported,0,supported,1.0
+lowest_3,c028,supported,1,supported,1.0
+lowest_3,c028,supported,2,supported,1.0
+lowest_3,c028,supported,3,supported,1.0
+lowest_3,c028,supported,4,supported,1.0
+lowest_3,c029,supported,0,supported,1.0
+lowest_3,c029,supported,1,supported,1.0
+lowest_3,c029,supported,2,supported,1.0
+lowest_3,c029,supported,3,supported,1.0
+lowest_3,c029,supported,4,supported,1.0
+lowest_3,c031,supported,0,supported,1.0
+lowest_3,c031,supported,1,supported,0.9999961853100103
+lowest_3,c031,supported,2,supported,0.9999961853100103
+lowest_3,c031,supported,3,supported,1.0
+lowest_3,c031,supported,4,supported,1.0
+lowest_3,c032,supported,0,supported,0.9999847413273523
+lowest_3,c032,supported,1,supported,0.9999885559736865
+lowest_3,c032,supported,2,supported,0.9999885559736865
+lowest_3,c032,supported,3,supported,0.9999885559736865
+lowest_3,c032,supported,4,supported,0.9999885559736865
+lowest_3,c033,supported,0,supported,0.9986352704703825
+lowest_3,c033,supported,1,supported,0.9986352704703825
+lowest_3,c033,supported,2,supported,0.9986352704703825
+lowest_3,c033,supported,3,supported,0.9986352704703825
+lowest_3,c033,supported,4,supported,0.9986352704703825
+lowest_3,c034,supported,0,supported,1.0
+lowest_3,c034,supported,1,supported,1.0
+lowest_3,c034,supported,2,supported,1.0
+lowest_3,c034,supported,3,supported,1.0
+lowest_3,c034,supported,4,supported,1.0
+lowest_3,c035,unclear,0,supported,1.0
+lowest_3,c035,unclear,1,supported,0.9999961853100103
+lowest_3,c035,unclear,2,supported,0.9999961853100103
+lowest_3,c035,unclear,3,supported,1.0
+lowest_3,c035,unclear,4,supported,1.0
+lowest_3,c041,supported,0,supported,0.9999961853100103
+lowest_3,c041,supported,1,supported,1.0
+lowest_3,c041,supported,2,supported,1.0
+lowest_3,c041,supported,3,supported,1.0
+lowest_3,c041,supported,4,supported,1.0
+lowest_3,c043,supported,0,supported,1.0
+lowest_3,c043,supported,1,supported,1.0
+lowest_3,c043,supported,2,supported,1.0
+lowest_3,c043,supported,3,supported,1.0
+lowest_3,c043,supported,4,supported,1.0
+lowest_3,c044,supported,0,supported,0.9996224162733874
+lowest_3,c044,supported,1,supported,0.9995614060249232
+lowest_3,c044,supported,2,supported,0.9996109765681521
+lowest_3,c044,supported,3,supported,0.9996224162733874
+lowest_3,c044,supported,4,supported,0.9996224162733874
+lowest_3,c047,supported,0,supported,1.0
+lowest_3,c047,supported,1,supported,1.0
+lowest_3,c047,supported,2,supported,1.0
+lowest_3,c047,supported,3,supported,1.0
+lowest_3,c047,supported,4,supported,1.0
+lowest_3,c049,supported,0,supported,1.0
+lowest_3,c049,supported,1,supported,1.0
+lowest_3,c049,supported,2,supported,1.0
+lowest_3,c049,supported,3,supported,1.0
+lowest_3,c049,supported,4,supported,1.0
+lowest_3,c050,supported,0,supported,0.8668287704020677
+lowest_3,c050,supported,1,supported,0.8517344328552736
+lowest_3,c050,supported,2,supported,0.8352763291354195
+lowest_3,c050,supported,3,supported,0.8177952619103988
+lowest_3,c050,supported,4,not supported,0.14514926158467378
+lowest_3,c051,supported,0,supported,0.9990239141819757
+lowest_3,c051,supported,1,supported,0.9987533716816147
+lowest_3,c051,supported,2,supported,0.9990239141819757
+lowest_3,c051,supported,3,supported,0.9992373515111788
+lowest_3,c051,supported,4,supported,0.9987609915941943
+lowest_3,c052,supported,0,supported,1.0
+lowest_3,c052,supported,1,supported,1.0
+lowest_3,c052,supported,2,supported,1.0
+lowest_3,c052,supported,3,supported,0.9999961853100103
+lowest_3,c052,supported,4,supported,0.9999961853100103
+lowest_3,c054,supported,0,supported,1.0
+lowest_3,c054,supported,1,supported,0.9999961853100103
+lowest_3,c054,supported,2,supported,1.0
+lowest_3,c054,supported,3,supported,1.0
+lowest_3,c054,supported,4,supported,0.9999961853100103
+lowest_3,c055,supported,0,supported,0.9999313378065751
+lowest_3,c055,supported,1,supported,0.9999504101651634
+lowest_3,c055,supported,2,supported,0.9999351522491907
+lowest_3,c055,supported,3,supported,0.9999313378065751
+lowest_3,c055,supported,4,supported,0.9999351522491907
+lowest_3,c057,supported,0,supported,0.9477566274943068
+lowest_3,c057,supported,1,supported,0.9673974016176252
+lowest_3,c057,supported,2,supported,0.9588224059440461
+lowest_3,c057,supported,3,supported,0.9412316941660426
+lowest_3,c057,supported,4,supported,0.958701712173038
+lowest_3,c058,supported,0,supported,1.0
+lowest_3,c058,supported,1,supported,1.0
+lowest_3,c058,supported,2,supported,1.0
+lowest_3,c058,supported,3,supported,1.0
+lowest_3,c058,supported,4,supported,1.0
+lowest_3,c059,supported,0,supported,0.9992564106329028
+lowest_3,c059,supported,1,supported,0.9990620246468077
+lowest_3,c059,supported,2,supported,0.9992983419803216
+lowest_3,c059,supported,3,supported,0.9991077591236621
+lowest_3,c059,supported,4,supported,0.9992602225008707
+lowest_3,c063,supported,0,supported,0.9999923706345725
+lowest_3,c063,supported,1,supported,0.9999885559736865
+lowest_3,c063,supported,2,supported,0.9999885559736865
+lowest_3,c063,supported,3,supported,0.9999923706345725
+lowest_3,c063,supported,4,supported,0.9999885559736865
+lowest_5,c001,supported,0,supported,1.0
+lowest_5,c001,supported,1,supported,1.0
+lowest_5,c001,supported,2,supported,1.0
+lowest_5,c001,supported,3,supported,1.0
+lowest_5,c001,supported,4,supported,1.0
+lowest_5,c005,supported,0,supported,0.9959455888206968
+lowest_5,c005,supported,1,supported,0.9959949800472555
+lowest_5,c005,supported,2,supported,0.9948482160954982
+lowest_5,c005,supported,3,supported,0.995573333777397
+lowest_5,c005,supported,4,supported,0.9959949800472555
+lowest_5,c009,supported,0,supported,1.0
+lowest_5,c009,supported,1,supported,1.0
+lowest_5,c009,supported,2,supported,1.0
+lowest_5,c009,supported,3,supported,1.0
+lowest_5,c009,supported,4,supported,1.0
+lowest_5,c012,supported,0,supported,1.0
+lowest_5,c012,supported,1,supported,1.0
+lowest_5,c012,supported,2,supported,1.0
+lowest_5,c012,supported,3,supported,1.0
+lowest_5,c012,supported,4,supported,1.0
+lowest_5,c015,supported,0,supported,0.9818223638991163
+lowest_5,c015,supported,1,supported,0.9818448362868127
+lowest_5,c015,supported,2,supported,0.98578543577316
+lowest_5,c015,supported,3,supported,0.9857628731933312
+lowest_5,c015,supported,4,supported,0.9818223638991163
+lowest_5,c016,supported,0,supported,0.9926836038585435
+lowest_5,c016,supported,1,supported,0.9909394289347427
+lowest_5,c016,supported,2,supported,0.9919946477365625
+lowest_5,c016,supported,3,supported,0.9909394289347427
+lowest_5,c016,supported,4,supported,0.9929297755599765
+lowest_5,c019,supported,0,supported,0.9994927739463226
+lowest_5,c019,supported,1,supported,0.9995232765105667
+lowest_5,c019,supported,2,supported,0.9996033501707265
+lowest_5,c019,supported,3,supported,0.9996033501707265
+lowest_5,c019,supported,4,supported,0.999641482739709
+lowest_5,c020,supported,0,supported,0.9999961853100103
+lowest_5,c020,supported,1,supported,0.9999961853100103
+lowest_5,c020,supported,2,supported,0.9999961853100103
+lowest_5,c020,supported,3,supported,0.9999961853100103
+lowest_5,c020,supported,4,supported,0.9999961853100103
+lowest_5,c021,supported,0,supported,1.0
+lowest_5,c021,supported,1,supported,1.0
+lowest_5,c021,supported,2,supported,1.0
+lowest_5,c021,supported,3,supported,1.0
+lowest_5,c021,supported,4,supported,1.0
+lowest_5,c026,supported,0,supported,0.9998626803276469
+lowest_5,c026,supported,1,supported,0.9998626803276469
+lowest_5,c026,supported,2,supported,0.9998626803276469
+lowest_5,c026,supported,3,supported,0.9998474237503151
+lowest_5,c026,supported,4,supported,0.9998474237503151
+lowest_5,c027,supported,0,supported,0.9999961853100103
+lowest_5,c027,supported,1,supported,0.9999961853100103
+lowest_5,c027,supported,2,supported,0.9999923706345725
+lowest_5,c027,supported,3,supported,0.9999961853100103
+lowest_5,c027,supported,4,supported,0.9999961853100103
+lowest_5,c028,supported,0,supported,1.0
+lowest_5,c028,supported,1,supported,1.0
+lowest_5,c028,supported,2,supported,1.0
+lowest_5,c028,supported,3,supported,1.0
+lowest_5,c028,supported,4,supported,1.0
+lowest_5,c029,supported,0,supported,1.0
+lowest_5,c029,supported,1,supported,1.0
+lowest_5,c029,supported,2,supported,1.0
+lowest_5,c029,supported,3,supported,1.0
+lowest_5,c029,supported,4,supported,1.0
+lowest_5,c031,supported,0,supported,1.0
+lowest_5,c031,supported,1,supported,1.0
+lowest_5,c031,supported,2,supported,1.0
+lowest_5,c031,supported,3,supported,1.0
+lowest_5,c031,supported,4,supported,1.0
+lowest_5,c032,supported,0,supported,0.9998321674057784
+lowest_5,c032,supported,1,supported,0.9998970084778191
+lowest_5,c032,supported,2,supported,0.9998664945083545
+lowest_5,c032,supported,3,supported,0.9998664945083545
+lowest_5,c032,supported,4,supported,0.9998664945083545
+lowest_5,c033,supported,0,supported,0.9997406342270566
+lowest_5,c033,supported,1,supported,0.9997406342270566
+lowest_5,c033,supported,2,supported,0.9997406342270566
+lowest_5,c033,supported,3,supported,0.9996681764035219
+lowest_5,c033,supported,4,supported,0.9996681764035219
+lowest_5,c034,supported,0,supported,1.0
+lowest_5,c034,supported,1,supported,1.0
+lowest_5,c034,supported,2,supported,1.0
+lowest_5,c034,supported,3,supported,1.0
+lowest_5,c034,supported,4,supported,1.0
+lowest_5,c035,unclear,0,supported,0.9999961853100103
+lowest_5,c035,unclear,1,supported,0.9999961853100103
+lowest_5,c035,unclear,2,supported,0.9999961853100103
+lowest_5,c035,unclear,3,supported,1.0
+lowest_5,c035,unclear,4,supported,1.0
+lowest_5,c041,supported,0,supported,1.0
+lowest_5,c041,supported,1,supported,1.0
+lowest_5,c041,supported,2,supported,1.0
+lowest_5,c041,supported,3,supported,1.0
+lowest_5,c041,supported,4,supported,1.0
+lowest_5,c043,supported,0,supported,1.0
+lowest_5,c043,supported,1,supported,1.0
+lowest_5,c043,supported,2,supported,1.0
+lowest_5,c043,supported,3,supported,1.0
+lowest_5,c043,supported,4,supported,1.0
+lowest_5,c044,supported,0,supported,0.9999198945660335
+lowest_5,c044,supported,1,supported,0.9999198945660335
+lowest_5,c044,supported,2,supported,0.9999198945660335
+lowest_5,c044,supported,3,supported,0.9999198945660335
+lowest_5,c044,supported,4,supported,0.9999198945660335
+lowest_5,c047,supported,0,supported,0.9999961853100103
+lowest_5,c047,supported,1,supported,0.9999961853100103
+lowest_5,c047,supported,2,supported,0.9999961853100103
+lowest_5,c047,supported,3,supported,0.9999961853100103
+lowest_5,c047,supported,4,supported,0.9999961853100103
+lowest_5,c049,supported,0,supported,1.0
+lowest_5,c049,supported,1,supported,1.0
+lowest_5,c049,supported,2,supported,1.0
+lowest_5,c049,supported,3,supported,1.0
+lowest_5,c049,supported,4,supported,1.0
+lowest_5,c050,supported,0,supported,0.9996681764035219
+lowest_5,c050,supported,1,supported,0.9992754701181541
+lowest_5,c050,supported,2,supported,0.999054402437537
+lowest_5,c050,supported,3,supported,0.9992678462804299
+lowest_5,c050,supported,4,supported,0.999054402437537
+lowest_5,c051,supported,0,supported,0.9976643225256016
+lowest_5,c051,supported,1,supported,0.9976490994922919
+lowest_5,c051,supported,2,supported,0.9973599059891893
+lowest_5,c051,supported,3,supported,0.9976490994922919
+lowest_5,c051,supported,4,supported,0.9976643225256016
+lowest_5,c052,supported,0,supported,0.9999961853100103
+lowest_5,c052,supported,1,supported,0.9999961853100103
+lowest_5,c052,supported,2,supported,0.9999961853100103
+lowest_5,c052,supported,3,supported,0.9999961853100103
+lowest_5,c052,supported,4,supported,0.9999961853100103
+lowest_5,c054,supported,0,supported,0.9999961853100103
+lowest_5,c054,supported,1,supported,0.9999961853100103
+lowest_5,c054,supported,2,supported,0.9999923706345725
+lowest_5,c054,supported,3,supported,0.9999923706345725
+lowest_5,c054,supported,4,supported,0.9999961853100103
+lowest_5,c055,supported,0,supported,0.9997101250296826
+lowest_5,c055,supported,1,supported,0.9998054693629916
+lowest_5,c055,supported,2,supported,0.9998054693629916
+lowest_5,c055,supported,3,supported,0.9996834302457355
+lowest_5,c055,supported,4,supported,0.9997482616718805
+lowest_5,c057,supported,0,supported,0.9909432090758827
+lowest_5,c057,supported,1,supported,0.9882290063270417
+lowest_5,c057,supported,2,supported,0.9929297755599765
+lowest_5,c057,supported,3,supported,0.9927896395693802
+lowest_5,c057,supported,4,supported,0.9937103538787714
+lowest_5,c058,supported,0,supported,0.9999961853100103
+lowest_5,c058,supported,1,supported,0.9999961853100103
+lowest_5,c058,supported,2,supported,0.9999961853100103
+lowest_5,c058,supported,3,supported,0.9999961853100103
+lowest_5,c058,supported,4,supported,0.9999961853100103
+lowest_5,c059,supported,0,supported,0.9991268157735839
+lowest_5,c059,supported,1,supported,0.9990848916235402
+lowest_5,c059,supported,2,supported,0.9991077591236621
+lowest_5,c059,supported,3,supported,0.9990010486008901
+lowest_5,c059,supported,4,supported,0.9992221044755347
+lowest_5,c063,supported,0,supported,0.9999885559736865
+lowest_5,c063,supported,1,supported,0.9999885559736865
+lowest_5,c063,supported,2,supported,0.9999885559736865
+lowest_5,c063,supported,3,supported,0.9999923706345725
+lowest_5,c063,supported,4,supported,0.9999885559736865
+lowest_7,c001,supported,0,supported,0.9999961853100103
+lowest_7,c001,supported,1,supported,0.9999961853100103
+lowest_7,c001,supported,2,supported,0.9999961853100103
+lowest_7,c001,supported,3,supported,0.9999923706345725
+lowest_7,c001,supported,4,supported,0.9999961853100103
+lowest_7,c005,supported,0,supported,0.9968197953807635
+lowest_7,c005,supported,1,supported,0.9971849085426847
+lowest_7,c005,supported,2,supported,0.9971849085426847
+lowest_7,c005,supported,3,supported,0.9968197953807635
+lowest_7,c005,supported,4,supported,0.9968083877487953
+lowest_7,c009,supported,0,supported,1.0
+lowest_7,c009,supported,1,supported,1.0
+lowest_7,c009,supported,2,supported,1.0
+lowest_7,c009,supported,3,supported,1.0
+lowest_7,c009,supported,4,supported,1.0
+lowest_7,c012,supported,0,supported,1.0
+lowest_7,c012,supported,1,supported,1.0
+lowest_7,c012,supported,2,supported,1.0
+lowest_7,c012,supported,3,supported,1.0
+lowest_7,c012,supported,4,supported,1.0
+lowest_7,c015,supported,0,supported,0.9521486431157747
+lowest_7,c015,supported,1,supported,0.9236888232820847
+lowest_7,c015,supported,2,supported,0.9236888232820847
+lowest_7,c015,supported,3,supported,0.9394453155551057
+lowest_7,c015,supported,4,supported,0.9395026564966178
+lowest_7,c016,supported,0,supported,0.9979954809753677
+lowest_7,c016,supported,1,supported,0.9979954809753677
+lowest_7,c016,supported,2,supported,0.9979954809753677
+lowest_7,c016,supported,3,supported,0.9984029185398025
+lowest_7,c016,supported,4,supported,0.9984371965721706
+lowest_7,c019,supported,0,supported,0.9999427811780749
+lowest_7,c019,supported,1,supported,0.9999351522491907
+lowest_7,c019,supported,2,supported,0.9999465956643435
+lowest_7,c019,supported,3,supported,0.9999351522491907
+lowest_7,c019,supported,4,supported,0.9999351522491907
+lowest_7,c020,supported,0,supported,0.9999923706345725
+lowest_7,c020,supported,1,supported,0.9999923706345725
+lowest_7,c020,supported,2,supported,0.9999923706345725
+lowest_7,c020,supported,3,supported,0.9999923706345725
+lowest_7,c020,supported,4,supported,0.9999923706345725
+lowest_7,c021,supported,0,supported,1.0
+lowest_7,c021,supported,1,supported,1.0
+lowest_7,c021,supported,2,supported,1.0
+lowest_7,c021,supported,3,supported,1.0
+lowest_7,c021,supported,4,supported,1.0
+lowest_7,c026,supported,0,supported,0.9997101250296826
+lowest_7,c026,supported,1,supported,0.9997101250296826
+lowest_7,c026,supported,2,supported,0.9998436096423565
+lowest_7,c026,supported,3,supported,0.9998245393208071
+lowest_7,c026,supported,4,supported,0.9997444479421944
+lowest_7,c027,supported,0,supported,0.9999961853100103
+lowest_7,c027,supported,1,supported,1.0
+lowest_7,c027,supported,2,supported,1.0
+lowest_7,c027,supported,3,supported,1.0
+lowest_7,c027,supported,4,supported,1.0
+lowest_7,c028,supported,0,supported,1.0
+lowest_7,c028,supported,1,supported,0.9999961853100103
+lowest_7,c028,supported,2,supported,1.0
+lowest_7,c028,supported,3,supported,1.0
+lowest_7,c028,supported,4,supported,1.0
+lowest_7,c029,supported,0,supported,1.0
+lowest_7,c029,supported,1,supported,1.0
+lowest_7,c029,supported,2,supported,1.0
+lowest_7,c029,supported,3,supported,1.0
+lowest_7,c029,supported,4,supported,1.0
+lowest_7,c031,supported,0,supported,1.0
+lowest_7,c031,supported,1,supported,1.0
+lowest_7,c031,supported,2,supported,1.0
+lowest_7,c031,supported,3,supported,1.0
+lowest_7,c031,supported,4,supported,1.0
+lowest_7,c032,supported,0,supported,0.9999923706345725
+lowest_7,c032,supported,1,supported,0.9999923706345725
+lowest_7,c032,supported,2,supported,0.9999923706345725
+lowest_7,c032,supported,3,supported,0.9999847413273523
+lowest_7,c032,supported,4,supported,0.9999923706345725
+lowest_7,c033,supported,0,supported,0.9994203340868637
+lowest_7,c033,supported,1,supported,0.9995423410859292
+lowest_7,c033,supported,2,supported,0.9995423410859292
+lowest_7,c033,supported,3,supported,0.9995423410859292
+lowest_7,c033,supported,4,supported,0.9995423410859292
+lowest_7,c034,supported,0,supported,1.0
+lowest_7,c034,supported,1,supported,1.0
+lowest_7,c034,supported,2,supported,1.0
+lowest_7,c034,supported,3,supported,1.0
+lowest_7,c034,supported,4,supported,1.0
+lowest_7,c035,unclear,0,supported,0.9999961853100103
+lowest_7,c035,unclear,1,supported,0.9999961853100103
+lowest_7,c035,unclear,2,supported,0.9999961853100103
+lowest_7,c035,unclear,3,supported,0.9999961853100103
+lowest_7,c035,unclear,4,supported,0.9999961853100103
+lowest_7,c041,supported,0,supported,1.0
+lowest_7,c041,supported,1,supported,1.0
+lowest_7,c041,supported,2,supported,1.0
+lowest_7,c041,supported,3,supported,1.0
+lowest_7,c041,supported,4,supported,1.0
+lowest_7,c043,supported,0,supported,0.9999923706345725
+lowest_7,c043,supported,1,supported,0.9999923706345725
+lowest_7,c043,supported,2,supported,0.9999923706345725
+lowest_7,c043,supported,3,supported,0.9999923706345725
+lowest_7,c043,supported,4,supported,0.9999923706345725
+lowest_7,c044,supported,0,supported,0.9979155361142675
+lowest_7,c044,supported,1,supported,0.9979155361142675
+lowest_7,c044,supported,2,supported,0.9981591975795726
+lowest_7,c044,supported,3,supported,0.9978508235362529
+lowest_7,c044,supported,4,supported,0.9981591975795726
+lowest_7,c047,supported,0,supported,1.0
+lowest_7,c047,supported,1,supported,0.9999961853100103
+lowest_7,c047,supported,2,supported,1.0
+lowest_7,c047,supported,3,supported,1.0
+lowest_7,c047,supported,4,supported,1.0
+lowest_7,c049,supported,0,supported,0.9999961853100103
+lowest_7,c049,supported,1,supported,0.9999961853100103
+lowest_7,c049,supported,2,supported,0.9999961853100103
+lowest_7,c049,supported,3,supported,0.9999961853100103
+lowest_7,c049,supported,4,supported,0.9999961853100103
+lowest_7,c050,supported,0,supported,0.9995232765105667
+lowest_7,c050,supported,1,supported,0.9996452960766131
+lowest_7,c050,supported,2,supported,0.9996491094280641
+lowest_7,c050,supported,3,supported,0.9996452960766131
+lowest_7,c050,supported,4,supported,0.9996452960766131
+lowest_7,c051,supported,0,supported,0.9945977746688456
+lowest_7,c051,supported,1,supported,0.9887003430045627
+lowest_7,c051,supported,2,supported,0.9911549199958464
+lowest_7,c051,supported,3,supported,0.995744249936163
+lowest_7,c051,supported,4,supported,0.99215737993146
+lowest_7,c052,supported,0,supported,1.0
+lowest_7,c052,supported,1,supported,0.9999961853100103
+lowest_7,c052,supported,2,supported,1.0
+lowest_7,c052,supported,3,supported,0.9999961853100103
+lowest_7,c052,supported,4,supported,0.9999961853100103
+lowest_7,c054,supported,0,supported,0.9999961853100103
+lowest_7,c054,supported,1,supported,0.9999961853100103
+lowest_7,c054,supported,2,supported,0.9999961853100103
+lowest_7,c054,supported,3,supported,0.9999961853100103
+lowest_7,c054,supported,4,supported,0.9999961853100103
+lowest_7,c055,supported,0,supported,0.9998321674057784
+lowest_7,c055,supported,1,supported,0.9998245393208071
+lowest_7,c055,supported,2,supported,0.9998321674057784
+lowest_7,c055,supported,3,supported,0.9998245393208071
+lowest_7,c055,supported,4,supported,0.9998588661614892
+lowest_7,c057,supported,0,supported,0.9978241784003491
+lowest_7,c057,supported,1,supported,0.9984867113632736
+lowest_7,c057,supported,2,supported,0.9977899214139283
+lowest_7,c057,supported,3,supported,0.9977899214139283
+lowest_7,c057,supported,4,supported,0.9977899214139283
+lowest_7,c058,supported,0,supported,1.0
+lowest_7,c058,supported,1,supported,1.0
+lowest_7,c058,supported,2,supported,1.0
+lowest_7,c058,supported,3,supported,1.0
+lowest_7,c058,supported,4,supported,1.0
+lowest_7,c059,supported,0,supported,0.9981553899116735
+lowest_7,c059,supported,1,supported,0.9984714757814018
+lowest_7,c059,supported,2,supported,0.9990696469142315
+lowest_7,c059,supported,3,supported,0.9987800416299872
+lowest_7,c059,supported,4,supported,0.9984714757814018
+lowest_7,c063,supported,0,supported,0.9999885559736865
+lowest_7,c063,supported,1,supported,0.9999885559736865
+lowest_7,c063,supported,2,supported,0.9999885559736865
+lowest_7,c063,supported,3,supported,0.9999885559736865
+lowest_7,c063,supported,4,supported,0.9999809266955697
+lowest_10,c001,supported,0,supported,0.9999961853100103
+lowest_10,c001,supported,1,supported,0.9999961853100103
+lowest_10,c001,supported,2,supported,0.9999961853100103
+lowest_10,c001,supported,3,supported,0.9999961853100103
+lowest_10,c001,supported,4,supported,0.9999961853100103
+lowest_10,c005,supported,0,supported,0.6400817587164999
+lowest_10,c005,supported,1,supported,0.6093111769488843
+lowest_10,c005,supported,2,supported,0.6400829795767314
+lowest_10,c005,supported,3,supported,0.5215632732215667
+lowest_10,c005,supported,4,supported,0.6096448107147948
+lowest_10,c009,supported,0,supported,0.9999923706345725
+lowest_10,c009,supported,1,supported,0.9999923706345725
+lowest_10,c009,supported,2,supported,0.9999923706345725
+lowest_10,c009,supported,3,supported,1.0
+lowest_10,c009,supported,4,supported,0.9999961853100103
+lowest_10,c012,supported,0,supported,1.0
+lowest_10,c012,supported,1,supported,0.9999961853100103
+lowest_10,c012,supported,2,supported,1.0
+lowest_10,c012,supported,3,supported,1.0
+lowest_10,c012,supported,4,supported,1.0
+lowest_10,c015,supported,0,supported,0.9987800416299872
+lowest_10,c015,supported,1,supported,0.9984486228444831
+lowest_10,c015,supported,2,supported,0.9984486228444831
+lowest_10,c015,supported,3,supported,0.9984486228444831
+lowest_10,c015,supported,4,supported,0.9987914718258726
+lowest_10,c016,supported,0,supported,0.9958506125767295
+lowest_10,c016,supported,1,supported,0.9964662194884323
+lowest_10,c016,supported,2,supported,0.9964662194884323
+lowest_10,c016,supported,3,supported,0.9960975696521946
+lowest_10,c016,supported,4,supported,0.9953037257177808
+lowest_10,c019,supported,0,supported,0.9995957238314855
+lowest_10,c019,supported,1,supported,0.9996033501707265
+lowest_10,c019,supported,2,supported,0.9996033501707265
+lowest_10,c019,supported,3,supported,0.9997253795119863
+lowest_10,c019,supported,4,supported,0.9996033501707265
+lowest_10,c020,supported,0,supported,0.9999771120783387
+lowest_10,c020,supported,1,supported,0.9999847413273523
+lowest_10,c020,supported,2,supported,0.9999847413273523
+lowest_10,c020,supported,3,supported,0.9999847413273523
+lowest_10,c020,supported,4,supported,0.9999847413273523
+lowest_10,c021,supported,0,supported,1.0
+lowest_10,c021,supported,1,supported,1.0
+lowest_10,c021,supported,2,supported,1.0
+lowest_10,c021,supported,3,supported,1.0
+lowest_10,c021,supported,4,supported,1.0
+lowest_10,c026,supported,0,supported,0.9997330068404254
+lowest_10,c026,supported,1,supported,0.9996262295375588
+lowest_10,c026,supported,2,supported,0.9996262295375588
+lowest_10,c026,supported,3,supported,0.9997902136586232
+lowest_10,c026,supported,4,supported,0.9998512378728234
+lowest_10,c027,supported,0,supported,0.9999961853100103
+lowest_10,c027,supported,1,supported,0.9999961853100103
+lowest_10,c027,supported,2,supported,0.9999961853100103
+lowest_10,c027,supported,3,supported,0.9999961853100103
+lowest_10,c027,supported,4,supported,0.9999961853100103
+lowest_10,c028,supported,0,supported,0.9974626361844086
+lowest_10,c028,supported,1,supported,0.9974626361844086
+lowest_10,c028,supported,2,supported,0.9974588311736752
+lowest_10,c028,supported,3,supported,0.9974626361844086
+lowest_10,c028,supported,4,supported,0.9980221306856049
+lowest_10,c029,supported,0,supported,1.0
+lowest_10,c029,supported,1,supported,1.0
+lowest_10,c029,supported,2,supported,1.0
+lowest_10,c029,supported,3,supported,1.0
+lowest_10,c029,supported,4,supported,1.0
+lowest_10,c031,supported,0,supported,1.0
+lowest_10,c031,supported,1,supported,1.0
+lowest_10,c031,supported,2,supported,1.0
+lowest_10,c031,supported,3,supported,1.0
+lowest_10,c031,supported,4,supported,1.0
+lowest_10,c032,supported,0,supported,0.9999961853100103
+lowest_10,c032,supported,1,supported,0.9999923706345725
+lowest_10,c032,supported,2,supported,0.9999961853100103
+lowest_10,c032,supported,3,supported,0.9999923706345725
+lowest_10,c032,supported,4,supported,0.9999923706345725
+lowest_10,c033,supported,0,supported,0.9989400762765415
+lowest_10,c033,supported,1,supported,0.9991611186594179
+lowest_10,c033,supported,2,supported,0.9989400762765415
+lowest_10,c033,supported,3,supported,0.9989400762765415
+lowest_10,c033,supported,4,supported,0.9989400762765415
+lowest_10,c034,supported,0,supported,1.0
+lowest_10,c034,supported,1,supported,1.0
+lowest_10,c034,supported,2,supported,1.0
+lowest_10,c034,supported,3,supported,1.0
+lowest_10,c034,supported,4,supported,1.0
+lowest_10,c035,unclear,0,supported,0.9999961853100103
+lowest_10,c035,unclear,1,supported,0.9999961853100103
+lowest_10,c035,unclear,2,supported,1.0
+lowest_10,c035,unclear,3,supported,0.9999961853100103
+lowest_10,c035,unclear,4,supported,0.9999961853100103
+lowest_10,c041,supported,0,supported,1.0
+lowest_10,c041,supported,1,supported,1.0
+lowest_10,c041,supported,2,supported,1.0
+lowest_10,c041,supported,3,supported,1.0
+lowest_10,c041,supported,4,supported,1.0
+lowest_10,c043,supported,0,supported,0.9999885559736865
+lowest_10,c043,supported,1,supported,0.9999885559736865
+lowest_10,c043,supported,2,supported,0.9999923706345725
+lowest_10,c043,supported,3,supported,0.9999885559736865
+lowest_10,c043,supported,4,supported,0.9999885559736865
+lowest_10,c044,supported,0,supported,0.9998817513766852
+lowest_10,c044,supported,1,supported,0.9998664945083545
+lowest_10,c044,supported,2,supported,0.9998588661614892
+lowest_10,c044,supported,3,supported,0.9998550520098815
+lowest_10,c044,supported,4,supported,0.9998664945083545
+lowest_10,c047,supported,0,supported,0.9999961853100103
+lowest_10,c047,supported,1,supported,0.9999809266955697
+lowest_10,c047,supported,2,supported,0.9999961853100103
+lowest_10,c047,supported,3,supported,0.9999809266955697
+lowest_10,c047,supported,4,supported,0.9999961853100103
+lowest_10,c049,supported,0,supported,0.9999961853100103
+lowest_10,c049,supported,1,supported,1.0
+lowest_10,c049,supported,2,supported,1.0
+lowest_10,c049,supported,3,supported,1.0
+lowest_10,c049,supported,4,supported,1.0
+lowest_10,c050,supported,0,supported,0.9991115704245684
+lowest_10,c050,supported,1,supported,0.9996071633621662
+lowest_10,c050,supported,2,supported,0.9995080251120866
+lowest_10,c050,supported,3,supported,0.9992945299669398
+lowest_10,c050,supported,4,supported,0.9992182927529752
+lowest_10,c051,supported,0,supported,0.9979383768496597
+lowest_10,c051,supported,1,supported,0.9979383768496597
+lowest_10,c051,supported,2,supported,0.9973675152704289
+lowest_10,c051,supported,3,supported,0.9979383768496597
+lowest_10,c051,supported,4,supported,0.9976414880627434
+lowest_10,c052,supported,0,supported,0.9999961853100103
+lowest_10,c052,supported,1,supported,1.0
+lowest_10,c052,supported,2,supported,0.9999961853100103
+lowest_10,c052,supported,3,supported,0.9999961853100103
+lowest_10,c052,supported,4,supported,0.9999961853100103
+lowest_10,c054,supported,0,supported,0.9999809266955697
+lowest_10,c054,supported,1,supported,0.9999809266955697
+lowest_10,c054,supported,2,supported,0.9999809266955697
+lowest_10,c054,supported,3,supported,0.9999771120783387
+lowest_10,c054,supported,4,supported,0.9999771120783387
+lowest_10,c055,supported,0,supported,0.9998588661614892
+lowest_10,c055,supported,1,supported,0.9998855656301433
+lowest_10,c055,supported,2,supported,0.9998893798981516
+lowest_10,c055,supported,3,supported,0.9998626803276469
+lowest_10,c055,supported,4,supported,0.9998855656301433
+lowest_10,c057,supported,0,supported,0.9993898346641251
+lowest_10,c057,supported,1,supported,0.9993898346641251
+lowest_10,c057,supported,2,supported,0.9993898346641251
+lowest_10,c057,supported,3,supported,0.9992259162126347
+lowest_10,c057,supported,4,supported,0.9993898346641251
+lowest_10,c058,supported,0,supported,1.0
+lowest_10,c058,supported,1,supported,1.0
+lowest_10,c058,supported,2,supported,1.0
+lowest_10,c058,supported,3,supported,1.0
+lowest_10,c058,supported,4,supported,1.0
+lowest_10,c059,supported,0,supported,0.9936648664698663
+lowest_10,c059,supported,1,supported,0.9941387957855742
+lowest_10,c059,supported,2,supported,0.9941387957855742
+lowest_10,c059,supported,3,supported,0.9936648664698663
+lowest_10,c059,supported,4,supported,0.993138122373151
+lowest_10,c063,supported,0,supported,0.9999923706345725
+lowest_10,c063,supported,1,supported,1.0
+lowest_10,c063,supported,2,supported,0.9999961853100103
+lowest_10,c063,supported,3,supported,0.9999961853100103
+lowest_10,c063,supported,4,supported,0.9999923706345725
+random_1,c001,supported,0,supported,0.9999961853100103
+random_1,c001,supported,1,supported,0.9999961853100103
+random_1,c001,supported,2,supported,0.9999961853100103
+random_1,c001,supported,3,supported,1.0
+random_1,c001,supported,4,supported,0.9999961853100103
+random_1,c005,supported,0,supported,0.2435786553619319
+random_1,c005,supported,1,not supported,0.7504525477505095
+random_1,c005,supported,2,not supported,0.7267007058376487
+random_1,c005,supported,3,not supported,0.749874495138839
+random_1,c005,supported,4,not supported,0.6745463387631
+random_1,c009,supported,0,supported,1.0
+random_1,c009,supported,1,supported,1.0
+random_1,c009,supported,2,supported,1.0
+random_1,c009,supported,3,supported,1.0
+random_1,c009,supported,4,supported,1.0
+random_1,c012,supported,0,supported,0.9998512378728234
+random_1,c012,supported,1,supported,0.9998512378728234
+random_1,c012,supported,2,supported,0.9998817513766852
+random_1,c012,supported,3,supported,0.9998321674057784
+random_1,c012,supported,4,supported,0.9998970084778191
+random_1,c015,supported,0,supported,0.9523048387554554
+random_1,c015,supported,1,supported,0.9624319360120237
+random_1,c015,supported,2,supported,0.9624319360120237
+random_1,c015,supported,3,supported,0.9624319360120237
+random_1,c015,supported,4,supported,0.9624319360120237
+random_1,c016,supported,0,supported,0.9991916111021915
+random_1,c016,supported,1,supported,0.9991992343582853
+random_1,c016,supported,2,supported,0.9990925140654259
+random_1,c016,supported,3,supported,0.9992907179680995
+random_1,c016,supported,4,supported,0.9991153817400137
+random_1,c019,supported,0,supported,0.9985590835520073
+random_1,c019,supported,1,supported,0.998395301359093
+random_1,c019,supported,2,supported,0.9988791076735346
+random_1,c019,supported,3,supported,0.9987038436668705
+random_1,c019,supported,4,supported,0.9988676764747423
+random_1,c020,supported,0,supported,0.9999961853100103
+random_1,c020,supported,1,supported,1.0
+random_1,c020,supported,2,supported,0.9999961853100103
+random_1,c020,supported,3,supported,0.9999961853100103
+random_1,c020,supported,4,supported,0.9999961853100103
+random_1,c021,supported,0,supported,1.0
+random_1,c021,supported,1,supported,1.0
+random_1,c021,supported,2,supported,1.0
+random_1,c021,supported,3,supported,1.0
+random_1,c021,supported,4,supported,1.0
+random_1,c026,supported,0,supported,0.9998779371377774
+random_1,c026,supported,1,supported,0.9998779371377774
+random_1,c026,supported,2,supported,0.9998779371377774
+random_1,c026,supported,3,supported,0.9998779371377774
+random_1,c026,supported,4,supported,0.9998436096423565
+random_1,c027,supported,0,supported,0.9999923706345725
+random_1,c027,supported,1,supported,0.9999961853100103
+random_1,c027,supported,2,supported,0.9999923706345725
+random_1,c027,supported,3,supported,0.9999923706345725
+random_1,c027,supported,4,supported,0.9999923706345725
+random_1,c028,supported,0,supported,1.0
+random_1,c028,supported,1,supported,1.0
+random_1,c028,supported,2,supported,1.0
+random_1,c028,supported,3,supported,1.0
+random_1,c028,supported,4,supported,1.0
+random_1,c029,supported,0,supported,1.0
+random_1,c029,supported,1,supported,1.0
+random_1,c029,supported,2,supported,1.0
+random_1,c029,supported,3,supported,1.0
+random_1,c029,supported,4,supported,1.0
+random_1,c031,supported,0,supported,1.0
+random_1,c031,supported,1,supported,1.0
+random_1,c031,supported,2,supported,1.0
+random_1,c031,supported,3,supported,1.0
+random_1,c031,supported,4,supported,1.0
+random_1,c032,supported,0,supported,0.9999694828875315
+random_1,c032,supported,1,supported,0.9999732974756593
+random_1,c032,supported,2,supported,0.9999732974756593
+random_1,c032,supported,3,supported,0.9999732974756593
+random_1,c032,supported,4,supported,0.9999732974756593
+random_1,c033,supported,0,supported,0.9998588661614892
+random_1,c033,supported,1,supported,0.9998588661614892
+random_1,c033,supported,2,supported,0.9998588661614892
+random_1,c033,supported,3,supported,0.9998588661614892
+random_1,c033,supported,4,supported,0.9998245393208071
+random_1,c034,supported,0,supported,1.0
+random_1,c034,supported,1,supported,1.0
+random_1,c034,supported,2,supported,1.0
+random_1,c034,supported,3,supported,1.0
+random_1,c034,supported,4,supported,1.0
+random_1,c035,unclear,0,supported,1.0
+random_1,c035,unclear,1,supported,0.9999961853100103
+random_1,c035,unclear,2,supported,0.9999961853100103
+random_1,c035,unclear,3,supported,0.9999961853100103
+random_1,c035,unclear,4,supported,1.0
+random_1,c041,supported,0,supported,1.0
+random_1,c041,supported,1,supported,1.0
+random_1,c041,supported,2,supported,1.0
+random_1,c041,supported,3,supported,1.0
+random_1,c041,supported,4,supported,1.0
+random_1,c043,supported,0,supported,1.0
+random_1,c043,supported,1,supported,1.0
+random_1,c043,supported,2,supported,1.0
+random_1,c043,supported,3,supported,1.0
+random_1,c043,supported,4,supported,1.0
+random_1,c044,supported,0,supported,0.9999427811780749
+random_1,c044,supported,1,supported,0.9999465956643435
+random_1,c044,supported,2,supported,0.9999313378065751
+random_1,c044,supported,3,supported,0.9999313378065751
+random_1,c044,supported,4,supported,0.9999465956643435
+random_1,c047,supported,0,supported,1.0
+random_1,c047,supported,1,supported,1.0
+random_1,c047,supported,2,supported,1.0
+random_1,c047,supported,3,supported,1.0
+random_1,c047,supported,4,supported,1.0
+random_1,c049,supported,0,supported,1.0
+random_1,c049,supported,1,supported,1.0
+random_1,c049,supported,2,supported,1.0
+random_1,c049,supported,3,supported,1.0
+random_1,c049,supported,4,supported,1.0
+random_1,c050,supported,0,supported,0.9998245393208071
+random_1,c050,supported,1,supported,0.9997330068404254
+random_1,c050,supported,2,supported,0.9997101250296826
+random_1,c050,supported,3,supported,0.9997635167361075
+random_1,c050,supported,4,supported,0.9997444479421944
+random_1,c051,supported,0,supported,0.9898475721969419
+random_1,c051,supported,1,supported,0.9886173714513468
+random_1,c051,supported,2,supported,0.989862676187484
+random_1,c051,supported,3,supported,0.989862676187484
+random_1,c051,supported,4,supported,0.9871853247650021
+random_1,c052,supported,0,supported,1.0
+random_1,c052,supported,1,supported,1.0
+random_1,c052,supported,2,supported,0.9999961853100103
+random_1,c052,supported,3,supported,1.0
+random_1,c052,supported,4,supported,1.0
+random_1,c054,supported,0,supported,1.0
+random_1,c054,supported,1,supported,1.0
+random_1,c054,supported,2,supported,1.0
+random_1,c054,supported,3,supported,1.0
+random_1,c054,supported,4,supported,0.9999961853100103
+random_1,c055,supported,0,supported,0.9998931941807102
+random_1,c055,supported,1,supported,0.9998893798981516
+random_1,c055,supported,2,supported,0.9999198945660335
+random_1,c055,supported,3,supported,0.9998893798981516
+random_1,c055,supported,4,supported,0.9998931941807102
+random_1,c057,supported,0,supported,0.9997825858937324
+random_1,c057,supported,1,supported,0.9997177522417389
+random_1,c057,supported,2,supported,0.9997177522417389
+random_1,c057,supported,3,supported,0.9997825858937324
+random_1,c057,supported,4,supported,0.9997177522417389
+random_1,c058,supported,0,not supported,0.14803748438651926
+random_1,c058,supported,1,supported,0.9241011757034494
+random_1,c058,supported,2,supported,0.9046041144949263
+random_1,c058,supported,3,supported,0.924094125397888
+random_1,c058,supported,4,supported,0.9046006637106662
+random_1,c059,supported,0,supported,0.9961051693025355
+random_1,c059,supported,1,supported,0.9944460226704417
+random_1,c059,supported,2,supported,0.9920400586871716
+random_1,c059,supported,3,supported,0.9951518660080133
+random_1,c059,supported,4,supported,0.9939074900473376
+random_1,c063,supported,0,supported,0.9999465956643435
+random_1,c063,supported,1,supported,0.9998588661614892
+random_1,c063,supported,2,supported,0.9998970084778191
+random_1,c063,supported,3,supported,0.9998970084778191
+random_1,c063,supported,4,supported,0.9998970084778191
+random_3,c001,supported,0,supported,0.9999961853100103
+random_3,c001,supported,1,supported,0.9999961853100103
+random_3,c001,supported,2,supported,0.9999961853100103
+random_3,c001,supported,3,supported,0.9999961853100103
+random_3,c001,supported,4,supported,0.9999961853100103
+random_3,c005,supported,0,supported,0.5281543548757242
+random_3,c005,supported,1,supported,0.4661034723978168
+random_3,c005,supported,2,not supported,0.466420071641861
+random_3,c005,supported,3,not supported,0.4356212053809838
+random_3,c005,supported,4,not supported,0.4051740431085378
+random_3,c009,supported,0,supported,1.0
+random_3,c009,supported,1,supported,1.0
+random_3,c009,supported,2,supported,1.0
+random_3,c009,supported,3,supported,1.0
+random_3,c009,supported,4,supported,0.9999961853100103
+random_3,c012,supported,0,supported,0.9997253795119863
+random_3,c012,supported,1,supported,0.9997597029482281
+random_3,c012,supported,2,supported,0.9997520754161147
+random_3,c012,supported,3,supported,0.9997520754161147
+random_3,c012,supported,4,supported,0.9997520754161147
+random_3,c015,supported,0,supported,0.880593542591044
+random_3,c015,supported,1,supported,0.8173976043513121
+random_3,c015,supported,2,supported,0.8173976043513121
+random_3,c015,supported,3,supported,0.8173976043513121
+random_3,c015,supported,4,supported,0.8173976043513121
+random_3,c016,supported,0,supported,0.9965118351360369
+random_3,c016,supported,1,supported,0.9989591297281363
+random_3,c016,supported,2,supported,0.998665746865298
+random_3,c016,supported,3,supported,0.998688604771848
+random_3,c016,supported,4,supported,0.998665746865298
+random_3,c019,supported,0,supported,0.9992182927529752
+random_3,c019,supported,1,supported,0.9988600557482248
+random_3,c019,supported,2,supported,0.9990162922634636
+random_3,c019,supported,3,supported,0.9987152729907344
+random_3,c019,supported,4,supported,0.9990162922634636
+random_3,c020,supported,0,supported,0.9999961853100103
+random_3,c020,supported,1,supported,0.9999961853100103
+random_3,c020,supported,2,supported,0.9999961853100103
+random_3,c020,supported,3,supported,0.9999961853100103
+random_3,c020,supported,4,supported,0.9999961853100103
+random_3,c021,supported,0,supported,1.0
+random_3,c021,supported,1,supported,1.0
+random_3,c021,supported,2,supported,1.0
+random_3,c021,supported,3,supported,1.0
+random_3,c021,supported,4,supported,1.0
+random_3,c026,supported,0,supported,0.9989095915098845
+random_3,c026,supported,1,supported,0.9990239141819757
+random_3,c026,supported,2,supported,0.9990239141819757
+random_3,c026,supported,3,supported,0.9989057809794651
+random_3,c026,supported,4,supported,0.9990353471687767
+random_3,c027,supported,0,supported,0.9722475397444181
+random_3,c027,supported,1,supported,0.9781401114599553
+random_3,c027,supported,2,supported,0.96467040952391
+random_3,c027,supported,3,supported,0.9722512485815236
+random_3,c027,supported,4,supported,0.9729858771302985
+random_3,c028,supported,0,supported,1.0
+random_3,c028,supported,1,supported,1.0
+random_3,c028,supported,2,supported,1.0
+random_3,c028,supported,3,supported,1.0
+random_3,c028,supported,4,supported,1.0
+random_3,c029,supported,0,supported,1.0
+random_3,c029,supported,1,supported,1.0
+random_3,c029,supported,2,supported,1.0
+random_3,c029,supported,3,supported,1.0
+random_3,c029,supported,4,supported,1.0
+random_3,c031,supported,0,supported,1.0
+random_3,c031,supported,1,supported,1.0
+random_3,c031,supported,2,supported,1.0
+random_3,c031,supported,3,supported,1.0
+random_3,c031,supported,4,supported,1.0
+random_3,c032,supported,0,supported,0.9999809266955697
+random_3,c032,supported,1,supported,0.9999847413273523
+random_3,c032,supported,2,supported,0.9999847413273523
+random_3,c032,supported,3,supported,0.9999847413273523
+random_3,c032,supported,4,supported,0.9999847413273523
+random_3,c033,supported,0,supported,0.9996643629793364
+random_3,c033,supported,1,supported,0.9997024978758172
+random_3,c033,supported,2,supported,0.9998931941807102
+random_3,c033,supported,3,supported,0.9998931941807102
+random_3,c033,supported,4,supported,0.9999008227894784
+random_3,c034,supported,0,supported,1.0
+random_3,c034,supported,1,supported,1.0
+random_3,c034,supported,2,supported,1.0
+random_3,c034,supported,3,supported,1.0
+random_3,c034,supported,4,supported,1.0
+random_3,c035,unclear,0,supported,0.42700816317196605
+random_3,c035,unclear,1,supported,0.2646523836994362
+random_3,c035,unclear,2,not supported,0.5893628585733869
+random_3,c035,unclear,3,not supported,0.5717380186604846
+random_3,c035,unclear,4,not supported,0.4977152247506819
+random_3,c041,supported,0,supported,1.0
+random_3,c041,supported,1,supported,1.0
+random_3,c041,supported,2,supported,1.0
+random_3,c041,supported,3,supported,1.0
+random_3,c041,supported,4,supported,1.0
+random_3,c043,supported,0,supported,1.0
+random_3,c043,supported,1,supported,1.0
+random_3,c043,supported,2,supported,1.0
+random_3,c043,supported,3,supported,1.0
+random_3,c043,supported,4,supported,1.0
+random_3,c044,supported,0,supported,0.9937672160681427
+random_3,c044,supported,1,supported,0.9921157482244469
+random_3,c044,supported,2,supported,0.9921952284538017
+random_3,c044,supported,3,supported,0.9921876586338284
+random_3,c044,supported,4,supported,0.9937103538787714
+random_3,c047,supported,0,supported,0.9999961853100103
+random_3,c047,supported,1,supported,0.9999961853100103
+random_3,c047,supported,2,supported,0.9999961853100103
+random_3,c047,supported,3,supported,0.9999961853100103
+random_3,c047,supported,4,supported,0.9999961853100103
+random_3,c049,supported,0,supported,1.0
+random_3,c049,supported,1,supported,1.0
+random_3,c049,supported,2,supported,1.0
+random_3,c049,supported,3,supported,1.0
+random_3,c049,supported,4,supported,1.0
+random_3,c050,supported,0,supported,0.9997673305385353
+random_3,c050,supported,1,supported,0.9998474237503151
+random_3,c050,supported,2,supported,0.9998054693629916
+random_3,c050,supported,3,supported,0.9998397955489475
+random_3,c050,supported,4,supported,0.9998397955489475
+random_3,c051,supported,0,supported,0.999527089396549
+random_3,c051,supported,1,supported,0.9996300428162764
+random_3,c051,supported,2,supported,0.9995309022970764
+random_3,c051,supported,3,supported,0.9996300428162764
+random_3,c051,supported,4,supported,0.9995309022970764
+random_3,c052,supported,0,supported,0.9999961853100103
+random_3,c052,supported,1,supported,0.9999923706345725
+random_3,c052,supported,2,supported,0.9999923706345725
+random_3,c052,supported,3,supported,0.9999923706345725
+random_3,c052,supported,4,supported,0.9999885559736865
+random_3,c054,supported,0,supported,0.9999923706345725
+random_3,c054,supported,1,supported,0.9999923706345725
+random_3,c054,supported,2,supported,0.9999923706345725
+random_3,c054,supported,3,supported,0.9999923706345725
+random_3,c054,supported,4,supported,0.9999961853100103
+random_3,c055,supported,0,supported,0.9999618537549303
+random_3,c055,supported,1,supported,0.9999618537549303
+random_3,c055,supported,2,supported,0.9999580392104567
+random_3,c055,supported,3,supported,0.9999580392104567
+random_3,c055,supported,4,supported,0.9999465956643435
+random_3,c057,supported,0,supported,0.999828353356018
+random_3,c057,supported,1,supported,0.9997825858937324
+random_3,c057,supported,2,supported,0.9998664945083545
+random_3,c057,supported,3,supported,0.9997825858937324
+random_3,c057,supported,4,supported,0.9997825858937324
+random_3,c058,supported,0,supported,1.0
+random_3,c058,supported,1,supported,1.0
+random_3,c058,supported,2,supported,1.0
+random_3,c058,supported,3,supported,1.0
+random_3,c058,supported,4,supported,1.0
+random_3,c059,supported,0,supported,0.9797122543830437
+random_3,c059,supported,1,supported,0.9797122543830437
+random_3,c059,supported,2,supported,0.9820546033770435
+random_3,c059,supported,3,supported,0.9790397702701423
+random_3,c059,supported,4,supported,0.9790397702701423
+random_3,c063,supported,0,supported,0.9999084514564487
+random_3,c063,supported,1,supported,0.9999122658117596
+random_3,c063,supported,2,supported,0.9999122658117596
+random_3,c063,supported,3,supported,0.9999084514564487
+random_3,c063,supported,4,supported,0.9999046371156883
+random_5,c001,supported,0,supported,1.0
+random_5,c001,supported,1,supported,1.0
+random_5,c001,supported,2,supported,1.0
+random_5,c001,supported,3,supported,1.0
+random_5,c001,supported,4,supported,1.0
+random_5,c005,supported,0,supported,0.9994927739463226
+random_5,c005,supported,1,supported,0.999427959087982
+random_5,c005,supported,2,supported,0.9994432092647422
+random_5,c005,supported,3,supported,0.9994432092647422
+random_5,c005,supported,4,supported,0.999427959087982
+random_5,c009,supported,0,supported,1.0
+random_5,c009,supported,1,supported,1.0
+random_5,c009,supported,2,supported,1.0
+random_5,c009,supported,3,supported,1.0
+random_5,c009,supported,4,supported,1.0
+random_5,c012,supported,0,supported,0.9997063114454761
+random_5,c012,supported,1,supported,0.9996643629793364
+random_5,c012,supported,2,supported,0.9995804713275555
+random_5,c012,supported,3,supported,0.9996719898422546
+random_5,c012,supported,4,supported,0.9996719898422546
+random_5,c015,supported,0,supported,0.43774177439730044
+random_5,c015,supported,1,supported,0.4377334252151755
+random_5,c015,supported,2,supported,0.4377334252151755
+random_5,c015,supported,3,not supported,0.562071564272125
+random_5,c015,supported,4,not supported,0.562060843710068
+random_5,c016,supported,0,supported,0.9973637106225524
+random_5,c016,supported,1,supported,0.997729023008661
+random_5,c016,supported,2,supported,0.996998531993342
+random_5,c016,supported,3,supported,0.9973675152704289
+random_5,c016,supported,4,supported,0.9974283916103416
+random_5,c019,supported,0,supported,0.9984181530755658
+random_5,c019,supported,1,supported,0.9984067271519501
+random_5,c019,supported,2,supported,0.9987533716816147
+random_5,c019,supported,3,supported,0.9987495617471256
+random_5,c019,supported,4,supported,0.9990277251630383
+random_5,c020,supported,0,supported,0.9999923706345725
+random_5,c020,supported,1,supported,0.9999923706345725
+random_5,c020,supported,2,supported,0.9999923706345725
+random_5,c020,supported,3,supported,0.9999923706345725
+random_5,c020,supported,4,supported,0.9999961853100103
+random_5,c021,supported,0,supported,1.0
+random_5,c021,supported,1,supported,1.0
+random_5,c021,supported,2,supported,1.0
+random_5,c021,supported,3,supported,1.0
+random_5,c021,supported,4,supported,1.0
+random_5,c026,supported,0,supported,0.9998436096423565
+random_5,c026,supported,1,supported,0.9998436096423565
+random_5,c026,supported,2,supported,0.9997177522417389
+random_5,c026,supported,3,supported,0.9998436096423565
+random_5,c026,supported,4,supported,0.9997520754161147
+random_5,c027,supported,0,supported,0.9640119276876924
+random_5,c027,supported,1,supported,0.959546887721405
+random_5,c027,supported,2,supported,0.9673235978685961
+random_5,c027,supported,3,supported,0.9632767254478358
+random_5,c027,supported,4,supported,0.9743527222361967
+random_5,c028,supported,0,supported,1.0
+random_5,c028,supported,1,supported,1.0
+random_5,c028,supported,2,supported,1.0
+random_5,c028,supported,3,supported,1.0
+random_5,c028,supported,4,supported,1.0
+random_5,c029,supported,0,supported,1.0
+random_5,c029,supported,1,supported,1.0
+random_5,c029,supported,2,supported,1.0
+random_5,c029,supported,3,supported,1.0
+random_5,c029,supported,4,supported,1.0
+random_5,c031,supported,0,supported,1.0
+random_5,c031,supported,1,supported,1.0
+random_5,c031,supported,2,supported,1.0
+random_5,c031,supported,3,supported,1.0
+random_5,c031,supported,4,supported,1.0
+random_5,c032,supported,0,supported,0.9999961853100103
+random_5,c032,supported,1,supported,0.9999961853100103
+random_5,c032,supported,2,supported,1.0
+random_5,c032,supported,3,supported,1.0
+random_5,c032,supported,4,supported,0.9999961853100103
+random_5,c033,supported,0,supported,0.9998550520098815
+random_5,c033,supported,1,supported,0.9998893798981516
+random_5,c033,supported,2,supported,0.9998893798981516
+random_5,c033,supported,3,supported,0.9998741229134197
+random_5,c033,supported,4,supported,0.9998893798981516
+random_5,c034,supported,0,supported,1.0
+random_5,c034,supported,1,supported,1.0
+random_5,c034,supported,2,supported,1.0
+random_5,c034,supported,3,supported,1.0
+random_5,c034,supported,4,supported,1.0
+random_5,c035,unclear,0,unclear,0.13553263951442368
+random_5,c035,unclear,1,not supported,0.6431485550611328
+random_5,c035,unclear,2,unclear,0.13961956844921425
+random_5,c035,unclear,3,not supported,0.6431289280243441
+random_5,c035,unclear,4,not supported,0.6143126479983471
+random_5,c041,supported,0,supported,1.0
+random_5,c041,supported,1,supported,1.0
+random_5,c041,supported,2,supported,1.0
+random_5,c041,supported,3,supported,0.9999961853100103
+random_5,c041,supported,4,supported,1.0
+random_5,c043,supported,0,supported,1.0
+random_5,c043,supported,1,supported,1.0
+random_5,c043,supported,2,supported,1.0
+random_5,c043,supported,3,supported,1.0
+random_5,c043,supported,4,supported,1.0
+random_5,c044,supported,0,supported,0.9995232765105667
+random_5,c044,supported,1,supported,0.9996147897886842
+random_5,c044,supported,2,supported,0.9984943292413887
+random_5,c044,supported,3,supported,0.9996681764035219
+random_5,c044,supported,4,supported,0.9996147897886842
+random_5,c047,supported,0,supported,0.9999961853100103
+random_5,c047,supported,1,supported,1.0
+random_5,c047,supported,2,supported,0.9999961853100103
+random_5,c047,supported,3,supported,1.0
+random_5,c047,supported,4,supported,1.0
+random_5,c049,supported,0,supported,1.0
+random_5,c049,supported,1,supported,1.0
+random_5,c049,supported,2,supported,1.0
+random_5,c049,supported,3,supported,1.0
+random_5,c049,supported,4,supported,1.0
+random_5,c050,supported,0,supported,0.9999809266955697
+random_5,c050,supported,1,supported,0.9999732974756593
+random_5,c050,supported,2,supported,0.9999732974756593
+random_5,c050,supported,3,supported,0.9999809266955697
+random_5,c050,supported,4,supported,0.9999732974756593
+random_5,c051,supported,0,supported,0.9873209033479572
+random_5,c051,supported,1,supported,0.9766412750124992
+random_5,c051,supported,2,supported,0.9838056571850388
+random_5,c051,supported,3,supported,0.9837756342771513
+random_5,c051,supported,4,supported,0.9887946373131687
+random_5,c052,supported,0,supported,0.9398969702247708
+random_5,c052,supported,1,supported,0.9046351721456415
+random_5,c052,supported,2,supported,0.904631721242906
+random_5,c052,supported,3,supported,0.904631721242906
+random_5,c052,supported,4,supported,0.904631721242906
+random_5,c054,supported,0,supported,0.9999923706345725
+random_5,c054,supported,1,supported,0.9999923706345725
+random_5,c054,supported,2,supported,0.9999923706345725
+random_5,c054,supported,3,supported,0.9999923706345725
+random_5,c054,supported,4,supported,0.9999923706345725
+random_5,c055,supported,0,supported,0.9999580392104567
+random_5,c055,supported,1,supported,0.9999580392104567
+random_5,c055,supported,2,supported,0.9999580392104567
+random_5,c055,supported,3,supported,0.9999504101651634
+random_5,c055,supported,4,supported,0.9999580392104567
+random_5,c057,supported,0,supported,0.9984371965721706
+random_5,c057,supported,1,supported,0.9979878669031483
+random_5,c057,supported,2,supported,0.9974398063377314
+random_5,c057,supported,3,supported,0.9984257704306206
+random_5,c057,supported,4,supported,0.9974436112758907
+random_5,c058,supported,0,supported,1.0
+random_5,c058,supported,1,supported,1.0
+random_5,c058,supported,2,supported,1.0
+random_5,c058,supported,3,supported,1.0
+random_5,c058,supported,4,supported,1.0
+random_5,c059,supported,0,supported,0.9856575879820343
+random_5,c059,supported,1,supported,0.9891832247253716
+random_5,c059,supported,2,supported,0.9891832247253716
+random_5,c059,supported,3,supported,0.9891832247253716
+random_5,c059,supported,4,supported,0.9878671723140003
+random_5,c063,supported,0,supported,0.9999046371156883
+random_5,c063,supported,1,supported,0.9999084514564487
+random_5,c063,supported,2,supported,0.9999008227894784
+random_5,c063,supported,3,supported,0.9998588661614892
+random_5,c063,supported,4,supported,0.9999008227894784
+random_7,c001,supported,0,supported,0.9999961853100103
+random_7,c001,supported,1,supported,0.9999961853100103
+random_7,c001,supported,2,supported,0.9999961853100103
+random_7,c001,supported,3,supported,0.9999961853100103
+random_7,c001,supported,4,supported,0.9999961853100103
+random_7,c005,supported,0,supported,0.9981668129589463
+random_7,c005,supported,1,supported,0.9985705112192136
+random_7,c005,supported,2,supported,0.9985705112192136
+random_7,c005,supported,3,supported,0.9985705112192136
+random_7,c005,supported,4,supported,0.9985705112192136
+random_7,c009,supported,0,supported,1.0
+random_7,c009,supported,1,supported,1.0
+random_7,c009,supported,2,supported,1.0
+random_7,c009,supported,3,supported,1.0
+random_7,c009,supported,4,supported,1.0
+random_7,c012,supported,0,supported,0.9985857483122578
+random_7,c012,supported,1,supported,0.9992945299669398
+random_7,c012,supported,2,supported,0.9990963253081767
+random_7,c012,supported,3,supported,0.9988791076735346
+random_7,c012,supported,4,supported,0.9992259162126347
+random_7,c015,supported,0,not supported,0.9453590366112663
+random_7,c015,supported,1,not supported,0.9407686318088047
+random_7,c015,supported,2,not supported,0.9434388535656064
+random_7,c015,supported,3,not supported,0.9407686318088047
+random_7,c015,supported,4,not supported,0.9407650430681224
+random_7,c016,supported,0,supported,0.9742560886511413
+random_7,c016,supported,1,supported,0.9638648423631143
+random_7,c016,supported,2,supported,0.9632546780456056
+random_7,c016,supported,3,supported,0.9768983746124249
+random_7,c016,supported,4,supported,0.9742635216635708
+random_7,c019,supported,0,supported,0.9854320146794918
+random_7,c019,supported,1,supported,0.9945560405609425
+random_7,c019,supported,2,supported,0.9944953395300747
+random_7,c019,supported,3,supported,0.9930244732379366
+random_7,c019,supported,4,supported,0.9930244732379366
+random_7,c020,supported,0,supported,0.9999961853100103
+random_7,c020,supported,1,supported,0.9999923706345725
+random_7,c020,supported,2,supported,0.9999923706345725
+random_7,c020,supported,3,supported,0.9999923706345725
+random_7,c020,supported,4,supported,0.9999923706345725
+random_7,c021,supported,0,supported,1.0
+random_7,c021,supported,1,supported,1.0
+random_7,c021,supported,2,supported,1.0
+random_7,c021,supported,3,supported,1.0
+random_7,c021,supported,4,supported,1.0
+random_7,c026,supported,0,supported,0.9998817513766852
+random_7,c026,supported,1,supported,0.9998931941807102
+random_7,c026,supported,2,supported,0.9999313378065751
+random_7,c026,supported,3,supported,0.9999313378065751
+random_7,c026,supported,4,supported,0.9999160801816213
+random_7,c027,supported,0,supported,0.9898362443552793
+random_7,c027,supported,1,supported,0.9920665493683537
+random_7,c027,supported,2,supported,0.9874565005510758
+random_7,c027,supported,3,supported,0.9873661003466301
+random_7,c027,supported,4,supported,0.9782147404749618
+random_7,c028,supported,0,supported,1.0
+random_7,c028,supported,1,supported,1.0
+random_7,c028,supported,2,supported,1.0
+random_7,c028,supported,3,supported,1.0
+random_7,c028,supported,4,supported,1.0
+random_7,c029,supported,0,supported,1.0
+random_7,c029,supported,1,supported,1.0
+random_7,c029,supported,2,supported,1.0
+random_7,c029,supported,3,supported,1.0
+random_7,c029,supported,4,supported,1.0
+random_7,c031,supported,0,supported,1.0
+random_7,c031,supported,1,supported,1.0
+random_7,c031,supported,2,supported,1.0
+random_7,c031,supported,3,supported,1.0
+random_7,c031,supported,4,supported,1.0
+random_7,c032,supported,0,supported,0.9999923706345725
+random_7,c032,supported,1,supported,0.9999961853100103
+random_7,c032,supported,2,supported,0.9999961853100103
+random_7,c032,supported,3,supported,0.9999961853100103
+random_7,c032,supported,4,supported,0.9999961853100103
+random_7,c033,supported,0,supported,0.9999580392104567
+random_7,c033,supported,1,supported,0.9999465956643435
+random_7,c033,supported,2,supported,0.9999389667063573
+random_7,c033,supported,3,supported,0.9999389667063573
+random_7,c033,supported,4,supported,0.9999580392104567
+random_7,c034,supported,0,supported,1.0
+random_7,c034,supported,1,supported,1.0
+random_7,c034,supported,2,supported,1.0
+random_7,c034,supported,3,supported,1.0
+random_7,c034,supported,4,supported,1.0
+random_7,c035,unclear,0,supported,0.42019241506655014
+random_7,c035,unclear,1,supported,0.3981490066968413
+random_7,c035,unclear,2,not supported,0.46129043800799796
+random_7,c035,unclear,3,not supported,0.5353083933663405
+random_7,c035,unclear,4,not supported,0.4511619310286192
+random_7,c041,supported,0,supported,1.0
+random_7,c041,supported,1,supported,1.0
+random_7,c041,supported,2,supported,1.0
+random_7,c041,supported,3,supported,1.0
+random_7,c041,supported,4,supported,1.0
+random_7,c043,supported,0,supported,0.9996796167633613
+random_7,c043,supported,1,supported,0.9996834302457355
+random_7,c043,supported,2,supported,0.9996910572541259
+random_7,c043,supported,3,supported,0.9996834302457355
+random_7,c043,supported,4,supported,0.9997330068404254
+random_7,c044,supported,0,supported,0.9982353539879054
+random_7,c044,supported,1,supported,0.998764801572285
+random_7,c044,supported,2,supported,0.9926305902501623
+random_7,c044,supported,3,supported,0.9925737930971814
+random_7,c044,supported,4,supported,0.9941387957855742
+random_7,c047,supported,0,supported,1.0
+random_7,c047,supported,1,supported,1.0
+random_7,c047,supported,2,supported,1.0
+random_7,c047,supported,3,supported,0.9999961853100103
+random_7,c047,supported,4,supported,0.9999961853100103
+random_7,c049,supported,0,supported,1.0
+random_7,c049,supported,1,supported,1.0
+random_7,c049,supported,2,supported,1.0
+random_7,c049,supported,3,supported,1.0
+random_7,c049,supported,4,supported,1.0
+random_7,c050,supported,0,supported,0.9999732974756593
+random_7,c050,supported,1,supported,0.9999427811780749
+random_7,c050,supported,2,supported,0.9999427811780749
+random_7,c050,supported,3,supported,0.9999656683139552
+random_7,c050,supported,4,supported,0.9999427811780749
+random_7,c051,supported,0,supported,0.952123218343456
+random_7,c051,supported,1,supported,0.9622226897328122
+random_7,c051,supported,2,supported,0.9574700421895801
+random_7,c051,supported,3,supported,0.9622226897328122
+random_7,c051,supported,4,supported,0.9521195862885461
+random_7,c052,supported,0,supported,0.7307816279159152
+random_7,c052,supported,1,supported,0.7306589789394925
+random_7,c052,supported,2,supported,0.7769135877617338
+random_7,c052,supported,3,supported,0.6788391559353834
+random_7,c052,supported,4,supported,0.7769135877617338
+random_7,c054,supported,0,supported,0.9999885559736865
+random_7,c054,supported,1,supported,0.9999885559736865
+random_7,c054,supported,2,supported,0.9999885559736865
+random_7,c054,supported,3,supported,0.9999885559736865
+random_7,c054,supported,4,supported,0.9999885559736865
+random_7,c055,supported,0,supported,0.9999771120783387
+random_7,c055,supported,1,supported,0.9999809266955697
+random_7,c055,supported,2,supported,0.9999809266955697
+random_7,c055,supported,3,supported,0.9999809266955697
+random_7,c055,supported,4,supported,0.9999809266955697
+random_7,c057,supported,0,supported,0.99215737993146
+random_7,c057,supported,1,supported,0.9921535951586347
+random_7,c057,supported,2,supported,0.99215737993146
+random_7,c057,supported,3,supported,0.9938619936144615
+random_7,c057,supported,4,supported,0.9921535951586347
+random_7,c058,supported,0,supported,1.0
+random_7,c058,supported,1,supported,1.0
+random_7,c058,supported,2,supported,1.0
+random_7,c058,supported,3,supported,1.0
+random_7,c058,supported,4,supported,1.0
+random_7,c059,supported,0,supported,0.9948254460874634
+random_7,c059,supported,1,supported,0.9923201388218315
+random_7,c059,supported,2,supported,0.9948254460874634
+random_7,c059,supported,3,supported,0.9948254460874634
+random_7,c059,supported,4,supported,0.9948254460874634
+random_7,c063,supported,0,supported,0.9998321674057784
+random_7,c063,supported,1,supported,0.9998474237503151
+random_7,c063,supported,2,supported,0.9998245393208071
+random_7,c063,supported,3,supported,0.9998321674057784
+random_7,c063,supported,4,supported,0.9998359814700882
+random_10,c001,supported,0,not supported,0.22359112077923884
+random_10,c001,supported,1,supported,0.739968648230515
+random_10,c001,supported,2,supported,0.7408950917946618
+random_10,c001,supported,3,supported,0.6994933534246841
+random_10,c001,supported,4,not supported,0.2980758612024741
+random_10,c005,supported,0,supported,0.997436001414087
+random_10,c005,supported,1,supported,0.9967019228122669
+random_10,c005,supported,2,supported,0.9979612181078408
+random_10,c005,supported,3,supported,0.997089814113614
+random_10,c005,supported,4,supported,0.9971392620849299
+random_10,c009,supported,0,supported,0.9999847413273523
+random_10,c009,supported,1,supported,0.9999885559736865
+random_10,c009,supported,2,supported,0.9999885559736865
+random_10,c009,supported,3,supported,0.9999885559736865
+random_10,c009,supported,4,supported,0.9999961853100103
+random_10,c012,supported,0,supported,0.9996529227940618
+random_10,c012,supported,1,supported,0.9997444479421944
+random_10,c012,supported,2,supported,0.9997444479421944
+random_10,c012,supported,3,supported,0.999736820526467
+random_10,c012,supported,4,supported,0.9997444479421944
+random_10,c015,supported,0,not supported,0.9719508786111072
+random_10,c015,supported,1,not supported,0.9684608001810872
+random_10,c015,supported,2,not supported,0.9857741544186935
+random_10,c015,supported,3,not supported,0.986925517850951
+random_10,c015,supported,4,not supported,0.9873058381414948
+random_10,c016,supported,0,supported,0.9995118379398894
+random_10,c016,supported,1,supported,0.9995080251120866
+random_10,c016,supported,2,supported,0.9995080251120866
+random_10,c016,supported,3,supported,0.9995118379398894
+random_10,c016,supported,4,supported,0.9995080251120866
+random_10,c019,supported,0,supported,0.998764801572285
+random_10,c019,supported,1,supported,0.9990315361586386
+random_10,c019,supported,2,supported,0.998764801572285
+random_10,c019,supported,3,supported,0.9984029185398025
+random_10,c019,supported,4,supported,0.9984143444198318
+random_10,c020,supported,0,supported,1.0
+random_10,c020,supported,1,supported,1.0
+random_10,c020,supported,2,supported,1.0
+random_10,c020,supported,3,supported,1.0
+random_10,c020,supported,4,supported,1.0
+random_10,c021,supported,0,supported,1.0
+random_10,c021,supported,1,supported,1.0
+random_10,c021,supported,2,supported,1.0
+random_10,c021,supported,3,supported,0.9999961853100103
+random_10,c021,supported,4,supported,1.0
+random_10,c026,supported,0,supported,0.9994737103163692
+random_10,c026,supported,1,supported,0.9998550520098815
+random_10,c026,supported,2,supported,0.9996376694173515
+random_10,c026,supported,3,supported,0.9998550520098815
+random_10,c026,supported,4,supported,0.9998550520098815
+random_10,c027,supported,0,supported,0.9937065631818318
+random_10,c027,supported,1,supported,0.987893551565607
+random_10,c027,supported,2,supported,0.9934109333684709
+random_10,c027,supported,3,supported,0.9934829376552997
+random_10,c027,supported,4,supported,0.9726593070493508
+random_10,c028,supported,0,supported,1.0
+random_10,c028,supported,1,supported,1.0
+random_10,c028,supported,2,supported,1.0
+random_10,c028,supported,3,supported,1.0
+random_10,c028,supported,4,supported,1.0
+random_10,c029,supported,0,supported,1.0
+random_10,c029,supported,1,supported,1.0
+random_10,c029,supported,2,supported,1.0
+random_10,c029,supported,3,supported,1.0
+random_10,c029,supported,4,supported,0.9999961853100103
+random_10,c031,supported,0,supported,1.0
+random_10,c031,supported,1,supported,0.9999961853100103
+random_10,c031,supported,2,supported,0.9999961853100103
+random_10,c031,supported,3,supported,0.9999961853100103
+random_10,c031,supported,4,supported,1.0
+random_10,c032,supported,0,supported,0.9999961853100103
+random_10,c032,supported,1,supported,0.9999961853100103
+random_10,c032,supported,2,supported,0.9999961853100103
+random_10,c032,supported,3,supported,0.9999961853100103
+random_10,c032,supported,4,supported,0.9999961853100103
+random_10,c033,supported,0,supported,0.9998893798981516
+random_10,c033,supported,1,supported,0.9998855656301433
+random_10,c033,supported,2,supported,0.9999122658117596
+random_10,c033,supported,3,supported,0.9999122658117596
+random_10,c033,supported,4,supported,0.9998855656301433
+random_10,c034,supported,0,supported,1.0
+random_10,c034,supported,1,supported,1.0
+random_10,c034,supported,2,supported,1.0
+random_10,c034,supported,3,supported,1.0
+random_10,c034,supported,4,supported,1.0
+random_10,c035,unclear,0,supported,0.6027732786998085
+random_10,c035,unclear,1,supported,0.6439218459385349
+random_10,c035,unclear,2,supported,0.6439218459385349
+random_10,c035,unclear,3,supported,0.6717653224984984
+random_10,c035,unclear,4,supported,0.6439439536201811
+random_10,c041,supported,0,supported,0.9999961853100103
+random_10,c041,supported,1,supported,1.0
+random_10,c041,supported,2,supported,1.0
+random_10,c041,supported,3,supported,1.0
+random_10,c041,supported,4,supported,0.9999961853100103
+random_10,c043,supported,0,supported,0.9996643629793364
+random_10,c043,supported,1,supported,0.9996643629793364
+random_10,c043,supported,2,supported,0.9996796167633613
+random_10,c043,supported,3,supported,0.9996643629793364
+random_10,c043,supported,4,supported,0.9996643629793364
+random_10,c044,supported,0,supported,0.9999694828875315
+random_10,c044,supported,1,supported,0.9999771120783387
+random_10,c044,supported,2,supported,0.9999732974756593
+random_10,c044,supported,3,supported,0.9999732974756593
+random_10,c044,supported,4,supported,0.9999732974756593
+random_10,c047,supported,0,supported,1.0
+random_10,c047,supported,1,supported,1.0
+random_10,c047,supported,2,supported,1.0
+random_10,c047,supported,3,supported,1.0
+random_10,c047,supported,4,supported,1.0
+random_10,c049,supported,0,supported,1.0
+random_10,c049,supported,1,supported,1.0
+random_10,c049,supported,2,supported,1.0
+random_10,c049,supported,3,supported,1.0
+random_10,c049,supported,4,supported,1.0
+random_10,c050,supported,0,supported,0.9999885559736865
+random_10,c050,supported,1,supported,0.9999885559736865
+random_10,c050,supported,2,supported,0.9999885559736865
+random_10,c050,supported,3,supported,0.9999885559736865
+random_10,c050,supported,4,supported,0.9999885559736865
+random_10,c051,supported,0,not supported,0.32040169323363177
+random_10,c051,supported,1,not supported,0.268650903478994
+random_10,c051,supported,2,supported,0.754151718801356
+random_10,c051,supported,3,supported,0.7050521621862587
+random_10,c051,supported,4,not supported,0.24480733074000388
+random_10,c052,supported,0,not supported,0.9999961853100103
+random_10,c052,supported,1,not supported,0.9999961853100103
+random_10,c052,supported,2,not supported,0.9999885559736865
+random_10,c052,supported,3,not supported,0.9999961853100103
+random_10,c052,supported,4,not supported,0.9999885559736865
+random_10,c054,supported,0,supported,0.9999961853100103
+random_10,c054,supported,1,supported,0.9999961853100103
+random_10,c054,supported,2,supported,0.9999961853100103
+random_10,c054,supported,3,supported,0.9999961853100103
+random_10,c054,supported,4,supported,0.9999961853100103
+random_10,c055,supported,0,supported,0.9999961853100103
+random_10,c055,supported,1,supported,0.9999961853100103
+random_10,c055,supported,2,supported,0.9999961853100103
+random_10,c055,supported,3,supported,0.9999961853100103
+random_10,c055,supported,4,supported,0.9999961853100103
+random_10,c057,supported,0,supported,0.9792078480110142
+random_10,c057,supported,1,supported,0.9816051573337038
+random_10,c057,supported,2,supported,0.9792078480110142
+random_10,c057,supported,3,supported,0.9765779420224671
+random_10,c057,supported,4,supported,0.9792078480110142
+random_10,c058,supported,0,supported,0.9999961853100103
+random_10,c058,supported,1,supported,1.0
+random_10,c058,supported,2,supported,0.9999961853100103
+random_10,c058,supported,3,supported,0.9999961853100103
+random_10,c058,supported,4,supported,0.9999961853100103
+random_10,c059,supported,0,supported,0.931569291599704
+random_10,c059,supported,1,supported,0.952268511901695
+random_10,c059,supported,2,supported,0.9522721445247122
+random_10,c059,supported,3,supported,0.9522721445247122
+random_10,c059,supported,4,supported,0.9519016883469961
+random_10,c063,supported,0,supported,0.9997215658695886
+random_10,c063,supported,1,supported,0.9997253795119863
+random_10,c063,supported,2,supported,0.9996643629793364
+random_10,c063,supported,3,supported,0.9997597029482281
+random_10,c063,supported,4,supported,0.999736820526467

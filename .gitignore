@@ -1,0 +1,30 @@
+# Secrets and local environments
+.env
+*.env
+.venv/
+venv/
+
+# OS and bytecode
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# Private notes, the thesis draft, and the ACL style archive
+ignored/
+
+# Source corpus and selection scratch. The corpus is the Zenodo record
+# cited in the README; it is not part of the portfolio snapshot.
+data/zenodo/
+data/selection/
+data/.pylibs/
+
+# Rebuilt locally: vector index, API caches, embedding matrix
+chroma_db/
+data/*.jsonl
+data/*.npz
+
+# Early data-exploration notebook
+test_data.ipynb
+
+# Local write-up. Not part of the public snapshot.
+report_paper/
