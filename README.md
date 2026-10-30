@@ -38,17 +38,24 @@ Red raises the log probability of the token *supported*. Blue lowers it. The top
 
 The deletion above is the common case: 38 of the 40 retrieved spans can be removed and the temperature-0 label stays. The two that move are `c010`, from *not supported* to *supported*, and `c062`, from *supported* to *not supported*. Both had matched the human label before the deletion.
 
-The next figure stays with the 32 claims that are still *supported* after the span is gone. One of them, `c035`, has the human label *unclear*, so a *supported* prediction matches the human label on 31 of the 32. Each point is the share whose majority label, over five samples, is still *supported*.
+The two figures stay with the 32 claims that are still *supported* after the span is gone. One of them, `c035`, has the human label *unclear*, so a *supported* prediction matches the human label on 31 of the 32. On the left, each point is the share whose majority label, over five samples, is still *supported*. On the right, the same sentences are compared with the marked sentence. That axis starts at 0.78 so the small gap is visible.
 
-![Line chart of 32 claims. The share still labeled supported starts at 1. Removing the highest-SHAP sentences drops it to about 0.81 after one sentence and about 0.66 after ten. Removing lowest-SHAP or random sentences leaves the share between about 0.91 and 1.](figures/removal.png)
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="figures/removal.png" alt="Line chart of 32 claims. The share still labeled supported starts at 1. Removing the highest-SHAP sentences drops it to about 0.81 after one sentence and about 0.66 after ten. Removing lowest-SHAP or random sentences leaves the share between about 0.91 and 1.">
+</td>
+<td width="50%" valign="top">
+<img src="figures/similarity.png" alt="Cosine similarity to the evidence span. The axis runs from 0.78 to 0.92. The highest-SHAP set starts at 0.88 and falls toward 0.84. The lowest-SHAP and random sets stay near 0.82.">
+</td>
+</tr>
+</table>
 
 Removing the single highest sentence leaves 26 of the 32 labels *supported*. Removing the ten highest leaves 21. At that last step the highest set contains 9.44 sentences on average, because only sentences with a positive value are removed. Removing the same number of lowest-valued sentences leaves 31, then 32. Removing random sentences leaves 29 to 32. The label sits in a few sentences, and removing the same count of other sentences leaves it in place.
 
 ## Only slightly closer to the marked sentence
 
-Taken together, the high-valued sentences sit only slightly nearer the marked sentence than the other sentences from the same chunks. Every retrieved sentence is already close to the span: cosine similarity averages 0.826, and the least similar sentence in the pool is still at 0.689. The axis below starts at 0.78 so the small gap is visible.
-
-![Cosine similarity to the evidence span. The axis runs from 0.78 to 0.92. The highest-SHAP set starts at 0.88 and falls toward 0.84. The lowest-SHAP and random sets stay near 0.82.](figures/similarity.png)
+Taken together, the high-valued sentences sit only slightly nearer the marked sentence than the other sentences from the same chunks. Every retrieved sentence is already close to the span: cosine similarity averages 0.826, and the least similar sentence in the pool is still at 0.689.
 
 The single highest sentence averages 0.882, against 0.819 for one random sentence and 0.820 for the lowest sentence. It is closer than the random sentence in 27 of 32 claims. Once the set holds ten sentences, the mean gap is 0.014. Inside a claim, the rank correlation between the SHAP value and this similarity averages 0.193.
 
