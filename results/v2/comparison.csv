@@ -1,0 +1,3 @@
+condition,claims,finished,accepted,abstained,correct_accepts,wrong_accepts,v1_correct,checker_disagreements,quotes_failed,mean_rounds,rescued_by_second_round,rescued_and_correct
+v2a,67,67,12,55,11,1,53,17,48,1.0,0,0
+v2b,67,67,19,48,15,4,53,13,46,1.776,7,4

@@ -154,7 +154,7 @@ def condition_summary(name: str, rows: list[dict], rescued: set[str] | None = No
         row for row in present
         if row["extractor_label"] and row["checker_label"] and row["extractor_label"] != row["checker_label"]
     ]
-    quote_failures = [row for row in present if row["quotes_ok"] == "False"]
+    quote_failures = [row for row in present if row["quotes_ok"] is False or row["quotes_ok"] == "False"]
     rounds = [int(row["rounds"]) for row in present if row["rounds"] != ""]
     rescued_rows = [row for row in rows if rescued and row["claim_id"] in rescued and row["decision"] == "accept"]
     return {

@@ -1,0 +1,68 @@
+condition,claim_id,gold,v1_label,v1_match,evidence_in_topk,decision,label,match,rounds,extractor_label,checker_label,quotes_ok,token_probability
+v2b,c001,supported,supported,True,True,accept,supported,True,1,supported,supported,True,1.0
+v2b,c002,unclear,not supported,False,True,abstain,,,2,not supported,not supported,False,1.0
+v2b,c003,supported,supported,True,False,accept,supported,True,1,supported,supported,True,1.0
+v2b,c004,unclear,not supported,False,True,accept,not supported,False,2,not supported,not supported,True,0.9997024978758172
+v2b,c005,supported,supported,True,True,abstain,,,2,supported,supported,False,0.9879576183950548
+v2b,c006,not supported,not supported,True,False,abstain,,,2,not supported,supported,False,1.0
+v2b,c007,supported,supported,True,False,abstain,,,2,supported,supported,False,0.9999732974756593
+v2b,c008,supported,supported,True,False,abstain,,,2,supported,supported,False,1.0
+v2b,c009,supported,supported,True,True,accept,supported,True,1,supported,supported,True,1.0
+v2b,c010,not supported,not supported,True,True,abstain,,,2,not supported,supported,False,1.0
+v2b,c011,unclear,not supported,False,False,abstain,,,2,not supported,supported,False,0.9497471874831002
+v2b,c012,supported,supported,True,True,abstain,,,2,supported,supported,False,0.9999885559736865
+v2b,c013,supported,not supported,False,False,abstain,,,2,not supported,supported,False,1.0
+v2b,c014,not supported,not supported,True,False,abstain,,,2,not supported,not supported,False,0.9999351522491907
+v2b,c015,supported,supported,True,True,accept,supported,True,1,supported,supported,True,0.9995614060249232
+v2b,c016,supported,supported,True,True,abstain,,,2,supported,supported,False,0.9999389667063573
+v2b,c017,not supported,supported,False,False,abstain,,,2,supported,supported,False,0.9998512378728234
+v2b,c018,not supported,not supported,True,True,accept,not supported,True,2,not supported,not supported,True,1.0
+v2b,c019,supported,supported,True,True,abstain,,,2,supported,supported,False,0.9703208596821712
+v2b,c020,supported,supported,True,True,accept,supported,True,2,supported,supported,True,0.9767605011949809
+v2b,c021,supported,supported,True,True,abstain,,,2,supported,supported,False,0.9999923706345725
+v2b,c022,not supported,not supported,True,False,abstain,,,2,not supported,supported,True,1.0
+v2b,c023,not supported,not supported,True,False,abstain,,,2,not supported,supported,False,1.0
+v2b,c024,supported,supported,True,False,abstain,,,2,supported,supported,False,0.9999847413273523
+v2b,c025,supported,not supported,False,False,abstain,,,2,not supported,supported,False,1.0
+v2b,c026,supported,supported,True,True,abstain,,,2,supported,supported,False,0.9993974594325504
+v2b,c027,supported,supported,True,True,accept,supported,True,1,supported,supported,True,1.0
+v2b,c028,supported,supported,True,True,accept,supported,True,1,supported,supported,True,1.0
+v2b,c029,supported,supported,True,True,abstain,,,2,supported,supported,False,0.9999885559736865
+v2b,c030,supported,supported,True,False,abstain,,,2,supported,supported,False,0.9994165216081198
+v2b,c031,supported,supported,True,True,abstain,,,2,supported,supported,False,0.9999961853100103
+v2b,c032,supported,supported,True,True,abstain,,,2,supported,supported,False,0.9990277251630383
+v2b,c033,supported,supported,True,True,accept,supported,True,1,supported,supported,True,0.9999885559736865
+v2b,c034,supported,supported,True,True,accept,supported,True,1,supported,supported,True,1.0
+v2b,c035,unclear,supported,False,True,accept,supported,False,1,supported,supported,True,1.0
+v2b,c036,supported,not supported,False,False,abstain,,,2,not supported,not supported,False,0.9999885559736865
+v2b,c037,not supported,not supported,True,False,abstain,,,2,not supported,supported,False,1.0
+v2b,c038,supported,supported,True,False,abstain,,,2,supported,supported,False,0.9999618537549303
+v2b,c039,supported,supported,True,False,abstain,,,2,supported,supported,False,0.9999465956643435
+v2b,c040,unclear,not supported,False,True,abstain,,,2,not supported,not supported,False,0.9990696469142315
+v2b,c041,supported,supported,True,True,abstain,,,2,supported,supported,False,0.9999961853100103
+v2b,c042,not supported,not supported,True,True,accept,not supported,True,1,not supported,not supported,True,1.0
+v2b,c043,supported,supported,True,True,accept,supported,True,1,supported,supported,True,1.0
+v2b,c044,supported,supported,True,True,abstain,,,2,supported,supported,False,0.9999732974756593
+v2b,c045,supported,supported,True,False,abstain,,,2,not supported,unclear,True,0.5610647246831892
+v2b,c046,unclear,unclear,True,False,abstain,,,2,unclear,unclear,False,0.9966981207034192
+v2b,c047,supported,supported,True,True,accept,supported,True,1,supported,supported,True,1.0
+v2b,c048,not supported,not supported,True,False,abstain,,,2,not supported,supported,False,0.9999923706345725
+v2b,c049,supported,supported,True,True,abstain,,,2,supported,supported,False,0.9998741229134197
+v2b,c050,supported,supported,True,True,accept,supported,True,1,supported,supported,True,0.9999885559736865
+v2b,c051,supported,supported,True,True,abstain,,,2,supported,supported,False,0.9999618537549303
+v2b,c052,supported,supported,True,True,abstain,,,2,supported,supported,False,1.0
+v2b,c053,not supported,not supported,True,False,abstain,,,2,not supported,supported,False,1.0
+v2b,c054,supported,supported,True,True,abstain,,,2,supported,supported,False,1.0
+v2b,c055,supported,supported,True,True,abstain,,,2,supported,supported,False,0.9999275233785103
+v2b,c056,supported,supported,True,False,abstain,,,2,not supported,unclear,False,0.4999320543696559
+v2b,c057,supported,supported,True,True,abstain,,,2,supported,supported,False,0.9968540190599784
+v2b,c058,supported,supported,True,True,abstain,,,2,supported,supported,False,0.9983534079039716
+v2b,c059,supported,supported,True,True,accept,supported,True,1,supported,supported,True,0.9999694828875315
+v2b,c060,unclear,not supported,False,True,accept,not supported,False,1,not supported,not supported,True,1.0
+v2b,c061,supported,supported,True,False,abstain,,,2,unclear,unclear,False,0.7758740286416893
+v2b,c062,supported,supported,True,True,abstain,,,2,supported,supported,False,0.9700987962764681
+v2b,c063,supported,supported,True,True,abstain,,,2,supported,supported,False,0.9999656683139552
+v2b,c064,not supported,supported,False,False,abstain,,,2,not supported,not supported,False,0.9999732974756593
+v2b,c065,not supported,supported,False,False,abstain,,,2,unclear,unclear,False,0.6789116676522724
+v2b,c066,supported,not supported,False,False,accept,not supported,False,2,not supported,not supported,True,0.9999961853100103
+v2b,c067,unclear,not supported,False,False,abstain,,,2,not supported,supported,False,1.0

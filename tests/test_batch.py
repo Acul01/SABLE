@@ -34,6 +34,17 @@ class BatchTests(unittest.TestCase):
         self.assertEqual(summary["correct_accepts"], 1)
         self.assertEqual(summary["checker_disagreements"], 1)
         self.assertEqual(summary["quotes_failed"], 1)
+        boolean_false = condition_summary("v2a", [{
+            "claim_id": "c009",
+            "decision": "abstain",
+            "match": "",
+            "extractor_label": "supported",
+            "checker_label": "supported",
+            "quotes_ok": False,
+            "rounds": "1",
+            "v1_match": "True",
+        }])
+        self.assertEqual(boolean_false["quotes_failed"], 1)
         self.assertEqual(summary["rescued_by_second_round"], 1)
         self.assertEqual(summary["rescued_and_correct"], 1)
 
